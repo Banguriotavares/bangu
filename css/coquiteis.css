@@ -1,0 +1,395 @@
+@charset "UTF-8";
+
+#logo {
+    font-size: 60px;
+    top: 140px;
+    left: 2.8em;
+}
+
+#logo2 {
+    font-size: 30px;
+    top: 168px;
+    left: 15.2em;
+}
+
+#img img {
+    left: 25px;
+}
+
+@media (max-width: 1100px) {
+  h1 {
+    left: -185px;
+}
+}
+
+@media (max-width: 980px) {
+  h1 {
+    margin: 0 50% 0 50%;
+    top: 10px;
+    left: -2.6em;
+}
+}
+
+h3 {
+    margin: 295px 0 0 15px;
+}
+
+.caixa1, .caixa2, .caixa3, .caixa4 {
+    top: 300px;
+}
+
+@media (max-width: 1100px) {
+  .caixa1, .caixa2, .caixa3 {
+    top: 400px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa1, .caixa2 {
+    top: 450px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa3 {
+    top: 1033px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa1, .caixa2, .caixa3 {
+    top: 400px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa1, .caixa2 {
+    top: 550px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa3 {
+    top: 1150px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa4 {
+    top: 977px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa4 {
+    top: 1033px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa4 {
+    top: 977px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa4 {
+    top: 1150px;
+}
+}
+
+.caixa5, .caixa6, .caixa7 {
+    top: 872px;
+}
+
+@media (max-width: 1100px) {
+  .caixa5 {
+    top: 977px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa5 {
+    top: 1620px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa6 {
+    top: 977px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa6 {
+    top: 1650px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa5 {
+    top: 977px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa5 {
+    top: 1777px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa6 {
+    top: 977px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa6 {
+    top: 1777px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa7 {
+    top: 1583px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa7 {
+    top: 2180px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa7 {
+    top: 1583px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa7 {
+    top: 2350px;
+}
+}
+
+.caixa8 {
+    top: 900px;
+}
+
+@media (max-width: 1100px) {
+  .caixa8 {
+    top: 1530px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa8 {
+    top: 2184px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa8 {
+    top: 1530px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa8 {
+    top: 2325px;
+}
+}
+
+.caixa9 {
+    top: 1419px;
+}
+
+@media (max-width: 1100px) {
+  .caixa9 {
+    top: 1505px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa9 {
+    top: 2765px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa9 {
+    top: 1505px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa9 {
+    top: 2950px;
+}
+}
+
+.caixa10 {
+    top: 1392px;
+}
+
+@media (max-width: 1100px) {
+  .caixa10 {
+    top: 2160px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa10 {
+    top: 2795px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa10 {
+    top: 2160px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa10 {
+    top: 2950px;
+}
+}
+
+.caixa11 {
+    top: 1445px;
+}
+
+@media (max-width: 1100px) {
+  .caixa11 {
+    top: 2133px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa11 {
+    top: 3350px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa11 {
+    top: 2133px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa11 {
+    top: 3527px;
+}
+}
+
+.caixa12 {
+    top: 1500px;
+}
+
+@media (max-width: 1100px) {
+  .caixa12 {
+    top: 2083px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa12 {
+    top: 3407px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa12 {
+    top: 2083px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa12 {
+    top: 3577px;
+}
+}
+
+.caixa13, .caixa14 {
+    top: 1968px;
+}
+
+@media (max-width: 1100px) {
+  .caixa13 {
+    top: 2765px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa13 {
+    top: 3935px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa13 {
+    top: 2765px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa13 {
+    top: 4102px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa14 {
+    top: 2710px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa14 {
+    top: 3992px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa14 {
+    top: 2710px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa14 {
+    top: 4150px;
+}
+}
+
+#roda {
+    margin-top: 2505px;
+}
+
+@media (max-width: 1100px) {
+  #roda {
+    margin-top: 3170px;
+}
+}
+
+@media (max-width: 980px) {
+  #roda {
+    margin-top: 8145px;
+}
+}
+
+@media (max-width: 979px) {
+  #roda {
+    margin-top: 3290px;
+}
+}
+
+@media (max-width: 801px) {
+  #roda {
+    margin-top: 4743px;
+}
+}
