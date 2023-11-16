@@ -1,9 +1,23 @@
 @charset "UTF-8";
 
-#logo {
+h1 {
     font-size: 60px;
     top: 140px;
     left: -1.8em;
+}
+
+h3 {
+    margin: 295px 0 0 15px;
+}
+
+h2 {
+    position: absolute;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: .092em;
+    color: white;
+    margin: 113px 0 0 30px;
 }
 
 #logo2 {
@@ -29,20 +43,6 @@
     left: -207px;
     top: 125px;
 }
-}
-
-h2 {
-    position: absolute;
-    font-family: 'Fjalla One', sans-serif;
-    font-weight: 500;
-    font-size: 24px;
-    letter-spacing: .092em;
-    color: white;
-    margin: 113px 0 0 30px;
-}
-
-h3 {
-    margin: 295px 0 0 15px;
 }
 
 .box1, .box2, .box13, .box4 {

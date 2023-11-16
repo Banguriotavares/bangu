@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-#logo {
+h1 {
     font-size: 60px;
     top: 140px;
     left: -1.8em;
@@ -31,7 +31,7 @@
 }
 }
 
-h2 {
+h4 {
     position: absolute;
     font-family: 'Fjalla One', sans-serif;
     font-weight: 500;
