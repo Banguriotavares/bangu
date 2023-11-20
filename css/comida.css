@@ -1,23 +1,15 @@
 @charset "UTF-8";
 
-h1 {
+.parte1 {
     font-size: 60px;
     top: 140px;
     left: -1.8em;
 }
 
-#logo2 {
+.parte2 {
     font-size: 30px;
     top: 168px;
     left: 6em;
-}
-
-@media (max-width: 1100px) {
-  #logo {
-    top: 141px;
-    left: -0.9em;
-    font-size: 60px;
-}
 }
 
 #img img {
@@ -31,15 +23,14 @@ h1 {
 }
 }
 
-h4 {
+h2 {
     position: absolute;
     font-family: 'Fjalla One', sans-serif;
     font-weight: 500;
     font-size: 24px;
     letter-spacing: .092em;
     color: white;
-    margin: 113px 0 0 25px;
-    z-index: 2;
+    margin: 113px 0 0 30px;
 }
 
 h3 {
@@ -104,7 +95,7 @@ h3 {
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4 {
-    top: 475px;
+    top: 545px;
 }
 
 @media (max-width: 1100px) {
@@ -156,7 +147,7 @@ h3 {
 }
 
 .caixa5, .caixa6, .caixa7 {
-    top: 1042px;
+    top: 1107px;
 }
 
 @media (max-width: 1100px) {
@@ -232,7 +223,7 @@ h3 {
 }
 
 .caixa8 {
-    top: 1070px;
+    top: 1133px;
 }
 
 @media (max-width: 1100px) {
@@ -260,7 +251,7 @@ h3 {
 }
 
 .caixa9 {
-    top:  1664px;
+    top:  1694px;
 }
 
 @media (max-width: 1100px) {
@@ -288,7 +279,7 @@ h3 {
 }
 
 .caixa10, .caixa11, .caixa12 {
-    top:  1612px;
+    top:  1670px;
 }
 
 @media (max-width: 1100px) {
@@ -364,7 +355,7 @@ h3 {
 }
 
 .caixa13 {
-    top: 2258px;
+    top: 2283px;
 }
 
 @media (max-width: 1100px) {
@@ -392,7 +383,7 @@ h3 {
 }
 
 .caixa14, .caixa15 {
-    top: 2205px;
+    top: 2257px;
 }
 
 @media (max-width: 1100px) {
@@ -444,7 +435,7 @@ h3 {
 }
 
 .caixa16 {
-    top: 2179px;
+    top: 2208px;
 }
 
 @media (max-width: 1100px) {
@@ -472,7 +463,7 @@ h3 {
 }
 
 #roda {
-    margin-top: 2895px;
+    margin-top: 2885px;
 }
 
 @media (max-width: 1100px) {

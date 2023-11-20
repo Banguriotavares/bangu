@@ -14,23 +14,45 @@
 }
 }
 
-h1 {
+.parte1 {
     font-size: 80px;
     top: 310px;
     left: -3em;
 }
 
-#logo2 {
+.parte2 {
     font-size: 50px;
     top: 340px;
     left: 2.7em;
 }
-
 @media (max-width: 1100px) {
   #logo {
     top: 320px;
     left: -2.3em;
     font-size: 80px;
+}
+}
+
+h2 {
+    position: relative;
+    font-family: sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+    letter-spacing: .192em;
+    color: white;
+    margin-top: 95px;
+}
+
+@media (max-width: 1100px) {
+  h2 {
+    font-size: 60px;
+}
+}
+
+@media (max-width: 980px) {
+  h2 {
+    color: white;
+    font-size: 35px;
 }
 }
 

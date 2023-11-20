@@ -1,6 +1,12 @@
 @charset "UTF-8";
 
-#logo2 {
+.parte1 {
+    font-size: 60px;
+    top: 140px;
+    left: 2.8em;
+}
+
+.parte2 {
     font-size: 30px;
     top: 168px;
     left: 15.2em;
@@ -8,12 +14,6 @@
 
 #img img {
     left: 25px;
-}
-
-h1 {
-    font-size: 60px;
-    top: 140px;
-    left: 2.8em;
 }
 
 h3 {
