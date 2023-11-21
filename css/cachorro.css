@@ -12,16 +12,32 @@
     left: 15.2em;
 }
 
+@media (max-width: 1100px) {
+  .parte1 {
+    top: 141px;
+    left: -2em;
+    font-size: 60px;
+}
+}
+
+@media (max-width: 1100px) {
+  .parte2 {
+    top: 168px;
+    left: 5.7em;
+    font-size: 30px;
+}
+}
+
 #img img {
     left: 25px;
 }
 
-h2 {
-    margin: 1240px 0 0 150px;
+@media (max-width: 1100px) {
+   #img img, #img1 img {
+    margin: 0 50% 0 50%;
+    left: -267px;
+    top: 125px;
 }
-
-h3 {
-    margin: 295px 0 0 15px;
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4 {
@@ -66,7 +82,7 @@ h3 {
 
 @media (max-width: 1100px) {
   .caixa4 {
-    top: 995px;
+    top: 988px;
 }
 }
 
@@ -89,12 +105,12 @@ h3 {
 }
 
 .caixa5 {
-    top: 893px;
+    top: 886px;
 }
 
 @media (max-width: 1100px) {
   .caixa5 {
-    top: 1000px;
+    top: 1001px;
 }
 }
 
@@ -117,12 +133,12 @@ h3 {
 }
 
 .caixa6 {
-    top: 838px;
+    top: 842px;
 }
 
 @media (max-width: 1100px) {
   .caixa6 {
-    top: 943px;
+    top: 940px;
 }
 }
 
@@ -145,12 +161,12 @@ h3 {
 }
 
 #roda {
-    margin-top: 1503px;
+    margin-top: 1557px;
 }
 
 @media (max-width: 1100px) {
   #roda {
-    margin-top: 1525px;
+    margin-top: 1695px;
 }
 }
 
