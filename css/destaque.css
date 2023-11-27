@@ -14,6 +14,13 @@
 }
 }
 
+@media (max-width: 979px) {
+   #img img, #img1 img {
+    left: -167px;
+    top: 100px;
+}
+}
+
 .parte1 {
     font-size: 80px;
     top: 310px;

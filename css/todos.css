@@ -41,6 +41,7 @@ body {
 @media (max-width: 979px) {
   #menu {
    zoom: 100%;
+   height: 50px;
 }  
 }
         
@@ -104,7 +105,7 @@ nav li a, nav li #Menu {
 @media (max-width: 979px) {
   nav li a, nav li #Menu {
     left: 15px;
-    top: 5px;
+    top: 0px;
     z-index: 2;
 }
 }
@@ -309,9 +310,21 @@ h5 {
     left: 275px;
 }
 
+.box1, .box2, .box13, .box4 {
+    top: 295px;
+    position: absolute;
+    height: 135px;
+}
+
 
 
 /*Posição horizontal das caixas em telas de ate 1100px*/
+
+@media (max-width: 1100px) {
+  .box1, .box2, .box4, .box13 {
+    margin: 0 50% 0 50%;
+}
+}
 
 @media (max-width: 1100px) {
    .box1, .box13 {
@@ -324,6 +337,18 @@ h5 {
   .box2, .box4 {
     margin: 0 50% 0 50%;
     left: 1.2em;
+}
+}
+
+@media (max-width: 1100px) {
+  .box1, .box2 {
+    top: 300px;
+}
+}
+
+@media (max-width: 1100px) {
+  .box4, .box13 {
+    top: 480px;
 }
 }
 
@@ -365,9 +390,34 @@ h5 {
 }
 }
 
+@media (max-width: 980px) {
+  .box1, .box2, .box13, .box4 {
+    width: 240px;
+}
+}
+
+@media (max-width: 980px) {
+  .box1, .box2 {
+    top: 360px;
+}
+}
+
+@media (max-width: 980px) {
+  .box4, .box13 {
+    top: 546px;
+}
+}
+
+
 
 
 /*Posição horizontal das caixas em telas de ate 979px*/
+
+@media (max-width: 980px) {
+  .box1, .box2, .box13, .box4 {
+    width: 363px;
+}
+}
 
 @media (max-width: 979px) {
    .box1, .box13 {
@@ -380,6 +430,19 @@ h5 {
   .box2, .box4 {
     margin: 0 50% 0 50%;
     left: 0.9em;
+
+}
+}
+
+@media (max-width: 979px) {
+  .box1, .box2 {
+    top: 300px;
+}
+}
+
+@media (max-width: 979px) {
+  .box4, .box13 {
+    top: 480px;
 }
 }
 
