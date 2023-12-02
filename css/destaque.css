@@ -14,16 +14,6 @@
 }
 }
 
-@media (max-width: 979px) {
-   #img img, #img1 img {
-    margin: 0 50% 0 50%;
-    left: -167px;
-    top: 90px;
-    width: 325px; 
-    height: 220px;
-}
-}
-
 .parte1 {
     font-size: 80px;
     top: 310px;
@@ -108,6 +98,12 @@ h2 {
 }
 }
 
+@media (max-width: 979px) {
+  h2 {
+    font-size: 60px;
+}
+}
+
 .sub2 {
     position: absolute;
     margin: 1020px 0 0 320px;   
@@ -135,8 +131,8 @@ h2 {
 
 @media (max-width: 979px) {
  .sub2 {
-    top: 1900px;
-    left: -200px;
+    top: 1100px;
+    left: -350px;
 }
 }
 
@@ -168,8 +164,8 @@ h2 {
 
 @media (max-width: 979px) {
  .sub3 {
-    top: 1520px;
-    left: 100px;
+    top: 40px;
+    left: -170px;
 }
 }
 
@@ -224,13 +220,14 @@ h2 {
 
 @media (max-width: 979px) {
   .caixa4 {
-    top: 1170px;
+    opacity: 0%;
 }
 }
 
 @media (max-width: 801px) {
   .caixa3, .caixa4 {
     top: 1222px;
+    opacity: 100%;
 }
 }
 
@@ -271,13 +268,13 @@ h2 {
 
 @media (max-width: 979px) {
   .caixa5, .caixa6, .caixa7 {
-    top: 2100px;
+    top: 1300px;
 }
 }
 
 @media (max-width: 979px) {
   .caixa8 {
-    top: 2850px;
+    opacity: 0%;
 }
 }
 
@@ -296,6 +293,7 @@ h2 {
 @media (max-width: 801px) {
   .caixa8 {
     top: 2920px;
+    opacity: 100%;
 }
 }
 
@@ -336,13 +334,14 @@ h2 {
 
 @media (max-width: 979px) {
   .caixa9, .caixa10, .caixa11 {
-    top: 3770px;
+    top: 2130px;
 }
 }
 
 @media (max-width: 979px) {
   .caixa12 {
-    top: 4575px;
+    top: 0px;
+    opacity: 0%;
 }
 }
 
@@ -361,6 +360,7 @@ h2 {
 @media (max-width: 801px) {
   .caixa12 {
     top: 4695px;
+    opacity: 100%;
 }
 }
 
@@ -382,7 +382,7 @@ h2 {
 
 @media (max-width: 979px) {
   #roda {
-    margin-top: 5370px;
+    margin-top: 2855px;
 }
 }
 
