@@ -105,7 +105,7 @@
 
 @media (max-width: 801px) {
   .caixa1, .caixa2 {
-    top: 825px;
+    top: 775px;
 }
 }
 
@@ -147,7 +147,7 @@
 
 @media (max-width: 801px) {
   .caixa4 {
-    top: 1430px;
+    top: 1375px;
 }
 }
 
@@ -183,7 +183,7 @@
 
 @media (max-width: 801px) {
   .caixa5 {
-    top: 1851px;
+    top: 1800px;
 }
 }
 
@@ -207,7 +207,7 @@
 
 @media (max-width: 801px) {
   .caixa6 {
-    top: 2034px;
+    top: 1974px;
 }
 }
 
@@ -231,7 +231,7 @@
 
 @media (max-width: 801px) {
   .caixa7 {
-    top: 2402px;
+    top: 2465px;
 }
 }
 
@@ -259,7 +259,7 @@
 
 @media (max-width: 801px) {
   .caixa8 {
-    top: 2663px;
+    top: 2565px;
 }
 }
 
@@ -287,6 +287,6 @@
 
 @media (max-width: 801px) {
   #roda {
-    margin-top: 5730px;
+    margin-top: 3300px;
 }
 }
