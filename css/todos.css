@@ -267,13 +267,6 @@ h5 {
 }
 
 
-
-@media (max-width: 979px) {
-  .box1, .box2, .box13, .box4 {
-   width: 363px;
-}
-}
-
 @media (max-width: 979px) {
   .box1 img, .box2 img, .box13 img, .box4 img {
    width: 363px;
@@ -463,7 +456,11 @@ h5 {
     left: 8.8em; 
 }
 }
-
+@media (max-width: 979px) {
+  .box1, .box2, .box13, .box4 {
+   width: 363px;
+}
+}
 
 
 /*Posição horizontal das caixas em telas de ate 801px*/
