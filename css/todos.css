@@ -675,6 +675,12 @@ footer {
 }  
 }
 
+@media (max-width: 801px) {
+  footer {
+   zoom: 80%;
+}  
+}
+
 #img01 {
     position: absolute;
     margin: 0 50% 0 50%;

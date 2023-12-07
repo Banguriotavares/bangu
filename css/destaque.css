@@ -178,8 +178,9 @@ h2 {
 
 @media (max-width: 801px) {
  .sub3 {
-    top: 1070px;
-    left: -50px;
+    margin: 0 50% 0 50%;
+    top: 2950px;
+    left: -200px;
 }
 }
 
