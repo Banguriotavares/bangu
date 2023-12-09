@@ -78,7 +78,7 @@
 h2 {
     position: relative;
     font-family: sans-serif;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 500;
     letter-spacing: .192em;
     color: white;
@@ -113,7 +113,7 @@ h2 {
 
 .sub2 {
     position: absolute;
-    margin: 1020px 0 0 320px;   
+    margin: 1120px 0 0 250px;   
 }
 
 @media (max-width: 1100px) {
@@ -152,7 +152,7 @@ h2 {
 
 .sub3 {
     position: absolute;
-    margin: 1880px 0 0 320px;   
+    margin: 1980px 0 0 250px;   
 }
 
 @media (max-width: 1100px) {
@@ -246,7 +246,7 @@ h2 {
 }
 
 .caixa5, .caixa6, .caixa7, .caixa8 {
-    top: 1255px;
+    top: 1355px;
 }
 
 @media (max-width: 1100px) {
@@ -312,7 +312,7 @@ h2 {
 }
 
 .caixa9, .caixa10, .caixa11, .caixa12 {
-    top: 2100px;
+    top: 2200px;
 }
 
 @media (max-width: 1100px) {
@@ -379,7 +379,7 @@ h2 {
 }
 
 #roda {
-    margin-top: 2762px;
+    margin-top: 2902px;
 }
 
 @media (max-width: 1100px) {
