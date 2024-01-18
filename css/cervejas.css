@@ -3,13 +3,13 @@
 .parte1 {
     font-size: 60px;
     top: 140px;
-    left: 2.8em;
+    left: 3em;
 }
 
 .parte2 {
     font-size: 30px;
     top: 168px;
-    left: 15.2em;
+    left: 15.6em;
 }
 
 @media (max-width: 1100px) {
@@ -61,7 +61,7 @@
 }
 
 #img img {
-    left: 25px;
+    left: 40px;
 }
 
 @media (max-width: 1100px) {
