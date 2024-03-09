@@ -1,0 +1,755 @@
+@charset "UTF-8";
+
+.parte1, .parte2 {
+    position: absolute;
+    color: #ED3A1E;
+    letter-spacing: .092em;
+    margin: 0 50% 0 50%;
+}
+
+.parte1 {
+    font-size: 58px;
+    top: 63px;
+    left: -2.3em;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.parte2 {
+    font-size: 40px;
+    top: 85px;
+    left: 1.5em;
+    font-family:  sans-serif;
+}
+
+@media (max-width: 1100px) {
+  .parte1 {
+    top: 63px;
+    left: -2em;
+    font-size: 60px;
+}
+}
+
+@media (max-width: 1100px) {
+  .parte2 {
+    top: 95px;
+    left: 2.6em;
+    font-size: 30px;
+}
+}
+
+@media (max-width: 980px) {
+  .parte1 {
+    font-size: 50px;
+    top: 63px;
+    left: -2em;
+}
+}
+
+@media (max-width: 980px) {
+  .parte2 {
+    font-size: 25px;
+    top: 92px;
+    left: 2.8em;
+}
+}
+
+@media (max-width: 979px) {
+  .parte1 {
+     top: 63px;
+    left: -2em;
+    font-size: 60px;
+}
+}
+
+@media (max-width: 979px) {
+  .parte2 {
+    top: 95px;
+    left: 2.6em;
+    font-size: 30px;
+}
+}
+
+@media (max-width: 801px) {
+  .parte1 {
+    font-size: 50px;
+    top: 63px;
+    left: -2em;
+}
+}
+
+@media (max-width: 801px) {
+  .parte2 {
+    font-size: 25px;
+    top: 92px;
+    left: 2.8em;
+}
+}
+
+h1 {
+    position: absolute;
+    margin: 0 50% 0 50%; 
+    color: white;
+    font-family: sans-serif;
+    letter-spacing: .192em;
+    font-weight: 500;
+    top: 145px;
+    left: -515px;
+    font-size: 55px;
+}
+
+@media (max-width: 1100px) {
+  h1 {
+    margin: 0 50% 0 50%;
+    font-size: 45px;
+    top: 287px;
+    left: -350px;
+    width: 300px;
+}
+}
+
+@media (max-width: 980px) {
+  h1 {
+    margin: 0 50% 0 50%;
+    font-size: 35px;
+    top: 370px;
+    left: -200px;
+    color: white;
+}
+}
+
+@media (max-width: 979px) {
+  h1 {
+    margin: 0 50% 0 50%;
+    font-size: 45px;
+    top: 287px;
+    left: -350px;
+    width: 300px;
+}
+}
+
+@media (max-width: 801px) {
+  h1 {
+    margin: 0 50% 0 50%;
+    font-size: 35px;
+    top: 370px;
+    left: -200px;
+    color: white;
+}
+}
+
+h2 {
+    position: relative;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    letter-spacing: .192em;
+    color: #C90000;
+    margin-top: 95px;
+}
+
+@media (max-width: 1100px) {
+  h2 {
+    font-size: 60px;
+}
+}
+
+@media (max-width: 980px) {
+  h2 {
+    color: white;
+    font-size: 35px;
+}
+}
+
+@media (max-width: 979px) {
+  h2 {
+    font-size: 60px;
+}
+}
+
+@media (max-width: 801px) {
+  h2 {
+    color: white;
+    font-size: 35px;
+}
+}
+
+h3 {
+    position: absolute;
+    font-family: 'Helvetica', serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+    padding: 9px 15px 10px 15px; 
+    border-radius: 20px 0 20px 0;
+    letter-spacing: .042em;
+    background-color: #8B0000;
+    margin: 295px 0 0 15px;
+}
+
+.caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13 {
+    width: 250px;
+    background-color: white;
+}
+
+
+/*Tamanho da largura em ate 1100px*/
+
+@media (max-width: 1100px) {
+  .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13 {
+    width: 233px;
+}
+}
+
+
+/*Tamanho da largura em ate 980px*/
+
+@media (max-width: 980px) {
+  .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13 {
+    width: 233px;
+}
+}
+
+
+/*Tamanho da largura em ate 801px*/
+
+@media (max-width: 801px) {
+  .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13 {
+    width: 210px;
+}
+}
+
+
+
+/*Posição horizontal das caixas em telas grandes*/
+
+.caixa1, .caixa5, .caixa9, .caixa13 {
+    margin: 0 50% 0 50%;
+    left: -520px;
+}
+
+.caixa2, .caixa6, .caixa10 {
+    margin: 0 50% 0 50%;
+    left: -250px;
+}
+
+.caixa3, .caixa7, .caixa11 {
+    margin: 0 50% 0 50%;
+    left: 20px;
+}
+
+.caixa4, .caixa8, .caixa12 {
+    margin: 0 50% 0 50%;
+    left: 290px;
+}
+
+
+/*Posição horizontal das caixas em telas de ate 1100px*/
+
+@media (max-width: 1100px) {
+  .caixa1, .caixa4, .caixa7, .caixa10, .caixa13 {
+    margin: 0 50% 0 50%;
+    left: -23.3em;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa2, .caixa5, .caixa8, .caixa11 {
+    margin: 0 50% 0 50%;
+    left: -7.3em;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa3, .caixa6, .caixa9, .caixa12 {
+    margin: 0 50% 0 50%;
+    left: 8.8em; 
+}
+}
+
+
+/*Posição horizontal das caixas em telas de celulares*/
+
+@media (max-width: 980px) {
+  .caixa1, .caixa3, .caixa5, .caixa7, .caixa9, .caixa11, .caixa13, .box1, .box13 {
+    margin: 0 50% 0 50%;
+    left: -15.4em;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa2, .caixa4, .caixa6, .caixa8, .caixa10, .caixa12,  .box2, .box4 {
+    margin: 0 50% 0 50%;
+    left: 0.9em; 
+}
+}
+
+
+
+
+/*Posição horizontal das caixas em telas de ate 979px*/
+
+@media (max-width: 979px) {
+  .caixa1, .caixa4, .caixa7, .caixa10, .caixa13 {
+    margin: 0 50% 0 50%;
+    left: -23.3em;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa2, .caixa5, .caixa8, .caixa11 {
+    margin: 0 50% 0 50%;
+    left: -7.3em;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa3, .caixa6, .caixa9, .caixa12 {
+    margin: 0 50% 0 50%;
+    left: 8.8em; 
+}
+}
+
+
+/*Posição horizontal das caixas em telas de ate 801px*/
+
+@media (max-width: 801px) {
+  .caixa1, .caixa3, .caixa5, .caixa7, .caixa9, .caixa11, .caixa13 {
+    margin: 0 50% 0 50%;
+    left: -13.7em;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa2, .caixa4, .caixa6, .caixa8, .caixa10, .caixa12 {
+    margin: 0 50% 0 50%;
+    left: 0.7em; 
+}
+}
+
+.caixa1, .caixa2, .caixa3, .caixa4 {
+    top: 230px;
+}
+
+@media (max-width: 1100px) {
+  .caixa1, .caixa2, .caixa3 {
+    top: 230px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa1, .caixa2 {
+    top: 230px;
+}
+}
+
+
+@media (max-width: 980px) {
+  .caixa3 {
+    top: 786px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa1, .caixa2, .caixa3 {
+    top: 230px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa1, .caixa2 {
+    top: 230px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa4 {
+    top: 782px;
+}
+}
+
+@media (max-width: 980px) {
+   .caixa4 {
+    top: 786px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa4 {
+    top: 782px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa3, .caixa4 {
+    top: 806px;
+}
+}
+
+.caixa5, .caixa6, .caixa8 {
+    top: 780px;
+}
+
+.caixa7 {
+    top: 730px;
+}
+
+@media (max-width: 1100px) {
+  .caixa5 {
+    top: 782px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa6  {
+    top: 755px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa7 {
+    top: 1360px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa8 {
+    top: 1282px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa5 {
+    top: 1320px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa6 {
+    top: 1367px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa7 {
+    top: 1826px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa8 {
+    top: 1895px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa5 {
+    top: 782px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa6 {
+    top: 755px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa7 {
+    top: 1360px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa8 {
+    top: 1282px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa5 {
+    top: 1333px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa6 {
+    top: 1381px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa7 {
+    top: 1833px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa8 {
+    top: 1930px;
+}
+}
+
+.caixa9, .caixa12 {
+    top: 1280px;
+}
+
+.caixa10 {
+    top: 1305px;
+}
+
+.caixa11 {
+    top: 1254px;
+}
+
+@media (max-width: 1100px) {
+  .caixa9 {
+    top: 1280px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa10 {
+    top: 1885px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa11 {
+    top: 1783px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa9 {
+    top: 2355px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa10 {
+    top: 2400px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa11 {
+    top: 2937px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa9 {
+    top: 1280px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa10 {
+    top: 1885px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa11 {
+    top: 1783px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa9 {
+    top: 2357px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa10 {
+    top: 2453px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa11 {
+    top: 2933px;
+}
+}
+
+
+#img img {
+    position: absolute;
+    margin: 0 50% 0 50%;
+    top: 120px;
+    width: 140px; 
+    height: 90px;
+}
+
+#img1 img {
+    position: absolute;
+    margin: 0 50% 0 50%;
+    top: 195px;
+    left: -85px;
+}
+
+@media (max-width: 1100px) {
+   #img img, #img1 img {
+    left: -167px;
+    top: 100px;
+}
+}
+
+@media (max-width: 980px) {
+   #img img, #img1 img {
+    margin: 0 50% 0 50%;
+    left: -125px;
+    top: 100px;
+    width: 230px; 
+    height: 150px;
+}
+}
+
+@media (max-width: 979px) {
+   #img img, #img1 img {
+    margin: 0 50% 0 50%;
+    left: -267px;
+    top: 125px;
+    width: 140px; 
+    height: 90px;
+}
+}
+
+@media (max-width: 801px) {
+   #img img, #img1 img {
+    margin: 0 50% 0 50%;
+    left: -125px;
+    top: 100px;
+    width: 240px; 
+    height: 150px;
+}
+}
+
+#buteco ul li {
+    position: absolute;
+    padding: 0 0 25px 0;
+    border-radius: 10px;
+    overflow: hidden;
+    display: block;
+    text-decoration: none;
+}
+
+#caixa img {
+    width: 100%;
+    height: 317px;
+}
+
+#buteco p {
+    position: relative;
+    margin: 15px 25px 0 25px;
+    font-size: 16.5px;
+    letter-spacing: .055em;
+    line-height: 1.50;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+#preço {
+    margin-top: 40px;
+}
+
+
+#preço p, #preço2 p, #preço3 p {
+    position: relative;
+    letter-spacing: .092em;
+    line-height: 1.50;
+    font-weight: 700;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #C90000;
+}
+
+#preço p, #preço3 p {
+    font-size: 20px;
+}
+
+#preço2 p {
+    padding: 0 0 0 5px;
+    text-decoration: line-through;
+    font-size: 14px;
+}
+
+@media (max-width: 1100px) {
+  #preço2 p {
+    font-size: 10px;
+    left:-5px;
+}
+}
+
+@media (max-width: 980px) {
+  #preço2 p {
+    font-size: 10px;
+    left:-5px;
+}
+}
+
+#preço2 {
+    margin: 43px 0 0 -5px;
+}
+
+@media (max-width: 1100px) {
+  #preço2 p {
+    top: 5px;
+    
+}
+}
+
+#preço3 {
+    margin: -41px 0 0 84px;
+}
+
+@media (max-width: 1100px) {
+  #preço3 p {
+    margin: -21px 0 0 15px;
+    top: 20px;
+    padding: 0 0 20px 0;
+}
+}
+
+@media (max-width: 980px) {
+  #preço3 p {
+    left: -21px;
+    width: 200px;
+}
+}
+
+#de {
+    position: absolute;
+    width: 400px;
+    height: 7px;
+    margin-top: 312px;
+    background-color: #8B0000;
+}
+
+#roda {
+    margin-top: 1932px;
+    background-color: #C90000;
+}
+
+@media (max-width: 1100px) {
+  #roda {
+    margin-top: 2535px;
+}
+}
+
+@media (max-width: 980px) {
+  #roda {
+    margin-top: 3600px;
+}
+}
+
+@media (max-width: 979px) {
+  #roda {
+    margin-top: 2535px;
+}
+}
+
+@media (max-width: 801px) {
+  #roda {
+    margin-top: 3600px;
+}
+}
