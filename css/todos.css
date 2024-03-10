@@ -20,6 +20,18 @@ body {
    box-shadow: 0 0 3px  black;
    background-color: #8B0000;
 }
+
+@media (max-width: 980px) {
+  #menu {
+    zoom: 150%;
+}
+}
+
+@media (max-width: 979px) {
+  #menu {
+    zoom: 100%;
+}
+}
         
 nav ul {
    position: relative;
@@ -32,8 +44,7 @@ nav ul {
   nav ul {
    margin: 0 50% 0 50%;
    left: -460px;
-   width: 300px;
-   zoom: 150%;
+   width: 225px;
 } 
 }
 
