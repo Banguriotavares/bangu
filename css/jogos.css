@@ -13,7 +13,9 @@ h1 {
 
 .foto {
       position: absolute; 
-      margin: 81px 0 0 621px;
+      top: 181px;
+      left: -147px;
+      margin: 0 50% 0 50%;
 }
 
 #artilharia, #estatistica {
@@ -24,12 +26,16 @@ h1 {
       color: #B61B1B;
 }
 
-#artilharia {
-      margin: 114px 0 0 360px;
+#artilharia  {
+      margin: 0 50% 0 50%;
+      top: 193px;
+      left: -400px;
 }
 
 #estatistica {
-      margin: 114px 0 0 1000px;
+      margin: 0 50% 0 50%;
+      top: 193px;
+      left: 230px;
 }
 
  #artilharia1, #artilharia3, #artilharia5, #artilharia7, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #estatistica1, #estatistica3, #estatistica5, #estatistica7, #estatistica01, #estatistica03, #estatistica05, #estatistica07 {
@@ -48,38 +54,42 @@ h1 {
       color: white;
       font-size: 22px;
       list-style: none;
+      margin: 0 50% 0 50%;
 }
 
 #artilharia1, #artilharia01, #estatistica1, #estatistica01 {
-      margin-top: 165px;
+      margin: 0 50% 0 50%;
+      top: 265px;
 }
 
 #artilharia2, #artilharia02, #estatistica2, #estatistica02 {
-      margin-top: 209px;
+      margin: 0 50% 0 50%;
+      top: 309px;
 }
 
 #artilharia3, #artilharia03, #estatistica3, #estatistica03 {
-      margin-top: 251px;
+      top: 351px;
 }
 
 #artilharia4, #artilharia04, #estatistica4, #estatistica04 {
-      margin-top: 296px;
+      top: 396px;
 }
 
 #artilharia5, #artilharia05, #estatistica5, #estatistica05 {
-      margin-top: 340px;
+      top: 440px;
 }
 
 #artilharia6, #artilharia06, #estatistica6,  #estatistica06 {
-      margin-top: 383px;
+      top: 473px;
 }
 
 #artilharia7, #artilharia07, #estatistica7, #estatistica07 {
-      margin-top: 424px;
+      top: 524px;
 }
 
 #artilharia1, #artilharia2, #artilharia3, #artilharia4, #artilharia5, #artilharia6, #artilharia7 {
-      margin-left: 344px;
+      margin: 0 50% 0 50%;
+      left: -417px;
 }
 
 #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07 {
@@ -113,14 +123,14 @@ h1 {
 }
 
 .linha1, .linha7 {
-      margin-top: 220px; 
+      margin-top: 320px; 
 }
 .linha3, .linha9 {
-      margin-top: 307px;
+      margin-top: 407px;
 }
 
 .linha5, .linha11 {
-      margin-top: 394px;
+      margin-top: 494px;
 }
 
 .março, .abril, .maio, .julho, .outubro, .setembro, .junho, .agosto, .novembro, .desembro {
@@ -150,7 +160,7 @@ h1 {
 }
 
 .março {
-      margin-top: 508px;
+      margin-top: 608px;
 } 
 
 .abril {
