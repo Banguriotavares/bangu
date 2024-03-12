@@ -6,7 +6,7 @@ h1 {
     color: #ED3A1E;
     margin: 0 50% 0 50%;
     top: 80px;
-    left: -140px;
+    left: -100px;
     width: 305px;
     font-family: 'Fjalla One', sans-serif;
 }
@@ -38,32 +38,31 @@ h1 {
       left: 230px;
 }
 
- #artilharia1, #artilharia3, #artilharia5, #artilharia7, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #estatistica1, #estatistica3, #estatistica5, #estatistica7, #estatistica01, #estatistica03, #estatistica05, #estatistica07 {
+ #artilharia1, #artilharia3, #artilharia5, #artilharia7, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #estatistica1, #estatistica3, #estatistica5, #estatistica7, #estatistica01, #estatistica03, #estatistica05, #estatistica07, #artilharia2, #artilharia4, #artilharia6, #artilharia02, #artilharia04, #artilharia06, #estatistica2, #estatistica4, #estatistica6, #estatistica02, #estatistica04, #estatistica06 {
       position: absolute;
       letter-spacing: .092em;
       font-family: helvetica;
-      color: #B61B1B;
       font-size: 22px;
       list-style: none;
+ }
+
+ #artilharia1, #artilharia3, #artilharia5, #artilharia7, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #estatistica1, #estatistica3, #estatistica5, #estatistica7, #estatistica01, #estatistica03, #estatistica05, #estatistica07 {
+      color: #B61B1B;
 }
 
 #artilharia2, #artilharia4, #artilharia6, #artilharia02, #artilharia04, #artilharia06, #estatistica2, #estatistica4, #estatistica6, #estatistica02, #estatistica04, #estatistica06 {
-      position: absolute;
-      letter-spacing: .092em;
-      font-family: helvetica;
       color: white;
-      font-size: 22px;
-      list-style: none;
-      margin: 0 50% 0 50%;
+}
+
+#estatistica1, #estatistica2, #estatistica3, #estatistica4, #estatistica5, #estatistica6, #estatistica7 {
+      width: 300px;
 }
 
 #artilharia1, #artilharia01, #estatistica1, #estatistica01 {
-      margin: 0 50% 0 50%;
       top: 265px;
 }
 
 #artilharia2, #artilharia02, #estatistica2, #estatistica02 {
-      margin: 0 50% 0 50%;
       top: 309px;
 }
 
@@ -80,7 +79,7 @@ h1 {
 }
 
 #artilharia6, #artilharia06, #estatistica6,  #estatistica06 {
-      top: 473px;
+      top: 483px;
 }
 
 #artilharia7, #artilharia07, #estatistica7, #estatistica07 {
@@ -93,15 +92,18 @@ h1 {
 }
 
 #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07 {
-      margin-left: 494px;
+      margin: 0 50% 0 50%;
+      left: -267px;
 }
 
 #estatistica1, #estatistica2, #estatistica3, #estatistica4, #estatistica5, #estatistica6, #estatistica7 {
-      margin-left: 986px;
+      margin: 0 50% 0 50%;
+      left: 229px;
 }
 
 #estatistica01, #estatistica02, #estatistica03, #estatistica04, #estatistica05, #estatistica06, #estatistica07 {
-      margin-left: 1147px;
+      margin: 0 50% 0 50%;
+      left: 387px;
 }
 
 .linha1, .linha2, .linha3, .linha4, .linha5, .linha6, .linha7, .linha8, .linha9, .linha10, .linha11, .linha12 {
@@ -113,12 +115,14 @@ h1 {
 }
 
 .linha1, .linha2, .linha3, .linha4, .linha5, .linha6 {
-      margin-left: 329px;
+      margin: 0 50% 0 50%;
+      left: -429px;
       width: 205px;
 } 
 
 .linha7, .linha8, .linha9, .linha10, .linha11, .linha12 {
-      margin-left: 973px;
+      margin: 0 50% 0 50%;
+      left: 213px;
       width: 215px;
 }
 
@@ -132,6 +136,10 @@ h1 {
 .linha5, .linha11 {
       margin-top: 494px;
 }
+
+
+
+
 
 .março, .abril, .maio, .julho, .outubro, .setembro, .junho, .agosto, .novembro, .desembro {
       position: absolute;
@@ -164,38 +172,38 @@ h1 {
 } 
 
 .abril {
-      margin-top: 1188px;
+      margin-top: 1288px;
 }  
 
 .maio {
-      margin-top: 1546px;
+      margin-top: 1658px;
 }
 
 .junho {
-      margin-top: 1821px;
+      margin-top: 1937px;
 }
 
 .julho {
-      margin-top: 2324px;
+      margin-top: 2440px;
 }
 
 .agosto {
-      margin-top: 2596px;
+      margin-top: 2719px;
 }
 
 .setembro {
-      margin-top: 3099px;
+      margin-top: 3219px;
 }
 .outubro {
-      margin-top: 3374px;
+      margin-top: 3497px;
 }
 
 .novembro {
-      margin-top: 3649px;
+      margin-top: 3775px;
 }
 
 .desembro {
-      margin-top: 4152px;
+      margin-top: 4278px;
 }
 
 h6 {
@@ -291,47 +299,57 @@ h6 {
 }
 
 .março1, .março2, .março3, .abril1, .abril2, .abril3, .abril4, .maio1, .maio2, .maio3, .maio4, .junho1, .junho2, .junho3, .julho1, .julho2, .julho3, .julho4, .agosto1, .agosto2, .agosto3, .setembro1, .setembro2, .setembro3, .setembro4, .outubro1, .outubro2, .outubro3, .outubro4, .novembro1, .novembro2, .novembro3, .desembro1, .desembro2 {
-      margin-top: -50px;
+      margin: 0 50% 0 50%;
+      top: 70px;
 }
 
 .março4, .março5 {
-      margin-top: 270px;
+      margin: 0 50% 0 50%;
+      top: 370px;
 }
 
 .junho4,.junho5, .agosto4, .agosto5, .novembro4, .novembro5 {
-     margin-top: 175px;
+     margin: 0 50% 0 50%;
+      top: 270px;
 }
 
 .abril1, .maio1, .julho1, .setembro1, .outubro1 {
-     margin-left: 179px;
+     margin: 0 50% 0 50%;
+     left: -579px;
 }
 
 .março1, .junho1, .agosto1, .novembro1 {
-     margin-left: 329px;
+     margin: 0 50% 0 50%;
+     left: -430px;
 }
 
 .março4,.abril2, .maio2, .junho4, .julho2, .agosto4, .setembro2, .outubro2, .novembro4, .desembro1 {
-      margin-left: 475px;
+      margin: 0 50% 0 50%;
+      left: -282px;
 }
 
 .março2, .junho2, .agosto2, .novembro2 {
-      margin-left: 624px;
+      margin: 0 50% 0 50%;
+      left: -138px;
 }
 
 .abril3, .maio3, .julho3, .setembro3, .outubro3 {
-      margin-left: 765px;
+      margin: 0 50% 0 50%;
+      left: 5px;
 }
 
 .março5, .junho5, .agosto5, .novembro5, .desembro2 {
-      margin-left: 770px;
+      margin: 0 50% 0 50%;
 }
 
 .março3, .junho3, .agosto3, .novembro3 {
-      margin-left: 912px;
+      margin: 0 50% 0 50%;
+      left: 152px;
 }
 
 .abril4, .maio4, .julho4, .setembro4, .outubro4 {
-      margin-left: 1057px;
+      margin: 0 50% 0 50%;
+      left: 297px;
 }
 
 #dias p {
@@ -407,6 +425,6 @@ h6 {
 }
 
 #roda {
-  margin-top: 4450px;
+  margin-top: 4577px;
   background-color: #C90000;
 }
