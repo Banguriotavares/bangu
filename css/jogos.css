@@ -265,31 +265,37 @@ h6 {
 }
 
 #vertical3 {
-     margin-top: 310px;
+     top: 410px;
 }
 
 #vertical12 {
-     margin-top: 215px;
+     margin: 0 50% 0 50%;
+     top: 315px;
 }
 
 #vertical4, #vertical7 {
-      margin-left: 449px;
+      margin: 0 50% 0 50%;
+      left: -300px;
 }
 
 #vertical1, #vertical10 {
-      margin-left: 602px;
+      margin: 0 50% 0 50%;
+      left: -157px;
 }
 
 #vertical3, #vertical5, #vertical8, #vertical12, #vertical13 {
-      margin-left: 749px;
+      margin: 0 50% 0 50%;
+      left: -15px;
 }
 
 #vertical2, #vertical11 {
-      margin-left: 892px;
+      margin: 0 50% 0 50%;
+      left: 132px;
 }
 
 #vertical6, #vertical9 {
-      margin-left: 1031px;
+      margin: 0 50% 0 50%;
+      left: 273px;
 }
 
 .março1, .março2, .março3, .março4, .março5, .abril1, .abril2, .abril3, .abril4, .maio1, .maio2, .maio3, .maio4, .junho1, .junho2, .junho3, .junho4,.junho5, .julho1, .julho2, .julho3, .julho4, .agosto1, .agosto2, .agosto3, .agosto4, .agosto5, .setembro1, .setembro2, .setembro3, .setembro4, .outubro1, .outubro2, .outubro3, .outubro4, .novembro1, .novembro2, .novembro3, .novembro4, .novembro5, .desembro1, .desembro2 {
