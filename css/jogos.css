@@ -6,7 +6,7 @@ h1 {
     color: #ED3A1E;
     margin: 0 50% 0 50%;
     top: 80px;
-    left: -100px;
+    left: -60px;
     width: 305px;
     font-family: 'Fjalla One', sans-serif;
     letter-spacing: .092em;
@@ -16,7 +16,7 @@ h1 {
 .foto {
       position: absolute; 
       top: 181px;
-      left: -147px;
+      left: -127px;
       margin: 0 50% 0 50%;
 }
 
@@ -31,13 +31,13 @@ h1 {
 #artilharia  {
       margin: 0 50% 0 50%;
       top: 193px;
-      left: -400px;
+      left: -390px;
 }
 
 #estatistica {
       margin: 0 50% 0 50%;
       top: 193px;
-      left: 230px;
+      left: 240px;
 }
 
  #artilharia1, #artilharia3, #artilharia5, #artilharia7, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #estatistica1, #estatistica3, #estatistica5, #estatistica7, #estatistica01, #estatistica03, #estatistica05, #estatistica07, #artilharia2, #artilharia4, #artilharia6, #artilharia02, #artilharia04, #artilharia06, #estatistica2, #estatistica4, #estatistica6, #estatistica02, #estatistica04, #estatistica06 {
@@ -90,22 +90,22 @@ h1 {
 
 #artilharia1, #artilharia2, #artilharia3, #artilharia4, #artilharia5, #artilharia6, #artilharia7 {
       margin: 0 50% 0 50%;
-      left: -417px;
+      left: -407px;
 }
 
 #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07 {
       margin: 0 50% 0 50%;
-      left: -267px;
+      left: -257px;
 }
 
 #estatistica1, #estatistica2, #estatistica3, #estatistica4, #estatistica5, #estatistica6, #estatistica7 {
       margin: 0 50% 0 50%;
-      left: 229px;
+      left: 239px;
 }
 
 #estatistica01, #estatistica02, #estatistica03, #estatistica04, #estatistica05, #estatistica06, #estatistica07 {
       margin: 0 50% 0 50%;
-      left: 387px;
+      left: 397px;
 }
 
 .linha1, .linha2, .linha3, .linha4, .linha5, .linha6, .linha7, .linha8, .linha9, .linha10, .linha11, .linha12 {
@@ -118,13 +118,13 @@ h1 {
 
 .linha1, .linha2, .linha3, .linha4, .linha5, .linha6 {
       margin: 0 50% 0 50%;
-      left: -429px;
+      left: -419px;
       width: 205px;
 } 
 
 .linha7, .linha8, .linha9, .linha10, .linha11, .linha12 {
       margin: 0 50% 0 50%;
-      left: 213px;
+      left: 223px;
       width: 215px;
 }
 
@@ -222,14 +222,14 @@ h6 {
       position: absolute;
       margin: 0 50% 0 50%;
       top: 7px;
-      left: -560px;
+      left: -542px;
 }
 
 #faixa1 {
       position: absolute;
       margin: 0 50% 0 50%;
       top: 7px;
-      left: 130px;
+      left: 148px;
 }
 
 #vs p {
