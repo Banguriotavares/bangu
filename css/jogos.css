@@ -9,6 +9,8 @@ h1 {
     left: -100px;
     width: 305px;
     font-family: 'Fjalla One', sans-serif;
+    letter-spacing: .092em;
+    font-weight: 500;
 }
 
 .foto {
@@ -218,17 +220,16 @@ h6 {
 
 #faixa {
       position: absolute;
-      margin: -98px 0 0 206px;
+      margin: 0 50% 0 50%;
+      top: 7px;
+      left: -560px;
 }
 
 #faixa1 {
       position: absolute;
-      margin: -98px 0 0 850px;
-}
-
-#faixa2 {
-      position: absolute;
-      margin: -98px 0 0 870px;
+      margin: 0 50% 0 50%;
+      top: 7px;
+      left: 130px;
 }
 
 #vs p {
@@ -275,27 +276,27 @@ h6 {
 
 #vertical4, #vertical7 {
       margin: 0 50% 0 50%;
-      left: -300px;
+      left: -280px;
 }
 
 #vertical1, #vertical10 {
       margin: 0 50% 0 50%;
-      left: -157px;
+      left: -137px;
 }
 
 #vertical3, #vertical5, #vertical8, #vertical12, #vertical13 {
       margin: 0 50% 0 50%;
-      left: -15px;
+      left: 15px;
 }
 
 #vertical2, #vertical11 {
       margin: 0 50% 0 50%;
-      left: 132px;
+      left: 152px;
 }
 
 #vertical6, #vertical9 {
       margin: 0 50% 0 50%;
-      left: 273px;
+      left: 293px;
 }
 
 .março1, .março2, .março3, .março4, .março5, .abril1, .abril2, .abril3, .abril4, .maio1, .maio2, .maio3, .maio4, .junho1, .junho2, .junho3, .junho4,.junho5, .julho1, .julho2, .julho3, .julho4, .agosto1, .agosto2, .agosto3, .agosto4, .agosto5, .setembro1, .setembro2, .setembro3, .setembro4, .outubro1, .outubro2, .outubro3, .outubro4, .novembro1, .novembro2, .novembro3, .novembro4, .novembro5, .desembro1, .desembro2 {
@@ -321,41 +322,42 @@ h6 {
 
 .abril1, .maio1, .julho1, .setembro1, .outubro1 {
      margin: 0 50% 0 50%;
-     left: -579px;
+     left: -559px;
 }
 
 .março1, .junho1, .agosto1, .novembro1 {
      margin: 0 50% 0 50%;
-     left: -430px;
+     left: -410px;
 }
 
 .março4,.abril2, .maio2, .junho4, .julho2, .agosto4, .setembro2, .outubro2, .novembro4, .desembro1 {
       margin: 0 50% 0 50%;
-      left: -282px;
+      left: -262px;
 }
 
 .março2, .junho2, .agosto2, .novembro2 {
       margin: 0 50% 0 50%;
-      left: -138px;
+      left: -118px;
 }
 
 .abril3, .maio3, .julho3, .setembro3, .outubro3 {
       margin: 0 50% 0 50%;
-      left: 5px;
+      left: 25px;
 }
 
 .março5, .junho5, .agosto5, .novembro5, .desembro2 {
       margin: 0 50% 0 50%;
+      left: 40px;
 }
 
 .março3, .junho3, .agosto3, .novembro3 {
       margin: 0 50% 0 50%;
-      left: 152px;
+      left: 172px;
 }
 
 .abril4, .maio4, .julho4, .setembro4, .outubro4 {
       margin: 0 50% 0 50%;
-      left: 297px;
+      left: 317px;
 }
 
 #dias p {
@@ -432,5 +434,9 @@ h6 {
 
 #roda {
   margin-top: 4577px;
-  background-color: #C90000;
+  background-color: #dcdcdc;
+}
+
+#textos, #texto4 p, #texto4 a{
+    color: #8B0000;
 }

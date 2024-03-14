@@ -256,7 +256,7 @@ h3 {
 }
 
 @media (max-width: 1100px) {
-  .caixa2, .caixa5, .caixa8 {
+  .caixa2, .caixa5, .caixa8, .caixa11 {
     margin: 0 50% 0 50%;
     left: -7.3em;
 }
@@ -730,7 +730,7 @@ h3 {
 
 #roda {
     margin-top: 1932px;
-    background-color: #C90000;
+    background-color: #8B0000;
 }
 
 @media (max-width: 1100px) {
@@ -755,4 +755,8 @@ h3 {
   #roda {
     margin-top: 3600px;
 }
+}
+
+#textos, #texto4 p, #img2 p, #texto4 a{
+    color: white;
 }

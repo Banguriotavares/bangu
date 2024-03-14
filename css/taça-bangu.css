@@ -6,6 +6,8 @@ h1 {
     color: #ED3A1E;
     margin: 80px 0 0 600px;
     font-family: 'Fjalla One', sans-serif;
+    letter-spacing: .092em;
+    font-weight: 500;
 }
 
 .foto {
@@ -345,5 +347,9 @@ h6 {
 
 #roda {
   margin-top: 1417px;
-  background-color: #C90000;
+  background-color: #dcdcdc;
+}
+
+#textos, #texto4 p, #texto4 a{
+    color: #8B0000;
 }
