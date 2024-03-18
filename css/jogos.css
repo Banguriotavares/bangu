@@ -386,12 +386,12 @@ h6 {
 }
 
 #versos p {
-      font-size: 15px;
-      margin: 77px 0 0 98px;
-      padding: 6px 12px 6px 12px;
-     background:  white;
-     border-radius: 14px 2px 14px 2px;
-     opacity: 0.95;
+     text-align: center;
+     font-size: 15px;
+     margin: 77px 0 0 98px;
+     padding: 3px 14px 3px 14px;
+     background-color:  white;
+     border-radius: 12px;
      color: #A61407;
 }
 

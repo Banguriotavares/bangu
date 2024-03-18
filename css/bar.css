@@ -60,6 +60,7 @@
      top: 63px;
     left: -2em;
     font-size: 60px;
+    zoom: 100%;
 }
 }
 
@@ -68,6 +69,7 @@
     top: 95px;
     left: 2.6em;
     font-size: 30px;
+    zoom: 100%;
 }
 }
 
@@ -212,12 +214,22 @@ h3 {
 }
 }
 
+/*Tamanho da largura em ate 979px*/
+
+@media (max-width: 979px) {
+  .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11 {
+    width: 233px;
+    zoom: 100%;
+}
+}
+
 
 /*Tamanho da largura em ate 801px*/
 
 @media (max-width: 801px) {
   .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11 {
     width: 210px;
+    zoom: 100%;
 }
 }
 

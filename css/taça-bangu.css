@@ -1,34 +1,39 @@
 @charset "UTF-8";
 
 h1 {
-    position: relative;
+    position: absolute;
     font-size: 58px;
     color: #ED3A1E;
-    margin: 80px 0 0 600px;
+    margin: 0 50% 0 50%;
+    top: 80px;
+    left: -140px;
     font-family: 'Fjalla One', sans-serif;
     letter-spacing: .092em;
     font-weight: 500;
-}
-
-.foto {
-      position: absolute;
-      margin: 20px 0 0 309px; 
+    width: 305px;
 }
 
 #caixa {
      position: absolute;
-     margin: 60px 0 0 594px;
-     height: 345px;
-     width: 605px;
+     margin: 0 50% 0 50%;
+     top: 230px;
+     left: -394px;
+     height: 305px;
+     width: 805px;
      background-color: white;
-     border-radius: 20px 0 20px 0;
-     box-shadow: 0 0 1px 0 black;
+     border-radius: 220px 0 80px 0;
+}
+
+.foto {
+      position: absolute;
+      margin: 16px 0 0 -59px; 
 }
 
 #texto p {
-     position: relative;
-     margin: 100px 350px 0 629px; 
-     font-size: 21px;
+     position: absolute;
+     top: 20px; 
+     padding: 0 90px 40px 230px;
+     font-size: 19px;
      line-height: 1.50;
      letter-spacing: .022em;
      font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
@@ -42,17 +47,17 @@ h1 {
 
 .primeiro {
       height: 230px;
-      margin-top: 122px;
+      margin-top: 675px;
 }
 
 .segundo {
       height: 635px;
-      margin-top: 352px;
+      margin-top: 905px;
 }
 
 .terceiro {
      height: 440px;
-     margin-top: 977px;
+     margin-top: 1537px;
 }
 
 .primeiro1, .segundo1, .segundo2, .segundo3, .segundo4,.segundo5, .segundo6, .segundo7, .terceiro1, .terceiro2, .terceiro3, .terceiro4 {
@@ -62,27 +67,30 @@ h1 {
 }
 
 .primeiro1, .segundo1, .segundo2, .segundo3, .terceiro1, .terceiro2, .terceiro3, .terceiro4 {
-      margin-top: -50px;
+    top: 55px;
 }
 
 .segundo4,.segundo5, .segundo6, .terceiro4 {
-     margin-top: 145px;
+     top: 255px;
 }
 
 .segundo7 {
-  margin-top: 330px;
+     top: 440px;
 }
 
 .primeiro1, .segundo2, .segundo5, .segundo7, .terceiro2, .terceiro4 {
-  margin-left: 624px; 
+    margin: 0 50% 0 50%;
+    left: -122px; 
 }
 
 .segundo1, .segundo4, .terceiro1 {
-     margin-left: 279px;
+     margin: 0 50% 0 50%;
+     left: -473px;
 }
 
 .segundo3, .segundo6, .terceiro3 {
-      margin-left: 962px;
+      margin: 0 50% 0 50%;
+      left: 229px;
 }
 
 #vertical7, #vertical8, #vertical10, #vertical11, #vertical12, #vertical13 {
@@ -94,7 +102,7 @@ h1 {
 }
 
 #vertical13, #vertical12 {
-     margin-top: 195px;
+     top: 315px;
 }
 
 #vertical7 {
@@ -106,11 +114,13 @@ h1 {
 }
 
 #vertical10, #vertical12 {
-      margin-left: 577px;
+      margin: 0 50% 0 50%;
+      left: -185px;
 }
 
  #vertical11, #vertical13 {
-      margin-left: 917px;
+      margin: 0 50% 0 50%;
+      left: 180px;
 }
 
 h6 {
@@ -125,12 +135,16 @@ h6 {
 
 #faixa {
       position: absolute;
-      margin: -98px 0 0 200px;
+      margin: 0 50% 0 50%;
+      top: 7px;
+      left: -542px;
 }
 
 #faixa1 {
       position: absolute;
-      margin: -98px 0 0 834px;
+      margin: 0 50% 0 50%;
+      top: 7px;
+      left: 148px;
 }
 
 #vs p, #horas p   {
@@ -143,14 +157,14 @@ h6 {
      text-align: center;
      font-size: 15px;
      margin: 40px 90px 0 90px;
-     padding: 5px;
-     background:  white;
-     border-radius: 18px 0 18px 0;
+     padding: 3px;
+     background-color:  white;
+     border-radius: 12px;
      color: #A61407;
 }
 
 #horas p {
-      font-weight: 700;
+      font-weight: 500;
       letter-spacing: .092em;
       font-size: 18px;
       margin: 14px 0 0 77px;
@@ -178,7 +192,7 @@ h6 {
 }
 
 #escudo1 {
-      margin: -48px 0 0 171px;
+      margin: -42px 0 0 171px;
 }
 
 #escudo1 p {
@@ -194,7 +208,7 @@ h6 {
 }
 
 #escudo6 {
-      margin: -48px 0 0 171px;
+      margin: -42px 0 0 171px;
 }
 
 #escudo6 p {
@@ -210,7 +224,7 @@ h6 {
 }
 
 #escudo8 {
-      margin: -48px 0 0 171px;
+      margin: -42px 0 0 171px;
 }
 
 #escudo8 p {
@@ -226,7 +240,7 @@ h6 {
 }
 
 #escudo10 {
-      margin: -48px 0 0 171px;
+      margin: -42px 0 0 171px;
 }
 
 #escudo10 p {
@@ -242,7 +256,7 @@ h6 {
 }
 
 #escudo12 {
-      margin: -48px 0 0 171px;
+      margin: -42px 0 0 171px;
 }
 
 #escudo12 p {
@@ -258,7 +272,7 @@ h6 {
 }
 
 #escudo14 {
-      margin: -48px 0 0 171px;
+      margin: -42px 0 0 171px;
 }
 
 #escudo14 p {
@@ -274,7 +288,7 @@ h6 {
 }
 
 #escudo16 {
-      margin: -48px 0 0 171px;
+      margin: -42px 0 0 171px;
 }
 
 #escudo16 p {
@@ -290,7 +304,7 @@ h6 {
 }
 
 #escudo18 {
-      margin: -48px 0 0 171px;
+      margin: -42px 0 0 171px;
 }
 
 #escudo18 p {
@@ -306,7 +320,7 @@ h6 {
 }
 
 #escudo20 {
-      margin: -48px 0 0 171px;
+      margin: -42px 0 0 171px;
 }
 
 #escudo20 p {
@@ -322,7 +336,7 @@ h6 {
 }
 
 #escudo22 {
-      margin: -48px 0 0 171px;
+      margin: -42px 0 0 171px;
 }
 
 #escudo22 p {
@@ -338,15 +352,15 @@ h6 {
 }
 
 #escudoescrita1 p {
-      margin: 40px 0 0 30px;
+      margin: 37px 0 0 30px;
 }
 
 #escudoescrita2 p {
-      margin: -29px 0 0 167px;
+      margin: -26px 0 0 167px;
 }
 
 #roda {
-  margin-top: 1417px;
+  margin-top: 1967px;
   background-color: #dcdcdc;
 }
 
