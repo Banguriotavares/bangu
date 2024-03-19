@@ -1,0 +1,483 @@
+@charset "UTF-8";
+
+h1 {
+    position: absolute;
+    font-size: 58px;
+    color: #ED3A1E;
+    margin: 0 50% 0 50%;
+    top: 80px;
+    left: -60px;
+    width: 305px;
+    font-family: 'Fjalla One', sans-serif;
+    letter-spacing: .092em;
+    font-weight: 500;
+}
+
+.foto {
+      position: absolute; 
+      top: 181px;
+      left: -127px;
+      margin: 0 50% 0 50%;
+}
+
+#artilharia, #estatistica {
+      position: absolute;
+      letter-spacing: .092em;
+      font-family: helvetica;
+      font-size: 22px;
+      color: #B61B1B;
+}
+
+#artilharia  {
+      margin: 0 50% 0 50%;
+      top: 193px;
+      left: -390px;
+}
+
+#estatistica {
+      margin: 0 50% 0 50%;
+      top: 193px;
+      left: 240px;
+}
+
+ #artilharia1, #artilharia3, #artilharia5, #artilharia7, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #estatistica1, #estatistica3, #estatistica5, #estatistica7, #estatistica01, #estatistica03, #estatistica05, #estatistica07, #artilharia2, #artilharia4, #artilharia6, #artilharia02, #artilharia04, #artilharia06, #estatistica2, #estatistica4, #estatistica6, #estatistica02, #estatistica04, #estatistica06 {
+      position: absolute;
+      letter-spacing: .092em;
+      font-family: helvetica;
+      font-size: 22px;
+      list-style: none;
+ }
+
+ #artilharia1, #artilharia3, #artilharia5, #artilharia7, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #estatistica1, #estatistica3, #estatistica5, #estatistica7, #estatistica01, #estatistica03, #estatistica05, #estatistica07 {
+      color: #B61B1B;
+}
+
+#artilharia2, #artilharia4, #artilharia6, #artilharia02, #artilharia04, #artilharia06, #estatistica2, #estatistica4, #estatistica6, #estatistica02, #estatistica04, #estatistica06 {
+      color: white;
+}
+
+#estatistica1, #estatistica2, #estatistica3, #estatistica4, #estatistica5, #estatistica6, #estatistica7 {
+      width: 300px;
+}
+
+#artilharia1, #artilharia01, #estatistica1, #estatistica01 {
+      top: 265px;
+}
+
+#artilharia2, #artilharia02, #estatistica2, #estatistica02 {
+      top: 309px;
+}
+
+#artilharia3, #artilharia03, #estatistica3, #estatistica03 {
+      top: 351px;
+}
+
+#artilharia4, #artilharia04, #estatistica4, #estatistica04 {
+      top: 396px;
+}
+
+#artilharia5, #artilharia05, #estatistica5, #estatistica05 {
+      top: 440px;
+}
+
+#artilharia6, #artilharia06, #estatistica6,  #estatistica06 {
+      top: 483px;
+}
+
+#artilharia7, #artilharia07, #estatistica7, #estatistica07 {
+      top: 524px;
+}
+
+#artilharia1, #artilharia2, #artilharia3, #artilharia4, #artilharia5, #artilharia6, #artilharia7 {
+      margin: 0 50% 0 50%;
+      left: -407px;
+}
+
+#artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07 {
+      margin: 0 50% 0 50%;
+      left: -257px;
+}
+
+#estatistica1, #estatistica2, #estatistica3, #estatistica4, #estatistica5, #estatistica6, #estatistica7 {
+      margin: 0 50% 0 50%;
+      left: 239px;
+}
+
+#estatistica01, #estatistica02, #estatistica03, #estatistica04, #estatistica05, #estatistica06, #estatistica07 {
+      margin: 0 50% 0 50%;
+      left: 397px;
+}
+
+.linha1, .linha2, .linha3, .linha4, .linha5, .linha6, .linha7, .linha8, .linha9, .linha10, .linha11, .linha12 {
+      position: absolute;
+      height: 45px;
+      background: #B61B1B;
+      list-style: none;
+      border-radius: 17px 0 17px 0;
+}
+
+.linha1, .linha2, .linha3, .linha4, .linha5, .linha6 {
+      margin: 0 50% 0 50%;
+      left: -419px;
+      width: 205px;
+} 
+
+.linha7, .linha8, .linha9, .linha10, .linha11, .linha12 {
+      margin: 0 50% 0 50%;
+      left: 223px;
+      width: 215px;
+}
+
+.linha1, .linha7 {
+      margin-top: 320px; 
+}
+.linha3, .linha9 {
+      margin-top: 407px;
+}
+
+.linha5, .linha11 {
+      margin-top: 494px;
+}
+
+.março, .abril, .maio, .julho, .outubro, .setembro, .junho, .agosto, .novembro, .desembro {
+      position: absolute;
+      width: 100%;
+      background: #8B0000;
+}
+
+.março{
+      height: 3940px;
+}
+
+.abril, .maio, .julho, .setembro, .outubro, .junho, .agosto, .novembro, .desembro  {
+      height: 70px;
+}
+
+.março {
+      margin-top: 608px;
+} 
+
+.abril {
+      margin-top: 4545px;
+}  
+
+.maio {
+      margin-top: 4616px;
+}
+
+.junho {
+      margin-top: 4687px;
+}
+
+.julho {
+      margin-top: 4758px;
+}
+
+.agosto {
+      margin-top: 4829px;
+}
+
+.setembro {
+      margin-top: 4900px;
+}
+
+.outubro {
+      margin-top: 4971px;
+}
+
+.novembro {
+      margin-top: 5042px;
+}
+
+.desembro {
+      margin-top: 5113px;
+}
+
+h2 {
+      position: relative;
+      text-align: center;
+      font-family: 'Droid Serif', serif;
+      letter-spacing: .092em;
+      color: white;
+       margin-top: 20px;
+      font-size: 30px;
+      z-index: 2;
+}
+
+
+#faixa, #faixa1 {
+      position: absolute;
+      margin: 0 50% 0 50%;
+      top: 25px;
+      z-index: 2;
+}
+
+#faixa {
+      left: -542px;
+}
+
+#faixa1 {
+      left: 148px;
+} 
+
+#vertical1, #vertical2, #vertical3, #vertical4, #vertical5, #vertical6, #vertical7, #vertical8, #vertical9, #vertical10, #vertical11, #vertical12, #vertical13 {
+      position: absolute;
+      margin-top: -5px;
+      width: 2px;
+      background: white;
+}
+
+#vertical1, #vertical2, #vertical3, #vertical4, #vertical5, #vertical6 {
+     height: 180px;
+}
+
+#vertical7, #vertical8, #vertical9, #vertical10, #vertical11, #vertical12, #vertical13 {
+    height: 110px;
+}
+
+#vertical3 {
+     top: 410px;
+}
+
+#vertical12 {
+     margin: 0 50% 0 50%;
+     top: 315px;
+}
+
+#vertical4, #vertical7 {
+      margin: 0 50% 0 50%;
+      left: -280px;
+}
+
+#vertical1, #vertical10 {
+      margin: 0 50% 0 50%;
+      left: -137px;
+}
+
+#vertical3, #vertical5, #vertical8, #vertical12, #vertical13 {
+      margin: 0 50% 0 50%;
+      left: 15px;
+}
+
+#vertical2, #vertical11 {
+      margin: 0 50% 0 50%;
+      left: 152px;
+}
+
+#vertical6, #vertical9 {
+      margin: 0 50% 0 50%;
+      left: 293px;
+}
+
+.março1, .março2, .março3, .março4, .março5, .março6, .março7, .março8, .março9, .março10, .março11, .março12, .março13, .março14, .março15, .março16, .março17, .março18, .março19, .março20, .março21, .março22, .março23, .março24, .março25, .março26, .março27, .março28, .março29, .março30, .março31, .março32, .março33, .março34, .março35, .março36 {
+      position: absolute;
+      width: 350px;
+      height: 245px;
+}
+
+.março1 {
+      margin: 0 50% 0 50%;
+      top: 100px;
+}
+
+.março2, .março3, .março4, .março5 {
+      margin: 0 50% 0 50%;
+      top: 440px;
+}
+
+.março6, .março7, .março8, .março9 {
+      margin: 0 50% 0 50%;
+      top: 840px;
+}
+
+.março10 {
+      margin: 0 50% 0 50%;
+      top: 1240px;
+}
+
+.março11, .março12, .março13, .março14 {
+      margin: 0 50% 0 50%;
+      top: 1600px;
+}
+
+.março15, .março16, .março17, .março18 {
+      margin: 0 50% 0 50%;
+      top: 2000px;
+}
+
+.março19 {
+      margin: 0 50% 0 50%;
+      top: 2440px;
+}
+
+.março20, .março21, .março22, .março23 {
+      margin: 0 50% 0 50%;
+      top: 2700px;
+}
+
+.março24, .março25, .março26, .março27 {
+      margin: 0 50% 0 50%;
+      top: 2950px;
+}
+
+.março28 {
+      margin: 0 50% 0 50%;
+      top: 3200px;
+}
+
+.março29, .março30, .março31, .março32 {
+      margin: 0 50% 0 50%;
+      top: 3450px;
+}
+
+.março33, .março34, .março35, .março36 {
+      margin: 0 50% 0 50%;
+      top: 3700px;
+}
+
+.março1, .março10, .março19, .março28 {
+      margin: 0 50% 0 50%;
+      left: -118px;
+}
+
+.março2, .março6, .março11, .março15, .março20, .março24, .março29, .março33 {
+     margin: 0 50% 0 50%;
+     left: -559px;
+}
+
+.março3, .março7, .março12, .março16, .março21, .março25, .março30, .março34 {
+      margin: 0 50% 0 50%;
+      left: -262px;
+}
+
+.março4, .março8, .março13, .março17, .março22, .março26, .março31, .março35 {
+      margin: 0 50% 0 50%;
+      left: 25px;
+}
+
+.março5, .março9, .março14, .março18, .março23, .março27, .março32, .março36 {
+      margin: 0 50% 0 50%;
+      left: 317px;
+}
+
+#dias p {
+      position: absolute;
+      letter-spacing: .092em;
+      font-family: Verdana;
+      font-size: 18px;
+      color: white;
+      margin: 14px 0 0 60px;
+}
+
+
+
+#escudo1 {
+      position: absolute;
+      margin: 63px 0 0 35px;
+}
+
+#escudo2 {
+      position: absolute;
+      margin: 64px 0 0 168px;
+}
+
+#versos p, #gol p, #festival a {
+      position: absolute;
+      font-family: Arial;
+      color: #FFFFFF;
+}
+
+#versos p {
+     text-align: center;
+     font-size: 15px;
+     margin: 77px 0 0 98px;
+     padding: 3px 14px 3px 14px;
+     background-color:  white;
+     border-radius: 12px;
+     color: #A61407;
+}
+
+#gol p, #festival a {
+      letter-spacing: .092em;
+      font-size: 18px;
+}
+
+#gol p {
+     margin: 147px 0 0 73px;
+}
+
+#festival a {
+      margin: 129px 0 0 55px;
+}
+
+#golde01, #golde02, #golde03, #golde04, #golde05, #golde06, #golde07, #golde08, #golde09 {
+      position: absolute;
+      letter-spacing: .092em;
+      font-family: verdana;
+      letter-spacing: .092em;
+      font-size: 17px;
+      color: white;
+
+}
+
+#golde01, #golde02, #golde03, #golde04, #golde05, #golde06, #golde07, #golde08, #golde09  {
+      margin-left: 43px;
+}
+
+#golde01, #golde03, #golde04, #golde07 {
+     margin-top: 195px;
+}
+
+#golde02, #golde05, #golde08 {
+     margin-top: 235px;
+}
+
+#golde06, #golde09 {
+     margin-top: 275px;
+}
+
+.question {
+  font-family: DIN Pro,sans-serif;
+  font-size: 25px;
+  z-index: 3;
+
+}
+
+.question input,
+.question .answer { 
+    display: none;
+    z-index: 3;
+}
+
+.question label, .question input:checked ~ .answer {
+    height: 60px;
+    padding: 0px 0 0 20px;
+    z-index: 3;
+}
+
+.question label {
+  display: inline-block;
+  width: 100%;
+  color: #800000;
+  background-color: #8B0000;
+  margin: 0 0 0 -20px; 
+  z-index: 3;
+}
+
+.question input:checked ~ .answer {
+  display: block;
+  width: 100%;
+  margin: -640px 0 0 -20px; 
+  color: white;
+  background-color: #8B0000;
+  z-index: 3;
+}
+
+#roda {
+  margin-top: 15184px;
+  background-color: #dcdcdc;
+}
+
+#textos, #texto4 p, #texto4 a{
+    color: #8B0000;
+}
