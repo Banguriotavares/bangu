@@ -139,34 +139,23 @@ h1 {
       margin-top: 494px;
 }
 
-
-
-
-
-.março, .abril, .maio, .julho, .outubro, .setembro, .junho, .agosto, .novembro, .desembro {
+.livre, .março, .abril, .maio, .julho, .outubro, .setembro, .junho, .agosto, .novemnro, .desembro {
       position: absolute;
       width: 100%;
       background: #8B0000;
+      z-index: 2;
 }
 
-.março{
-      height: 680px;
+.março {
+      height: 3980px;
 }
 
-.abril  {
-      height: 370px;
-}
-
-.maio, .julho, .setembro, .outubro {
-      height: 279px;
-}
-
-.junho, .agosto, .novembro {
-      height: 503px;
+.abril, .maio, .julho, .setembro, .outubro, .junho, .agosto, .novemnro {
+      height: 3080px;
 }
 
 .desembro {
-      height: 299px;
+      height: 1580px;
 }
 
 .março {
@@ -174,80 +163,81 @@ h1 {
 } 
 
 .abril {
-      margin-top: 1288px;
+      margin-top: 4585px;
 }  
 
 .maio {
-      margin-top: 1658px;
+      margin-top: 7646px;
 }
 
 .junho {
-      margin-top: 1937px;
+      margin-top: 10725px;
 }
 
 .julho {
-      margin-top: 2440px;
+      margin-top: 13804px;
 }
 
 .agosto {
-      margin-top: 2719px;
+      margin-top: 16884px;
 }
 
 .setembro {
-      margin-top: 3219px;
-}
-.outubro {
-      margin-top: 3497px;
+      margin-top: 19964px;
 }
 
-.novembro {
-      margin-top: 3775px;
+.outubro {
+      margin-top: 23040px;
+}
+
+.novemnro {
+      margin-top: 26120px;
 }
 
 .desembro {
-      margin-top: 4278px;
+      margin-top: 29200px;
 }
 
-h6 {
+h2 {
       position: relative;
       text-align: center;
       font-family: 'Droid Serif', serif;
       letter-spacing: .092em;
-      margin-top: 50px;
       font-size: 30px;
       color: white;
+      margin-top: 20px;
 }
 
-#faixa {
+#faixa, #faixa1 {
       position: absolute;
       margin: 0 50% 0 50%;
-      top: 7px;
+      top: 25px;
+}
+
+
+#faixa, #faixa3 {
       left: -542px;
 }
 
-#faixa1 {
-      position: absolute;
-      margin: 0 50% 0 50%;
-      top: 7px;
-      left: 148px;
+#faixa3 {
+      left: -542px;
 }
 
-#vs p {
-      position: absolute;
-      font-family: Verdana;
-      font-size: 30px;
-      color: #FFFFFF;
-      margin: 75px 0 0 113px;
-}  
+#faixa1, #faixa4 {
+      left: 148px;
+} 
 
-#horas p {
+#faixa3, #faixa4 {
       position: relative;
-      text-align: center;
-      font-family: Verdana;
-      letter-spacing: .092em;
-      font-size: 18px;
-      color: #FFFFFF;
-      margin-top: 149px;
+      margin: 0 50% 0 50%;
+}
+
+#faixa3 {
+      top: -65px;
+}
+
+#faixa4 {
+      top: -95px;
 }
 
 #vertical1, #vertical2, #vertical3, #vertical4, #vertical5, #vertical6, #vertical7, #vertical8, #vertical9, #vertical10, #vertical11, #vertical12, #vertical13 {
@@ -255,6 +245,7 @@ h6 {
       margin-top: -5px;
       width: 2px;
       background: white;
+      z-index: 2;
 }
 
 #vertical1, #vertical2, #vertical3, #vertical4, #vertical5, #vertical6 {
@@ -299,75 +290,182 @@ h6 {
       left: 293px;
 }
 
-.março1, .março2, .março3, .março4, .março5, .abril1, .abril2, .abril3, .abril4, .maio1, .maio2, .maio3, .maio4, .junho1, .junho2, .junho3, .junho4,.junho5, .julho1, .julho2, .julho3, .julho4, .agosto1, .agosto2, .agosto3, .agosto4, .agosto5, .setembro1, .setembro2, .setembro3, .setembro4, .outubro1, .outubro2, .outubro3, .outubro4, .novembro1, .novembro2, .novembro3, .novembro4, .novembro5, .desembro1, .desembro2 {
+.março1, .março2, .março3, .março4, .março5, .março6, .março7, .março8, .março9, .março10, .março11, .março12, .março13, .março14, .março15, .março16, .março17, .março18 {
       position: absolute;
       width: 250px;
-      height: 245px;
+      height: 205px;
 }
 
-.março1, .março2, .março3, .abril1, .abril2, .abril3, .abril4, .maio1, .maio2, .maio3, .maio4, .junho1, .junho2, .junho3, .julho1, .julho2, .julho3, .julho4, .agosto1, .agosto2, .agosto3, .setembro1, .setembro2, .setembro3, .setembro4, .outubro1, .outubro2, .outubro3, .outubro4, .novembro1, .novembro2, .novembro3, .desembro1, .desembro2 {
+.l1, .l2, .l3, .l4, .l5, .l6, .l7, .l8, .l9, .l10, .l11,.l12,.l13,.l14, .l15, .l16, .l17, .l18, .l19, .l20, .l21, .l22, .l23, .l24, .l25, .l26, .l27, .l28, .l29, .l30, .l31, .l32, .l33, .l34, .l35, .l36,.março19, .março20, .março21, .março22, .março23, .março24, .março25, .março26, .março27, .março28, .março29, .março30, .março31, .março32, .março33, .março34, .março35, .março36 {
+      position: absolute;
+      width: 250px;
+      height: 205px;
+      background-color: #dcdcdc;
+      border-radius: 17px;
+}
+
+.março1 {
       margin: 0 50% 0 50%;
-      top: 70px;
+      top: 100px;
 }
 
-.março4, .março5 {
+.l1 {
       margin: 0 50% 0 50%;
-      top: 370px;
+      top: 90px;
 }
 
-.junho4,.junho5, .agosto4, .agosto5, .novembro4, .novembro5 {
-     margin: 0 50% 0 50%;
-      top: 270px;
-}
-
-.abril1, .maio1, .julho1, .setembro1, .outubro1 {
-     margin: 0 50% 0 50%;
-     left: -559px;
-}
-
-.março1, .junho1, .agosto1, .novembro1 {
-     margin: 0 50% 0 50%;
-     left: -410px;
-}
-
-.março4,.abril2, .maio2, .junho4, .julho2, .agosto4, .setembro2, .outubro2, .novembro4, .desembro1 {
+.março2, .março3, .março4, .março5 {
       margin: 0 50% 0 50%;
-      left: -262px;
+      top: 440px;
 }
 
-.março2, .junho2, .agosto2, .novembro2 {
+.l2, .l3, .l4, .l5 {
+      margin: 0 50% 0 50%;
+      top: 330px;
+}
+
+
+.março6, .março7, .março8, .março9 {
+      margin: 0 50% 0 50%;
+      top: 840px;
+}
+
+.l6, .l7, .l8, .l9 {
+      margin: 0 50% 0 50%;
+      top: 575px;
+}
+
+.março10 {
+      margin: 0 50% 0 50%;
+      top: 1240px;
+}
+
+.l10 {
+      margin: 0 50% 0 50%;
+      top: 820px;
+}
+
+.março11, .março12, .março13, .março14 {
+      margin: 0 50% 0 50%;
+      top: 1600px;
+}
+
+.l11, .l12, .l13, .l14 {
+      margin: 0 50% 0 50%;
+      top: 1065px;
+}
+
+.março15, .março16, .março17, .março18 {
+      margin: 0 50% 0 50%;
+      top: 2000px;
+}
+
+.l15, .l16, .l17, .l18 {
+      margin: 0 50% 0 50%;
+      top: 1310px;
+}
+
+.março19 {
+      margin: 0 50% 0 50%;
+      top: 2440px;
+}
+
+.l19 {
+      top: 1555px;
+}
+
+.março20, .março21, .março22, .março23 {
+      margin: 0 50% 0 50%;
+      top: 2700px;
+}
+
+.l20, .l21, .l22, .l23 {
+      margin: 0 50% 0 50%;
+      top: 1800px;
+}
+
+.março24, .março25, .março26, .março27 {
+      margin: 0 50% 0 50%;
+      top: 2950px;
+}
+
+.l24, .l25, .l26, .l27 {
+      margin: 0 50% 0 50%;
+      top: 2045px;
+}
+
+.março28 {
+      margin: 0 50% 0 50%;
+      top: 3200px;
+}
+
+.l28 {
+      margin: 0 50% 0 50%;
+      top: 2290px;
+}
+
+.março29, .março30, .março31, .março32 {
+      margin: 0 50% 0 50%;
+      top: 3450px;
+}
+
+.l29, .l30, .l31, .l32 {
+      margin: 0 50% 0 50%;
+      top: 2535px;
+}
+
+.março33, .março34, .março35, .março36 {
+      margin: 0 50% 0 50%;
+      top: 3700px;
+}
+
+.l33, .l34, .l35, .l36 {
+      margin: 0 50% 0 50%;
+      top: 2780px;
+}
+
+.março1, .março10, .março19, .março28, .l1, .l10, .l19, .l28 {
       margin: 0 50% 0 50%;
       left: -118px;
 }
 
-.abril3, .maio3, .julho3, .setembro3, .outubro3 {
+.março2, .março6, .março11, .março15, .março20, .março24, .março29, .março33, .l2, .l6, .l11, .l15, .l20, .l24, .l29, .l33 {
+     margin: 0 50% 0 50%;
+     left: -559px;
+}
+
+.março3, .março7, .março12, .março16, .março21, .março25, .março30, .março34, .l3, .l7, .l12, .l16, .l21, .l25, .l30, .l34 {
+      margin: 0 50% 0 50%;
+      left: -262px;
+}
+
+.março4, .março8, .março13, .março17, .março22, .março26, .março31, .março35, .l4, .l8, .l13, .l17, .l22, .l26, .l31, .l35 {
       margin: 0 50% 0 50%;
       left: 25px;
 }
 
-.março5, .junho5, .agosto5, .novembro5, .desembro2 {
-      margin: 0 50% 0 50%;
-      left: 40px;
-}
-
-.março3, .junho3, .agosto3, .novembro3 {
-      margin: 0 50% 0 50%;
-      left: 172px;
-}
-
-.abril4, .maio4, .julho4, .setembro4, .outubro4 {
+.março5, .março9, .março14, .março18, .março23, .março27, .março32, .março36, .l5, .l9, .l14, .l18, .l23, .l27, .l32, .l36 {
       margin: 0 50% 0 50%;
       left: 317px;
 }
 
-#dias p {
+#dias p, #dialivre p {
       position: absolute;
       letter-spacing: .092em;
       font-family: Verdana;
       font-size: 18px;
-      color: #FFFFFF;
-      margin: 14px 0 0 75px;
+      margin: 14px 0 0 60px;
 }
+
+#dias p {
+      color: white;
+}
+
+#dialivre p {;
+      color: #8B0000;
+}
+
+
 
 #escudo1 {
       position: absolute;
@@ -379,29 +477,48 @@ h6 {
       margin: 64px 0 0 168px;
 }
 
-#versos p, #gol p, #festival a {
+#versos p, #gol p, #festival a, #vs p, #jogos p {
       position: absolute;
       font-family: Arial;
-      color: #FFFFFF;
 }
 
-#versos p {
+#versos p, #vs p {
      text-align: center;
      font-size: 15px;
      margin: 77px 0 0 98px;
      padding: 3px 14px 3px 14px;
-     background-color:  white;
      border-radius: 12px;
-     color: #A61407;
 }
 
-#gol p, #festival a {
+#versos p {
+     color: #A61407;
+     background-color:  white;
+}
+
+#vs p {
+      color: white;
+      background-color:  #8B0000;
+}
+
+#gol p, #festival a, #vs p {
+      color: #FFFFFF;
+}
+
+#jogos p {
+      color: #8B0000;
+}
+
+#gol p, #festival a, #jogos p {
       letter-spacing: .092em;
       font-size: 18px;
 }
 
-#gol p {
+#gol p, #jogos p {
      margin: 147px 0 0 73px;
+}
+
+#jogos p {
+     margin: 147px 0 0 48px;
 }
 
 #festival a {
@@ -410,10 +527,12 @@ h6 {
 
 #golde01, #golde02, #golde03, #golde04, #golde05, #golde06, #golde07, #golde08, #golde09 {
       position: absolute;
-      font-family: helvetica;
       letter-spacing: .092em;
-      font-size: 18px;
-      color: #FFFFFF;
+      font-family: verdana;
+      letter-spacing: .092em;
+      font-size: 17px;
+      color: white;
+
 }
 
 #golde01, #golde02, #golde03, #golde04, #golde05, #golde06, #golde07, #golde08, #golde09  {
@@ -421,19 +540,19 @@ h6 {
 }
 
 #golde01, #golde03, #golde04, #golde07 {
-     margin-top: 165px;
-}
-
-#golde02, #golde05, #golde08 {
      margin-top: 195px;
 }
 
+#golde02, #golde05, #golde08 {
+     margin-top: 235px;
+}
+
 #golde06, #golde09 {
-     margin-top: 225px;
+     margin-top: 275px;
 }
 
 #roda {
-  margin-top: 4577px;
+  margin-top: 30800px;
   background-color: #dcdcdc;
 }
 
