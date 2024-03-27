@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+.dezembro {
+      position: absolute;
+      width: 100%;
+      background: #8B0000;
+      height: 1870px;
+      margin-top: 608px;
+}
+
+h2 {
+      position: relative;
+      text-align: center;
+      font-family: 'Droid Serif', serif;
+      letter-spacing: .092em;
+      font-size: 30px;
+      color: white;
+      margin-top: 20px;
+}
+
+.t1, .t2, .t3, .t4, .t5, .t6, .t7, .t8, .t9, .t10, .t11, .t12, .t13, .t14, .t15, .t16, .t17, .t18, .t19, .t20, .t21, .t22 {
+      position: absolute;
+      width: 250px;
+      height: 205px;
+      background-color: white;
+      border-radius: 25px 0 25px 0;
+      opacity: 90%;
+}
+
+.t1, .t2, .t3, .t4 {
+      margin: 0 50% 0 50%;
+      top: 120px;
+}
+
+.t5 {
+      margin: 0 50% 0 50%;
+      top: 380px;
+}
+
+.t6, .t7, .t8, .t9 {
+      margin: 0 50% 0 50%;
+      top: 618px;
+}
+
+.t10, .t11, .t12, .t13 {
+      margin: 0 50% 0 50%;
+      top: 854px;
+}
+
+.t14 {
+      margin: 0 50% 0 50%;
+      top: 1117px;
+}
+
+.t15, .t16, .t17, .t18 {
+      margin: 0 50% 0 50%;
+      top: 1355px;
+}
+
+.t19, .t20, .t21, .t22 {
+      top: 1590px;
+}
+
+.t5, .t14 {
+      margin: 0 50% 0 50%;
+      left: -118px;
+}
+
+.t1, .t6, .t10, .t15, .t19 {
+     margin: 0 50% 0 50%;
+     left: -550px;
+}
+
+.t2, .t7, .t11, .t16, .t20 {
+      margin: 0 50% 0 50%;
+      left: -260px;
+}
+
+.t3, .t8, .t12, .t17, .t21 {
+      margin: 0 50% 0 50%;
+      left: 23px;
+}
+
+.t4, .t9, .t13, .t18, .t22 {
+      margin: 0 50% 0 50%;
+      left: 308px;
+}
+
+#roda {
+  margin-top: 5309px;
+}

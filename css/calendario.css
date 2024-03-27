@@ -139,62 +139,7 @@ h1 {
       margin-top: 494px;
 }
 
-.livre, .março, .abril, .maio, .julho, .outubro, .setembro, .junho, .agosto, .novembro, .desembro {
-      position: absolute;
-      width: 100%;
-      background: #8B0000;
-      z-index: 2;
-}
-
-.março{
-      height: 3940px;
-}
-
-.abril, .maio, .julho, .setembro, .outubro, .junho, .agosto, .novembro, .desembro  {
-      height: 70px;
-}
-
-.março {
-      margin-top: 608px;
-} 
-
-.abril {
-      margin-top: 4545px;
-}  
-
-.maio {
-      margin-top: 4616px;
-}
-
-.junho {
-      margin-top: 4687px;
-}
-
-.julho {
-      margin-top: 4758px;
-}
-
-.agosto {
-      margin-top: 4829px;
-}
-
-.setembro {
-      margin-top: 4900px;
-}
-
-.outubro {
-      margin-top: 4971px;
-}
-
-.novembro {
-      margin-top: 5042px;
-}
-
-.desembro {
-      margin-top: 5113px;
-}
-
-h2, h3 {
+h2 {
       position: relative;
       text-align: center;
       font-family: 'Droid Serif', serif;
@@ -234,215 +179,6 @@ h2, h3 {
 
 #faixa4 {
       top: -95px;
-}
-
-#vertical1, #vertical2, #vertical3, #vertical4, #vertical5, #vertical6, #vertical7, #vertical8, #vertical9, #vertical10, #vertical11, #vertical12, #vertical13 {
-      position: absolute;
-      margin-top: -5px;
-      width: 2px;
-      background: white;
-      z-index: 2;
-}
-
-#vertical1, #vertical2, #vertical3, #vertical4, #vertical5, #vertical6 {
-     height: 180px;
-}
-
-#vertical7, #vertical8, #vertical9, #vertical10, #vertical11, #vertical12, #vertical13 {
-    height: 110px;
-}
-
-#vertical3 {
-     top: 410px;
-}
-
-#vertical12 {
-     margin: 0 50% 0 50%;
-     top: 315px;
-}
-
-#vertical4, #vertical7 {
-      margin: 0 50% 0 50%;
-      left: -280px;
-}
-
-#vertical1, #vertical10 {
-      margin: 0 50% 0 50%;
-      left: -137px;
-}
-
-#vertical3, #vertical5, #vertical8, #vertical12, #vertical13 {
-      margin: 0 50% 0 50%;
-      left: 15px;
-}
-
-#vertical2, #vertical11 {
-      margin: 0 50% 0 50%;
-      left: 152px;
-}
-
-#vertical6, #vertical9 {
-      margin: 0 50% 0 50%;
-      left: 293px;
-}
-
-.março1, .março2, .março3, .março4, .março5, .março6, .março7, .março8, .março9, .março10, .março11, .março12, .março13, .março14, .março15, .março16, .março17, .março18 {
-      position: absolute;
-      width: 250px;
-      height: 205px;
-}
-
-.l1, .l2, .l3, .l4, .l5, .l6, .l7, .l8, .l9, .l10, .l11,.l12,.l13,.l14, .l15, .l16, .l17, .l18, .l19, .l20, .l21, .l22, .l23, .l24, .l25, .l26, .l27, .l28, .l29, .l30, .l31, .l32, .l33, .l34, .l35, .l36,.março19, .março20, .março21, .março22, .março23, .março24, .março25, .março26, .março27, .março28, .março29, .março30, .março31, .março32, .março33, .março34, .março35, .março36 {
-      position: absolute;
-      width: 250px;
-      height: 205px;
-      background-color: #dcdcdc;
-      border-radius: 17px;
-}
-
-.março1 {
-      margin: 0 50% 0 50%;
-      top: 100px;
-}
-
-.l1 {
-      margin: 0 50% 0 50%;
-      top: 20px;
-}
-
-.março2, .março3, .março4, .março5 {
-      margin: 0 50% 0 50%;
-      top: 440px;
-}
-
-.l2, .l3, .l4, .l5 {
-      margin: 0 50% 0 50%;
-      top: 260px;
-}
-
-
-.março6, .março7, .março8, .março9 {
-      margin: 0 50% 0 50%;
-      top: 840px;
-}
-
-.l6, .l7, .l8, .l9 {
-      margin: 0 50% 0 50%;
-      top: 505px;
-}
-
-.março10 {
-      margin: 0 50% 0 50%;
-      top: 1240px;
-}
-
-.l10 {
-      margin: 0 50% 0 50%;
-      top: 750px;
-}
-
-.março11, .março12, .março13, .março14 {
-      margin: 0 50% 0 50%;
-      top: 1600px;
-}
-
-.l11, .l12, .l13, .l14 {
-      margin: 0 50% 0 50%;
-      top: 995px;
-}
-
-.março15, .março16, .março17, .março18 {
-      margin: 0 50% 0 50%;
-      top: 2000px;
-}
-
-.l15, .l16, .l17, .l18 {
-      margin: 0 50% 0 50%;
-      top: 1240px;
-}
-
-.março19 {
-      margin: 0 50% 0 50%;
-      top: 2440px;
-}
-
-.l19 {
-      top: 1485px;
-}
-
-.março20, .março21, .março22, .março23 {
-      margin: 0 50% 0 50%;
-      top: 2700px;
-}
-
-.l20, .l21, .l22, .l23 {
-      margin: 0 50% 0 50%;
-      top: 1730px;
-}
-
-.março24, .março25, .março26, .março27 {
-      margin: 0 50% 0 50%;
-      top: 2950px;
-}
-
-.l24, .l25, .l26, .l27 {
-      margin: 0 50% 0 50%;
-      top: 1975px;
-}
-
-.março28 {
-      margin: 0 50% 0 50%;
-      top: 3200px;
-}
-
-.l28 {
-      margin: 0 50% 0 50%;
-      top: 2220px;
-}
-
-.março29, .março30, .março31, .março32 {
-      margin: 0 50% 0 50%;
-      top: 3450px;
-}
-
-.l29, .l30, .l31, .l32 {
-      margin: 0 50% 0 50%;
-      top: 2465px;
-}
-
-.março33, .março34, .março35, .março36 {
-      margin: 0 50% 0 50%;
-      top: 3700px;
-}
-
-.l33, .l34, .l35, .l36 {
-      margin: 0 50% 0 50%;
-      top: 2710px;
-}
-
-.março1, .março10, .março19, .março28, .l1, .l10, .l19, .l28 {
-      margin: 0 50% 0 50%;
-      left: -118px;
-}
-
-.março2, .março6, .março11, .março15, .março20, .março24, .março29, .março33, .l2, .l6, .l11, .l15, .l20, .l24, .l29, .l33 {
-     margin: 0 50% 0 50%;
-     left: -559px;
-}
-
-.março3, .março7, .março12, .março16, .março21, .março25, .março30, .março34, .l3, .l7, .l12, .l16, .l21, .l25, .l30, .l34 {
-      margin: 0 50% 0 50%;
-      left: -262px;
-}
-
-.março4, .março8, .março13, .março17, .março22, .março26, .março31, .março35, .l4, .l8, .l13, .l17, .l22, .l26, .l31, .l35 {
-      margin: 0 50% 0 50%;
-      left: 25px;
-}
-
-.março5, .março9, .março14, .março18, .março23, .março27, .março32, .março36, .l5, .l9, .l14, .l18, .l23, .l27, .l32, .l36 {
-      margin: 0 50% 0 50%;
-      left: 317px;
 }
 
 #dias p, #dialivre p {
@@ -496,7 +232,7 @@ h2, h3 {
       background-color:  #8B0000;
 }
 
-#gol p, #festival a, #vs p {
+#gol p, #vs p, #cancelado p {
       color: #FFFFFF;
 }
 
@@ -504,7 +240,7 @@ h2, h3 {
       color: #8B0000;
 }
 
-#gol p, #festival a, #jogos p {
+#gol p, #jogos p, #cancelado p {
       letter-spacing: .092em;
       font-size: 18px;
 }
@@ -517,8 +253,10 @@ h2, h3 {
      margin: 147px 0 0 48px;
 }
 
-#festival a {
-      margin: 129px 0 0 55px;
+#cancelado p {
+      margin: 149px 0 0 55px;
+       font-weight: 700;
+       width: 10px;
 }
 
 #golde01, #golde02, #golde03, #golde04, #golde05, #golde06, #golde07, #golde08, #golde09 {
@@ -547,54 +285,12 @@ h2, h3 {
      margin-top: 275px;
 }
 
-.passado {
-    top: 588px;
-}
-
-.calendario {
-    margin-top: 4588px;
-}
-
-.question {
-  border-bottom: 1px solid #ccc;
-  padding: 10px 0 0 0px;
-  font-family: DIN Pro,sans-serif;
-  font-size: 25px;
-
-}
-
-.question input,
-.question .answer { 
-    display: none;
-}
-
-.question label {
-    height: 100px;
-    padding: 15px 0 0 0;
-}
-
-.question input:checked ~ .answer {
-    height: 3040px;
-    padding: 20px 0 20px 0;
-}
-
-.question label {
-  display: inline-block;
-  width: 100%;
-  background-color: #8B0000; 
-  margin-top: -14px;
-}
-
-.question input:checked ~ .answer {
-  display: block;
-  width: 100%;
-  margin: -44px 0 0 0px; 
-  color: white;
-  background-color: #8B0000; 
+#chuva {
+      position: absolute;
+      margin: 65px 0 0 85px;
 }
 
 #roda {
-  margin-top: 1px;
   background-color: #dcdcdc;
 }
 

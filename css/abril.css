@@ -1,0 +1,106 @@
+@charset "UTF-8";
+
+.abril {
+      position: absolute;
+      width: 100%;
+      background: #8B0000;
+      height: 3120px;
+      margin-top: 608px;
+} 
+
+.l1, .l2, .l3, .l4, .l5, .l6, .l7, .l8, .l9, .l10, .l11,.l12,.l13,.l14, .l15, .l16, .l17, .l18, .l19, .l20, .l21, .l22, .l23, .l24, .l25, .l26, .l27, .l28, .l29, .l30, .l31, .l32, .l33, .l34, .l35, .l36 {
+      position: absolute;
+      width: 250px;
+      height: 205px;
+      background-color: white;
+      border-radius: 25px 0 25px 0;
+      opacity: 90%;
+}
+
+.l1 {
+      margin: 0 50% 0 50%;
+      top: 120px;
+}
+
+.l2, .l3, .l4, .l5, .s5, .s6, .s7, .s8 {
+      margin: 0 50% 0 50%;
+      top: 355px;
+}
+
+.l6, .l7, .l8, .l9 {
+      margin: 0 50% 0 50%;
+      top: 588px;
+}
+
+.l10, .s10, .s11, .s12, .s13 {
+      margin: 0 50% 0 50%;
+      top: 874px;
+}
+
+.l11, .l12, .l13, .l14, .s14, .s15, .s16, .s17 {
+      margin: 0 50% 0 50%;
+      top: 1107px;
+}
+
+.l15, .l16, .l17, .l18 {
+      margin: 0 50% 0 50%;
+      top: 1340px;
+}
+
+.l19, .s19, .s20, .s21, .s22 {
+      top: 1625px;
+}
+
+.l20, .l21, .l22, .l23, .s23,.s24, .s25, .s26 {
+      margin: 0 50% 0 50%;
+      top: 1860px;
+}
+
+.l24, .l25, .l26, .l27 {
+      margin: 0 50% 0 50%;
+      top: 2095px;
+}
+
+.l28 {
+      margin: 0 50% 0 50%;
+      top: 2380px;
+}
+
+.l29, .l30, .l31, .l32, .s32, .s33, .s34, .s35 {
+      margin: 0 50% 0 50%;
+      top: 2615px;
+}
+
+.l33, .l34, .l35, .l36 {
+      margin: 0 50% 0 50%;
+      top: 2850px;
+}
+
+.l1, .l10, .l19, .l28, .l37 {
+      margin: 0 50% 0 50%;
+      left: -118px;
+}
+
+.l2, .l6, .l11, .l15, .l20, .l24, .l29, .l33 {
+     margin: 0 50% 0 50%;
+     left: -550px;
+}
+
+.l3, .l7, .l12, .l16, .l21, .l25, .l30, .l34 {
+      margin: 0 50% 0 50%;
+      left: -260px;
+}
+
+.l4, .l8, .l13, .l17, .l22, .l26, .l31, .l35 {
+      margin: 0 50% 0 50%;
+      left: 23px;
+}
+
+.l5, .l9, .l14, .l18, .l23, .l27, .l32, .l36 {
+      margin: 0 50% 0 50%;
+      left: 308px;
+}
+
+#roda {
+  margin-top: 5309px;
+}
