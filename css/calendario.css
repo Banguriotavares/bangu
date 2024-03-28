@@ -290,10 +290,31 @@ h2 {
       margin: 65px 0 0 85px;
 }
 
-#roda {
-  background-color: #dcdcdc;
+.superfevereiro, .supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
+    position: absolute;
+    margin: 0 50% 0 50%;
+    width: 250px; 
+    height: 250px;
+    background-color: #8B0000;
+    opacity: 95%;
+    border-radius: 0px 0 100px 0;
 }
 
-#textos, #texto4 p, #texto4 a{
-    color: #8B0000;
+.proximos img {
+      position: absolute;
+      margin: 40px 0 0 0px;
+}
+
+.proximos p {
+      text-align: center;
+      font-size: 27px;
+      font-family: 'Fjalla One', sans-serif;
+      letter-spacing: .172em;
+      color: white;
+}
+
+.superimg img{
+     position: absolute;
+      margin: 100px 0 0 130px;
+      opacity: 80%;
 }

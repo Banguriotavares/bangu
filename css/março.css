@@ -10,6 +10,7 @@
 
 .março1, .março2, .março3, .março4, .março5, .março6, .março7, .março8, .março9, .março10, .março11, .março12, .março13, .março14, .março15, .março16, .março17, .março18 {
       position: absolute;
+      margin: 0 50% 0 50%;
       width: 250px;
       height: 205px;
 }
@@ -17,6 +18,7 @@
 
 .março19, .março20, .março21, .março22, .março23, .março24, .março25, .março26, .março27, .março28, .março29, .março30, .março31, .março32, .março33, .março34, .março35, .março36 {
       position: absolute;
+      margin: 0 50% 0 50%;
       width: 250px;
       height: 205px;
       background-color: white;
@@ -25,27 +27,22 @@
 }
 
 .março1 {
-      margin: 0 50% 0 50%;
       top: 100px;
 }
 
 .março2, .março3, .março4, .março5 {
-      margin: 0 50% 0 50%;
       top: 440px;
 }
 
 .março6, .março7, .março8, .março9 {
-      margin: 0 50% 0 50%;
       top: 840px;
 }
 
 .março10 {
-      margin: 0 50% 0 50%;
       top: 1240px;
 }
 
 .março11, .março12, .março13, .março14 {
-      margin: 0 50% 0 50%;
       top: 1600px;
 }
 
@@ -55,60 +52,63 @@
 }
 
 .março19 {
-      margin: 0 50% 0 50%;
       top: 2320px;
 }
 
 .março20, .março21, .março22, .março23 {
-      margin: 0 50% 0 50%;
       top: 2560px;
 }
 
 .março24, .março25, .março26, .março27 {
-      margin: 0 50% 0 50%;
       top: 2795px;
 }
 
 .março28 {
-      margin: 0 50% 0 50%;
       top: 3105px;
 }
 
 .março29, .março30, .março31, .março32 {
-      margin: 0 50% 0 50%;
       top: 3340px;
 }
 
 .março33, .março34, .março35, .março36 {
-      margin: 0 50% 0 50%;
       top: 3575px;
 }
 
-.março1, .março10, .março19, .março28 {
-      margin: 0 50% 0 50%;
+.março1, .março10, .março19, .março28, .superdezembro {
       left: -118px;
 }
 
-.março2, .março6, .março11, .março15, .março20, .março24, .março29, .março33 {
-     margin: 0 50% 0 50%;
+.março2, .março6, .março11, .março15, .março20, .março24, .março29, .março33, .superabril, .superagosto {
      left: -550px;
 }
 
-.março3, .março7, .março12, .março16, .março21, .março25, .março30, .março34 {
-      margin: 0 50% 0 50%;
+.março3, .março7, .março12, .março16, .março21, .março25, .março30, .março34, .supermaio, .supersetembro {
       left: -260px;
 }
 
-.março4, .março8, .março13, .março17, .março22, .março26, .março31, .março35 {
-      margin: 0 50% 0 50%;
+.março4, .março8, .março13, .março17, .março22, .março26, .março31, .março35, .superjunho, .superoutubro {
       left: 23px;
 }
 
-.março5, .março9, .março14, .março18, .março23, .março27, .março32, .março36 {
+.março5, .março9, .março14, .março18, .março23, .março27, .março32, .março36, .superjulho, .supernovembro {
       margin: 0 50% 0 50%;
       left: 308px;
 }
 
+ 
+.superabril, .supermaio, .superjunho, .superjulho {
+     top: 4600px;
+}
+
+.superagosto, .supersetembro, .superoutubro, .supernovembro {
+     top: 4930px;
+}
+
+.superdezembro {
+     top: 5260px;   
+}
+
 #roda {
-  margin-top: 5309px;
+  margin-top: 5629px;
 }

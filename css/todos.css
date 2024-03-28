@@ -82,13 +82,15 @@ nav li #Menu:hover  {
 #img {
     position: relative;
     margin: 35px 0 0 745px;
-}
+} 
+
 
 footer {
     position: relative;
     width: 100%;
     margin: auto;
     height: 455px;
+    background-color: #8B0000;
 }
 
 @media (max-width: 980px) {
@@ -149,6 +151,10 @@ footer {
 #img3 {
     left: 35px;
     
+}
+
+#textos, #texto4 p, #texto4 a{
+    color: white;
 }
 
 #textos, #texto4 {

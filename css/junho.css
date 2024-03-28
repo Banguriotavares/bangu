@@ -87,31 +87,43 @@
       top: 3370px;
 }
 
-.s9, .s18, .s27, .s36 {
+.s9, .s18, .s27, .s36, .superdezembro {
       margin: 0 50% 0 50%;
       left: -118px;
 }
 
-.s1, .s5, .s10, .s14, .s19, .s23, .s28, .s32, .s37, .s41 {
+.s1, .s5, .s10, .s14, .s19, .s23, .s28, .s32, .s37, .s41, .supermarço, .superagosto {
      margin: 0 50% 0 50%;
      left: -550px;
 }
 
-.s2, .s6, .s11, .s15, .s20, .s24, .s29, .s33, .s38, .s42 {
+.s2, .s6, .s11, .s15, .s20, .s24, .s29, .s33, .s38, .s42, .superabril, .supersetembro {
       margin: 0 50% 0 50%;
       left: -260px;
 }
 
-.s3, .s7, .s12, .s16, .s21, .s25, .s30, .s34, .s39, .s43 {
+.s3, .s7, .s12, .s16, .s21, .s25, .s30, .s34, .s39, .s43, .supermaio, .superoutubro {
       margin: 0 50% 0 50%;
       left: 23px;
 }
 
-.s4, .s8, .s13, .s17, .s22, .s26, .s31, .s35, .s40, .s44 {
+.s4, .s8, .s13, .s17, .s22, .s26, .s31, .s35, .s40, .s44, .superjulho, .supernovembro {
       margin: 0 50% 0 50%;
       left: 308px;
 }
 
+.supermarço, .superabril, .supermaio, .superjulho {
+     top: 4400px;
+}
+
+.superagosto, .supersetembro, .superoutubro, .supernovembro {
+     top: 4730px;
+}
+
+.superdezembro {
+     top: 5060px;   
+}
+
 #roda {
-  margin-top: 5309px;
+  margin-top: 5509px;
 }
