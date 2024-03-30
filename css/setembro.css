@@ -8,16 +8,6 @@
       margin-top: 608px;
 }
 
-h2 {
-      position: relative;
-      text-align: center;
-      font-family: 'Droid Serif', serif;
-      letter-spacing: .092em;
-      font-size: 30px;
-      color: white;
-      margin-top: 20px;
-}
-
 .t1, .t2, .t3, .t4, .t5, .t6, .t7, .t8, .t9, .t10, .t11, .t12, .t13, .t14, .t15, .t16, .t17, .t18, .t19, .t20, .t21, .t22, .t23, .t24, .t25, .t26, .t27, .t28, .t29, .t30, .t31, .t32, .t33, .t34, .t35, .t36, .t37, .t38, .t39, .t40, .t41, .t42, .t43, .t44 {
       position: absolute;
       width: 250px;
@@ -91,29 +81,41 @@ h2 {
       top: 3135px;
 }
 
-.t5, .t14, .t23, .t32 {
+.t5, .t14, .t23, .t32, .superdezembro {
       margin: 0 50% 0 50%;
       left: -118px;
 }
 
-.t1, .t6, .t10, .t15, .t19, .t24, .t28, .t33, .t37 {
+.t1, .t6, .t10, .t15, .t19, .t24, .t28, .t33, .t37, .supermarço, .superjulho {
      margin: 0 50% 0 50%;
      left: -550px;
 }
 
-.t2, .t7, .t11, .t16, .t20, .t25, .t29, .t34, .t38 {
+.t2, .t7, .t11, .t16, .t20, .t25, .t29, .t34, .t38, .superabril, .superagosto {
       margin: 0 50% 0 50%;
       left: -260px;
 }
 
-.t3, .t8, .t12, .t17, .t21, .t26, .t30, .t35, .t39 {
+.t3, .t8, .t12, .t17, .t21, .t26, .t30, .t35, .t39, .supermaio, .superoutubro {
       margin: 0 50% 0 50%;
       left: 23px;
 }
 
-.t4, .t9, .t13, .t18, .t22, .t27, .t31, .t36, .t40 {
+.t4, .t9, .t13, .t18, .t22, .t27, .t31, .t36, .t40, .superjunho, .supernovembro {
       margin: 0 50% 0 50%;
       left: 308px;
+}
+
+.supermarço, .superabril, .supermaio, .superjunho {
+     top: 4150px;
+}
+
+.superjulho, .superagosto, .superoutubro, .supernovembro {
+     top: 4480px;
+}
+
+.superdezembro {
+     top: 4810px;   
 }
 
 #roda {

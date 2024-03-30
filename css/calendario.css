@@ -6,7 +6,6 @@ h1 {
     color: #ED3A1E;
     margin: 0 50% 0 50%;
     top: 80px;
-    left: -60px;
     width: 305px;
     font-family: 'Fjalla One', sans-serif;
     letter-spacing: .092em;
@@ -290,31 +289,82 @@ h2 {
       margin: 65px 0 0 85px;
 }
 
+.proximos {
+      background-color: #8B0000;
+      width: 500px;
+      height: 3px;
+      margin: 610px 0 0 520px;
+}
+
 .superfevereiro, .supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
     position: absolute;
     margin: 0 50% 0 50%;
-    width: 250px; 
-    height: 250px;
-    background-color: #8B0000;
-    opacity: 95%;
-    border-radius: 0px 0 100px 0;
+    width: 120px; 
+    height: 40px;
+    border-radius: 40px;
 }
 
-.proximos img {
-      position: absolute;
-      margin: 40px 0 0 0px;
+.proximos p, h3 {
+      text-align: center;
+      font-size: 14px;
+      font-family: 'Fjalla One', sans-serif;
+      letter-spacing: .272em;
+      margin-top: 11px;
 }
 
 .proximos p {
-      text-align: center;
-      font-size: 27px;
-      font-family: 'Fjalla One', sans-serif;
-      letter-spacing: .172em;
-      color: white;
+      color: #8B0000;
 }
 
-.superimg img{
-     position: absolute;
-      margin: 100px 0 0 130px;
-      opacity: 80%;
+h3 {
+   color: #8B0000;
+}
+
+.supermarço {
+     margin: 0 50% 0 50%;
+     left: -530px; 
+}
+
+.superabril {
+      margin: 0 50% 0 50%;
+      left: -394px;
+}
+
+
+.supermaio {
+      margin: 0 50% 0 50%;
+      left: -260px;
+}
+
+.superjunho, .supernovembro {
+      margin: 0 50% 0 50%;
+      left: -124px;
+}
+
+.superjulho, .superdezembro {
+     margin: 0 50% 0 50%;
+     left: 10px;
+}
+
+.superagosto {
+      margin: 0 50% 0 50%;
+      left: 146px;
+}
+
+.supersetembro {
+      margin: 0 50% 0 50%;
+      left: 283px;
+}
+
+.superoutubro {
+      margin: 0 50% 0 50%;
+      left: 415px;
+}
+
+.supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro {
+     top: 658px;
+}
+
+.supernovembro, .superdezembro {
+     top: 718px;   
 }
