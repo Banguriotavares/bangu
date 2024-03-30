@@ -14,13 +14,14 @@ h1 {
 
 .foto {
       position: absolute; 
-      top: 181px;
+      top: 180px;
       left: -127px;
       margin: 0 50% 0 50%;
 }
 
 #artilharia, #estatistica {
       position: absolute;
+      margin: 0 50% 0 50%;
       letter-spacing: .092em;
       font-family: helvetica;
       font-size: 22px;
@@ -28,13 +29,11 @@ h1 {
 }
 
 #artilharia  {
-      margin: 0 50% 0 50%;
       top: 193px;
       left: -390px;
 }
 
 #estatistica {
-      margin: 0 50% 0 50%;
       top: 193px;
       left: 240px;
 }
@@ -49,10 +48,12 @@ h1 {
 
  #artilharia1, #artilharia3, #artilharia5, #artilharia7, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #estatistica1, #estatistica3, #estatistica5, #estatistica7, #estatistica01, #estatistica03, #estatistica05, #estatistica07 {
       color: #B61B1B;
+      margin: 0 50% 0 50%;
 }
 
 #artilharia2, #artilharia4, #artilharia6, #artilharia02, #artilharia04, #artilharia06, #estatistica2, #estatistica4, #estatistica6, #estatistica02, #estatistica04, #estatistica06 {
       color: white;
+      margin: 0 50% 0 50%;
 }
 
 #estatistica1, #estatistica2, #estatistica3, #estatistica4, #estatistica5, #estatistica6, #estatistica7 {
@@ -88,22 +89,18 @@ h1 {
 }
 
 #artilharia1, #artilharia2, #artilharia3, #artilharia4, #artilharia5, #artilharia6, #artilharia7 {
-      margin: 0 50% 0 50%;
       left: -407px;
 }
 
 #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07 {
-      margin: 0 50% 0 50%;
       left: -257px;
 }
 
 #estatistica1, #estatistica2, #estatistica3, #estatistica4, #estatistica5, #estatistica6, #estatistica7 {
-      margin: 0 50% 0 50%;
       left: 239px;
 }
 
 #estatistica01, #estatistica02, #estatistica03, #estatistica04, #estatistica05, #estatistica06, #estatistica07 {
-      margin: 0 50% 0 50%;
       left: 397px;
 }
 
@@ -289,18 +286,11 @@ h2 {
       margin: 65px 0 0 85px;
 }
 
-.proximos {
-      background-color: #8B0000;
-      width: 500px;
-      height: 3px;
-      margin: 610px 0 0 520px;
-}
-
 .março, .abril, .maio, .junho, .julho, .agosto, .setembro, .outubro, .novemnro, .dezembro {
       margin-top: 780px;
 }
 
-.superfevereiro, .supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
+.supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
     position: absolute;
     margin: 0 50% 0 50%;
     width: 120px; 
@@ -325,43 +315,35 @@ h3 {
 }
 
 .supermarço {
-     margin: 0 50% 0 50%;
      left: -530px; 
 }
 
 .superabril {
-      margin: 0 50% 0 50%;
       left: -394px;
 }
 
 
 .supermaio {
-      margin: 0 50% 0 50%;
       left: -260px;
 }
 
 .superjunho, .supernovembro {
-      margin: 0 50% 0 50%;
       left: -124px;
 }
 
 .superjulho, .superdezembro {
-     margin: 0 50% 0 50%;
      left: 10px;
 }
 
 .superagosto {
-      margin: 0 50% 0 50%;
       left: 146px;
 }
 
 .supersetembro {
-      margin: 0 50% 0 50%;
       left: 283px;
 }
 
 .superoutubro {
-      margin: 0 50% 0 50%;
       left: 415px;
 }
 
