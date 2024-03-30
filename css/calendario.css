@@ -296,6 +296,10 @@ h2 {
       margin: 610px 0 0 520px;
 }
 
+.março, .abril, .maio, .junho, .julho, .agosto, .setembro, .outubro, .novemnro, .dezembro {
+      margin-top: 780px;
+}
+
 .superfevereiro, .supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
     position: absolute;
     margin: 0 50% 0 50%;

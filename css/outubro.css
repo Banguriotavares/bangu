@@ -5,7 +5,6 @@
       width: 100%;
       background: #8B0000;
       height: 3420px;
-      margin-top: 608px;
 }
 
 
@@ -16,36 +15,31 @@
       height: 205px;
       background-color: white;
       border-radius: 25px 0 25px 0;
+      margin: 0 50% 0 50%;
       opacity: 90%;
 }
 
 .l1 {
-      margin: 0 50% 0 50%;
       top: 120px;
 }
 
 .l2, .l3, .l4, .l5 {
-      margin: 0 50% 0 50%;
       top: 355px;
 }
 
 .l6, .l7, .l8, .l9 {
-      margin: 0 50% 0 50%;
       top: 588px;
 }
 
 .l10 {
-      margin: 0 50% 0 50%;
       top: 874px;
 }
 
 .l11, .l12, .l13, .l14 {
-      margin: 0 50% 0 50%;
       top: 1107px;
 }
 
 .l15, .l16, .l17, .l18 {
-      margin: 0 50% 0 50%;
       top: 1340px;
 }
 
@@ -54,70 +48,55 @@
 }
 
 .l20, .l21, .l22, .l23 {
-      margin: 0 50% 0 50%;
       top: 1860px;
 }
 
 .l24, .l25, .l26, .l27 {
-      margin: 0 50% 0 50%;
       top: 2095px;
 }
 
 .l28 {
-      margin: 0 50% 0 50%;
       top: 2380px;
 }
 
 .l29, .l30, .l31, .l32 {
-      margin: 0 50% 0 50%;
       top: 2615px;
 }
 
 .l33, .l34, .l35, .l36 {
-      margin: 0 50% 0 50%;
       top: 2850px;
 }
 
 .l37 {
-      margin: 0 50% 0 50%;
       top: 3125px;
 }
 
 .l1, .l10, .l19, .l28, .l37, .superdezembro {
-      margin: 0 50% 0 50%;
       left: -118px;
 }
 
 .l2, .l6, .l11, .l15, .l20, .l24, .l29, .l33, .supermarço, .superjulho {
-     margin: 0 50% 0 50%;
      left: -550px;
 }
 
 .l3, .l7, .l12, .l16, .l21, .l25, .l30, .l34, .superabril, .superagosto {
-      margin: 0 50% 0 50%;
       left: -260px;
 }
 
 .l4, .l8, .l13, .l17, .l22, .l26, .l31, .l35, .supermaio, .supersetembro {
-      margin: 0 50% 0 50%;
       left: 23px;
 }
 
 .l5, .l9, .l14, .l18, .l23, .l27, .l32, .l36, .superjunho, .supernovembro {
-      margin: 0 50% 0 50%;
       left: 308px;
 }
 
-.supermarço, .superabril, .supermaio, .superjunho {
-     top: 4150px;
+.supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .supernovembro, .superdezembro {
+    background-color: white;
 }
 
-.superjulho, .superagosto, .supersetembro, .supernovembro {
-     top: 4480px;
-}
-
-.superdezembro {
-     top: 4810px;   
+.superoutubro {
+   background-color: #dcdcdc;
 }
 
 #roda {

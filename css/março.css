@@ -5,7 +5,6 @@
       width: 100%;
       background: #8B0000;
       height: 3880px;
-      margin-top: 608px;
 }
 
 .março1, .março2, .março3, .março4, .março5, .março6, .março7, .março8, .março9, .março10, .março11, .março12, .março13, .março14, .março15, .março16, .março17, .março18 {
@@ -96,17 +95,12 @@
       left: 308px;
 }
 
- 
-.superabril, .supermaio, .superjunho, .superjulho {
-     top: 4600px;
+.superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro,  .supernovembro, .superdezembro {
+    background-color: white;
 }
 
-.superagosto, .supersetembro, .superoutubro, .supernovembro {
-     top: 4930px;
-}
-
-.superdezembro {
-     top: 5260px;   
+.supermarço {
+   background-color: #dcdcdc;
 }
 
 #roda {
