@@ -7,6 +7,10 @@
       height: 3880px;
 }
 
+h1 {
+    left: -75px;
+}
+
 .março1, .março2, .março3, .março4, .março5, .março6, .março7, .março8, .março9, .março10, .março11, .março12, .março13, .março14, .março15, .março16, .março17, .março18 {
       position: absolute;
       margin: 0 50% 0 50%;
