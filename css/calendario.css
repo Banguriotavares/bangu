@@ -19,6 +19,12 @@ h1 {
       margin: 0 50% 0 50%;
 }
 
+@media (max-width: 980px) {
+  .foto {
+      top: 230px;
+}
+}
+
 #artilharia, #estatistica {
       position: absolute;
       margin: 0 50% 0 50%;
@@ -290,6 +296,12 @@ h2 {
       margin-top: 780px;
 }
 
+@media (max-width: 980px) {
+  .março, .abril, .maio, .junho, .julho, .agosto, .setembro, .outubro, .novemnro, .dezembro {
+      margin-top: 10780px;
+}
+}
+
 .supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
     position: absolute;
     margin: 0 50% 0 50%;
@@ -322,7 +334,6 @@ h3 {
       left: -394px;
 }
 
-
 .supermaio {
       left: -260px;
 }
@@ -347,10 +358,55 @@ h3 {
       left: 415px;
 }
 
+
+
+@media (max-width: 980px) {
+  .supermarço, .superagosto {
+     left: -325px; 
+}
+}
+
+@media (max-width: 980px) {
+  .superabril, .supersetembro {
+      left: -189px;
+}
+}
+
+@media (max-width: 980px) {
+  .supermaio, .superoutubro {
+      left: -55px;
+}
+}
+
+@media (max-width: 980px) {
+  .superjunho, .supernovembro {
+      left: 80px;
+}
+}
+
+@media (max-width: 980px) {
+  .superjulho, .superdezembro {
+     left: 215px;
+}
+}
+
+
 .supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro {
      top: 658px;
 }
 
 .supernovembro, .superdezembro {
      top: 718px;   
+}
+
+@media (max-width: 980px) {
+  .supermarço, .superabril, .supermaio, .superjunho, .superjulho {
+     top: 708px;   
+}
+}
+
+@media (max-width: 980px) {
+  .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
+     top: 768px;   
+}
 }
