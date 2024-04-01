@@ -21,7 +21,7 @@ h1 {
 
 @media (max-width: 980px) {
   .foto {
-      top: 230px;
+      opacity: 0%;
 }
 }
 
@@ -298,7 +298,7 @@ h2 {
 
 @media (max-width: 980px) {
   .março, .abril, .maio, .junho, .julho, .agosto, .setembro, .outubro, .novemnro, .dezembro {
-      margin-top: 10780px;
+      margin-top: 828px;
 }
 }
 
