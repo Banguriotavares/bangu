@@ -25,12 +25,6 @@ body {
    height: 50px;
    background-color: #8B0000;
 }
-
-@media (max-width: 979px) {
-  #menu {
-    zoom: 100%;
-}
-}
         
 nav ul {
    position: absolute;
@@ -43,7 +37,6 @@ nav ul {
   nav ul {
    margin: 0 50% 0 50%;
    left: -460px;
-   width: 225px;
 } 
 }
 
