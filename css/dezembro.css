@@ -5,6 +5,7 @@
       width: 100%;
       background: #8B0000;
       height: 1870px;
+      zoom: 100%;
 }
 
 @media (max-width: 980px) {
