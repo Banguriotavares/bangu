@@ -6,7 +6,6 @@ h1 {
     color: #ED3A1E;
     margin: 0 50% 0 50%;
     top: 80px;
-    width: 305px;
     font-family: 'Fjalla One', sans-serif;
     letter-spacing: .092em;
     font-weight: 500;
@@ -361,7 +360,7 @@ h2 {
     border-radius: 40px;
 }
 
-.proximos p, h3 {
+.proximos p {
       text-align: center;
       font-size: 14px;
       font-family: 'Fjalla One', sans-serif;
@@ -371,10 +370,6 @@ h2 {
 
 .proximos p {
       color: #8B0000;
-}
-
-h3 {
-   color: #8B0000;
 }
 
 .supermarço {
