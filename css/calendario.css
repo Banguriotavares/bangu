@@ -44,6 +44,18 @@ h1 {
       left: 240px;
 }
 
+@media (max-width: 980px) {
+  #artilharia  {
+      left: -290px;
+}
+}
+
+@media (max-width: 980px) {
+  #estatistica {
+      left: 140px;
+}
+}
+
  #artilharia1, #artilharia3, #artilharia5, #artilharia7, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #estatistica1, #estatistica3, #estatistica5, #estatistica7, #estatistica01, #estatistica03, #estatistica05, #estatistica07, #artilharia2, #artilharia4, #artilharia6, #artilharia02, #artilharia04, #artilharia06, #estatistica2, #estatistica4, #estatistica6, #estatistica02, #estatistica04, #estatistica06 {
       position: absolute;
       letter-spacing: .092em;
@@ -110,6 +122,33 @@ h1 {
       left: 397px;
 }
 
+
+@media (max-width: 980px) {
+  #artilharia1, #artilharia2, #artilharia3, #artilharia4, #artilharia5, #artilharia6, #artilharia7 {
+      left: -307px;
+}
+}
+
+@media (max-width: 980px) {
+  #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07 {
+      left: -157px;
+}
+}
+
+@media (max-width: 980px) {
+  #estatistica1, #estatistica2, #estatistica3, #estatistica4, #estatistica5, #estatistica6, #estatistica7 {
+      left: 139px;
+}
+}
+
+@media (max-width: 980px) {
+  #estatistica01, #estatistica02, #estatistica03, #estatistica04, #estatistica05, #estatistica06, #estatistica07 {
+      left: 297px;
+}
+}
+
+
+
 .linha1, .linha2, .linha3, .linha4, .linha5, .linha6, .linha7, .linha8, .linha9, .linha10, .linha11, .linha12 {
       position: absolute;
       height: 45px;
@@ -128,6 +167,18 @@ h1 {
       margin: 0 50% 0 50%;
       left: 223px;
       width: 215px;
+}
+
+@media (max-width: 980px) {
+  .linha1, .linha2, .linha3, .linha4, .linha5, .linha6 {
+      left: -319px;
+}
+}
+
+@media (max-width: 980px) {
+  .linha7, .linha8, .linha9, .linha10, .linha11, .linha12 {
+      left: 123px;
+}
 }
 
 .linha1, .linha7 {
