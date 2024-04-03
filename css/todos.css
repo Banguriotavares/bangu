@@ -33,7 +33,7 @@ body {
 }
         
 nav ul {
-   position: relative;
+   position: absolute;
    left: -445px;
    width: 300px;
    margin: 0 50% 0 50%
@@ -43,7 +43,7 @@ nav ul {
   nav ul {
    margin: 0 50% 0 50%;
    left: -460px;
-   width: 125px;
+   width: 225px;
 } 
 }
 
