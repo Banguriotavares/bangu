@@ -360,6 +360,12 @@ h2 {
     border-radius: 40px;
 }
 
+@media (max-width: 980px) {
+  .supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
+    zoom: 120%;
+}
+}
+
 .proximos p {
       text-align: center;
       font-size: 14px;
@@ -447,12 +453,12 @@ h2 {
 
 @media (max-width: 980px) {
   .supermarço, .superabril, .supermaio, .superjunho, .superjulho {
-     top: 708px;   
+     top: 558px;   
 }
 }
 
 @media (max-width: 980px) {
   .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
-     top: 768px;   
+     top: 618px;   
 }
 }
