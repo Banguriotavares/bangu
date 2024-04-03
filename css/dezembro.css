@@ -178,7 +178,8 @@ h1 {
 }
 
 #roda {
-  margin-top: 2059px;
+  position: absolute;
+  margin-top: 4059px;
 }
 
 @media (max-width: 980px) {
