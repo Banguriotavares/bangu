@@ -9,14 +9,14 @@
 
 .parte1 {
     font-size: 58px;
-    top: 63px;
+    top: 83px;
     left: -2.3em;
     font-family: 'Fjalla One', sans-serif;
 }
 
 .parte2 {
     font-size: 40px;
-    top: 85px;
+    top: 105px;
     left: 1.5em;
     font-family:  sans-serif;
 }
@@ -82,94 +82,6 @@
     font-size: 25px;
     top: 92px;
     left: 2.8em;
-}
-}
-
-h1 {
-    position: absolute;
-    margin: 0 50% 0 50%; 
-    color: white;
-    font-family: sans-serif;
-    letter-spacing: .192em;
-    font-weight: 500;
-    top: 145px;
-    left: -515px;
-    font-size: 55px;
-}
-
-@media (max-width: 1100px) {
-  h1 {
-    margin: 0 50% 0 50%;
-    font-size: 45px;
-    top: 287px;
-    left: -350px;
-    width: 300px;
-}
-}
-
-@media (max-width: 980px) {
-  h1 {
-    margin: 0 50% 0 50%;
-    font-size: 35px;
-    top: 370px;
-    left: -200px;
-    color: white;
-}
-}
-
-@media (max-width: 979px) {
-  h1 {
-    margin: 0 50% 0 50%;
-    font-size: 45px;
-    top: 287px;
-    left: -350px;
-    width: 300px;
-}
-}
-
-@media (max-width: 801px) {
-  h1 {
-    margin: 0 50% 0 50%;
-    font-size: 35px;
-    top: 370px;
-    left: -200px;
-    color: white;
-}
-}
-
-h2 {
-    position: relative;
-    font-family: sans-serif;
-    font-size: 50px;
-    font-weight: 500;
-    letter-spacing: .192em;
-    color: #C90000;
-    margin-top: 95px;
-}
-
-@media (max-width: 1100px) {
-  h2 {
-    font-size: 60px;
-}
-}
-
-@media (max-width: 980px) {
-  h2 {
-    color: white;
-    font-size: 35px;
-}
-}
-
-@media (max-width: 979px) {
-  h2 {
-    font-size: 60px;
-}
-}
-
-@media (max-width: 801px) {
-  h2 {
-    color: white;
-    font-size: 35px;
 }
 }
 

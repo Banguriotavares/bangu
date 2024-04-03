@@ -25,7 +25,6 @@ h1 {
       background-color: white;
       border-radius: 25px 0 25px 0;
       margin: 0 50% 0 50%;
-      opacity: 95%;
 }
 
 .t1, .t2, .t3, .t4 {
@@ -179,7 +178,7 @@ h1 {
 
 #roda {
   position: absolute;
-  margin-top: 4059px;
+  margin-top: 2070px;
 }
 
 @media (max-width: 980px) {
