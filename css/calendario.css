@@ -18,11 +18,33 @@ h1 {
 }
 }
 
-.foto {
+#sites {
+    width: 1000px;
+    height: 50px;
+    margin: -39px auto;
+    background-color: #429B42;
+    margin-top: 530px;
+    border-radius: 20px;
+}
+
+.foto0, .foto, .foto1 {
       position: absolute; 
-      top: 180px;
-      left: -127px;
       margin: 0 50% 0 50%;
+} 
+
+.foto0 {
+      top: 373px;
+      left: -498px;
+}
+
+.foto { 
+      top: 262px;
+      left: -103px;
+}
+
+.foto1 {
+      top: 400px;
+      left: 380px;
 }
 
 @media (max-width: 980px) {
@@ -351,7 +373,7 @@ h2 {
 }
 
 .março, .abril, .maio, .junho, .julho, .agosto, .setembro, .outubro, .novemnro, .dezembro {
-      margin-top: 780px;
+      margin-top: 200px;
 }
 
 @media (max-width: 980px) {
@@ -452,11 +474,11 @@ h2 {
 
 
 .supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro {
-     top: 658px;
+     top: 618px;
 }
 
 .supernovembro, .superdezembro {
-     top: 718px;   
+     top: 678px;   
 }
 
 @media (max-width: 980px) {
