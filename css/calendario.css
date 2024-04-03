@@ -20,10 +20,10 @@ h1 {
 
 #sites {
     width: 940px;
-    height: 50px;
+    height: 40px;
     margin: -39px auto;
-    background-color: #429B42;
-    margin-top: 500px;
+    background-color: #8B0000;
+    margin-top: 510px;
     border-radius: 20px;
 }
 
@@ -31,7 +31,7 @@ h1 {
    #sites {
     width: 465px;
     margin: -39px auto;
-    margin-top: 500px;
+    margin-top: 510px;
 }
 }
 
