@@ -45,13 +45,15 @@ h1 {
 
 @media (max-width: 980px) {
   #artilharia  {
-      left: -290px;
+      top: 203px;
+      left: -245px;
 }
 }
 
 @media (max-width: 980px) {
   #estatistica {
-      left: 140px;
+      top: 203px;
+      left: 95px;
 }
 }
 
