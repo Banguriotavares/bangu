@@ -336,17 +336,23 @@ h2 {
       color: white;
 }
 
-#gol p, #jogos p, #cancelado p {
+#gol p, #cancelado p {
       letter-spacing: .092em;
       font-size: 18px;
 }
 
-#gol p, #jogos p {
-     margin: 147px 0 0 73px;
+#jogos p {
+      letter-spacing: .092em;
+      font-size: 22px;
+      font-weight: 700;
+      padding: 0 40px 0;
+      text-align: center;
+      top: px;
+      left: -65px;
 }
 
-#jogos p {
-     margin: 147px 0 0 48px;
+#gol p, #jogos p {
+     margin: 147px 0 0 73px;
 }
 
 #cancelado p {
