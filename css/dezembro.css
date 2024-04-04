@@ -24,9 +24,14 @@ h1 {
       height: 205px;
       border-radius: 25px;
       margin: 0 50% 0 50%;
-      opacity: 95%;
       zoom: 90%;
       border: 1px solid white;
+}
+
+.t1:hover, .t2:hover, .t3:hover, .t4:hover, .t5:hover, .t6:hover, .t7:hover, .t8:hover, .t9:hover, .t10:hover, .t11:hover, .t12:hover, .t13:hover, .t14:hover, .t15:hover, .t16:hover, .t17:hover, .t18:hover, .t19:hover, .t20:hover, .t21:hover, .t22:hover {
+      opacity: 85%;
+      background-color: #f64422;
+      border: 4px solid white;
 }
 
 .t1, .t2, .t3, .t4 {
