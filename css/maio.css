@@ -11,84 +11,75 @@ h1 {
     left: -50px;
 }
 
-.l1, .l2, .l3, .l4, .l5, .l6, .l7, .l8, .l9, .l10, .l11,.l12,.l13,.l14, .l15, .l16, .l17, .l18, .l19, .l20, .l21, .l22, .l23, .l24, .l25, .l26, .l27, .l28, .l29, .l30, .l31, .l32, .l33, .l34, .l35, .l36, .l37 {
-      position: absolute;
-      width: 250px;
-      height: 205px;
-      background-color: white;
-      border-radius: 25px 0 25px 0;
-       margin: 0 50% 0 50%;
-}
-
-.l1 {
+.s1 {
       top: 120px;
 }
 
-.l2, .l3, .l4, .l5, .s5, .s6, .s7, .s8 {
+.s2, .s3, .s4, .s5 {
       top: 355px;
 }
 
-.l6, .l7, .l8, .l9 {
+.s6, .s7, .s8, .s9 {
       top: 588px;
 }
 
-.l10, .s10, .s11, .s12, .s13 {
+.s10 {
       top: 874px;
 }
 
-.l11, .l12, .l13, .l14, .s14, .s15, .s16, .s17 {
+.s11, .s12, .s13, .s14 {
       top: 1107px;
 }
 
-.l15, .l16, .l17, .l18 {
+.s15, .s16, .s17, .s18 {
       top: 1340px;
 }
 
-.l19, .s19, .s20, .s21, .s22 {
+.s19{
       top: 1625px;
 }
 
-.l20, .l21, .l22, .l23, .s23,.s24, .s25, .s26 {
+.s20, .s21, .s22, .s23 {
       top: 1860px;
 }
 
-.l24, .l25, .l26, .l27 {
+.s24, .s25, .s26, .s27 {
       top: 2095px;
 }
 
-.l28 {
+.s28 {
       top: 2380px;
 }
 
-.l29, .l30, .l31, .l32, .s32, .s33, .s34, .s35 {
+.s29, .s30, .s31, .s32 {
       top: 2615px;
 }
 
-.l33, .l34, .l35, .l36 {
+.s33, .s34, .s35, .s36 {
       top: 2850px;
 }
 
-.l37 {
+.s37 {
       top: 3125px;
 }
 
-.l1, .l10, .l19, .l28, .l37, .superdezembro {
+.s1, .s10, .s19, .s28, .s37 {
       left: -118px;
 }
 
-.l2, .l6, .l11, .l15, .l20, .l24, .l29, .l33, .supermarço, .superagosto {
+.s2, .s6, .s11, .s15, .s20, .s24, .s29, .s33 {
      left: -550px;
 }
 
-.l3, .l7, .l12, .l16, .l21, .l25, .l30, .l34, .superabril, .supersetembro {
+.s3, .s7, .s12, .s16, .s21, .s25, .s30, .s34 {
       left: -260px;
 }
 
-.l4, .l8, .l13, .l17, .l22, .l26, .l31, .l35, .superjunho, .superoutubro {
+.s4, .s8, .s13, .s17, .s22, .s26, .s31, .s35 {
       left: 23px;
 }
 
-.l5, .l9, .l14, .l18, .l23, .l27, .l32, .l36, .superjulho, .supernovembro {
+.s5, .s9, .s14, .s18, .s23, .s27, .s32, .s36 {
       left: 308px;
 }
 
