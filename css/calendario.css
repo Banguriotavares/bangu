@@ -292,17 +292,8 @@ h2 {
       font-family: Verdana;
       font-size: 18px;
       margin: 14px 0 0 60px;
-}
-
-#dias p {
       color: white;
 }
-
-#dialivre p {;
-      color: #8B0000;
-}
-
-
 
 #escudo1 {
       position: absolute;
@@ -333,16 +324,16 @@ h2 {
 }
 
 #vs p {
-      color: white;
-      background-color:  #8B0000;
+      color: #8B0000;
+      background-color:  white;
 }
 
-#gol p, #vs p, #cancelado p {
+#gol p, #cancelado p {
       color: #FFFFFF;
 }
 
 #jogos p {
-      color: #8B0000;
+      color: white;
 }
 
 #gol p, #jogos p, #cancelado p {

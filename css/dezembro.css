@@ -22,10 +22,10 @@ h1 {
       position: absolute;
       width: 250px;
       height: 205px;
-      background-color: white;
       border-radius: 25px;
       margin: 0 50% 0 50%;
       opacity: 95%;
+      zoom: 90%;
 }
 
 .t1, .t2, .t3, .t4 {
