@@ -7,6 +7,12 @@
       height: 3420px;
 }
 
+@media (max-width: 980px) {
+  .outubro {
+      height: 5420px;
+}
+}
+
 h1 {
     left: -110px;
 }
@@ -84,6 +90,151 @@ h1 {
       left: 308px;
 }
 
+@media (max-width: 980px) {
+  .s1 {
+      top: 120px;
+}
+}
+
+@media (max-width: 980px) {
+  .s2, .s3 {
+      top: 370px;
+}
+}
+
+@media (max-width: 980px) {
+  .s4, .s5 {
+      top: 700px;
+}
+}
+
+@media (max-width: 980px) {
+  .s6, .s7 {
+     top: 950px;
+}
+}
+
+@media (max-width: 980px) {
+  .s8, .s9 {
+     top: 1195px;
+}
+}
+
+@media (max-width: 980px) {
+  .s10 {
+      top: 1440px;
+}
+}
+
+@media (max-width: 980px) {
+  .s11, .s12 {
+      top: 1686px;
+}
+}
+
+@media (max-width: 980px) {
+  .s13, .s14 {
+      top: 2030px;
+}
+}
+
+@media (max-width: 980px) {
+  .s15, .s16 {
+      top: 2285px;
+}
+}
+
+@media (max-width: 980px) {
+  .s17, .s18 {
+      top: 2535px;
+}
+}
+
+@media (max-width: 980px) {
+  .s19 {
+      top: 2785px;
+}
+}
+
+@media (max-width: 980px) {
+  .s20, .s21 {
+      top: 3035px;
+}
+}
+
+@media (max-width: 980px) {
+  .s22, .s23 {
+      top: 3335px;
+}
+}
+
+@media (max-width: 980px) {
+  .s24, .s25 {
+      top: 3635px;
+}
+}
+
+@media (max-width: 980px) {
+  .s26, .s27 {
+      top: 3935px;
+}
+}
+
+@media (max-width: 980px) {
+  .s28 {
+      top: 4235px;
+}
+}
+
+@media (max-width: 980px) {
+  .s29, .s30 {
+      top: 4535px;
+}
+}
+
+@media (max-width: 980px) {
+  .s31, .s32 {
+      top: 4835px;
+}
+}
+
+@media (max-width: 980px) {
+  .s33, .s34 {
+      top: 5135px;
+}
+}
+
+@media (max-width: 980px) {
+  .s35, .s36 {
+      top: 5435px;
+}
+}
+
+@media (max-width: 980px) {
+  .s37 {
+      top: 5735px;
+}
+}
+
+
+@media (max-width: 980px) {
+  .s2, .s4, .s6, .s8, .s11, .s13, .s15, .s17, .s20, .s22, .s24, .s26, .s29, .s31, .s33, .s35 {
+      left: -270px;
+}
+}
+
+@media (max-width: 980px) {
+  .s3, .s5, .s7, .s9, .s12, .s14, .s16, .s18, .s21, .s23, .s25, .s27, .s30, .s32, .s34, .s36 {
+      left:30px;
+}
+}
+
+@media (max-width: 980px) {
+  .s1, .s10, .s19, .s28, .s37 {
+      left: -125px;
+}
+}
+
 .supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .supernovembro, .superdezembro {
     background-color: white;
 }
@@ -94,4 +245,10 @@ h1 {
 
 #roda {
   margin-top: 3635px;
+}
+
+@media (max-width: 980px) {
+  #roda {
+  margin-top: 5635px;
+}
 }
