@@ -21,11 +21,18 @@ h1 {
 
 .março19, .março20, .março21, .março22, .março23, .março24, .março25, .março26, .março27, .março28, .março29, .março30, .março31, .março32, .março33, .março34, .março35, .março36 {
       position: absolute;
-      margin: 0 50% 0 50%;
       width: 250px;
       height: 205px;
-      background-color: white;
-      border-radius: 25px 0 25px 0;
+      border-radius: 25px;
+      margin: 0 50% 0 50%;
+      zoom: 90%;
+      border: 1px solid white;
+}
+
+.março19:hover, .março20:hover, .março21:hover, .março22:hover, .março23:hover, .março24:hover, .março25:hover, .março26:hover, .março27:hover, .março28:hover, .março29:hover, .março30:hover, .março31:hover, .março32:hover, .março33:hover, .março34:hover, .março35:hover, .março36:hover {
+      opacity: 85%;
+      background-color: #f64422;
+      border: 4px solid white;
 }
 
 .março1 {
@@ -54,48 +61,193 @@ h1 {
 }
 
 .março19 {
-      top: 2320px;
+      top: 2570px;
 }
 
 .março20, .março21, .março22, .março23 {
-      top: 2560px;
+      top: 2810px;
 }
 
 .março24, .março25, .março26, .março27 {
-      top: 2795px;
+      top: 3045px;
 }
 
 .março28 {
-      top: 3105px;
+      top: 3355px;
 }
 
 .março29, .março30, .março31, .março32 {
-      top: 3340px;
+      top: 3590px;
 }
 
 .março33, .março34, .março35, .março36 {
-      top: 3575px;
+      top: 3825px;
 }
 
 .março1, .março10, .março19, .março28, .superdezembro {
       left: -118px;
 }
 
-.março2, .março6, .março11, .março15, .março20, .março24, .março29, .março33, .superabril, .superagosto {
+.março2, .março6, .março11, .março15, .março20, .março24, .março29, .março33 {
      left: -550px;
 }
 
-.março3, .março7, .março12, .março16, .março21, .março25, .março30, .março34, .supermaio, .supersetembro {
+.março3, .março7, .março12, .março16, .março21, .março25, .março30, .março34 {
       left: -260px;
 }
 
-.março4, .março8, .março13, .março17, .março22, .março26, .março31, .março35, .superjunho, .superoutubro {
+.março4, .março8, .março13, .março17, .março22, .março26, .março31, .março35 {
       left: 23px;
 }
 
-.março5, .março9, .março14, .março18, .março23, .março27, .março32, .março36, .superjulho, .supernovembro {
+.março5, .março9, .março14, .março18, .março23, .março27, .março32, .março36 {
       margin: 0 50% 0 50%;
       left: 308px;
+}
+
+@media (max-width: 980px) {
+  .s1 {
+      top: 120px;
+}
+}
+
+@media (max-width: 980px) {
+  .s2, .s3 {
+      top: 370px;
+}
+}
+
+@media (max-width: 980px) {
+  .s4, .s5 {
+      top: 700px;
+}
+}
+
+@media (max-width: 980px) {
+  .s6, .s7 {
+     top: 950px;
+}
+}
+
+@media (max-width: 980px) {
+  .s8, .s9 {
+     top: 1195px;
+}
+}
+
+@media (max-width: 980px) {
+  .s10 {
+      top: 1440px;
+}
+}
+
+@media (max-width: 980px) {
+  .s11, .s12 {
+      top: 1686px;
+}
+}
+
+@media (max-width: 980px) {
+  .s13, .s14 {
+      top: 2030px;
+}
+}
+
+@media (max-width: 980px) {
+  .s15, .s16 {
+      top: 2285px;
+}
+}
+
+@media (max-width: 980px) {
+  .s17, .s18 {
+      top: 2535px;
+}
+}
+
+@media (max-width: 980px) {
+  .s19 {
+      top: 2785px;
+}
+}
+
+@media (max-width: 980px) {
+  .s20, .s21 {
+      top: 3035px;
+}
+}
+
+@media (max-width: 980px) {
+  .s22, .s23 {
+      top: 3335px;
+}
+}
+
+@media (max-width: 980px) {
+  .s24, .s25 {
+      top: 3635px;
+}
+}
+
+@media (max-width: 980px) {
+  .s26, .s27 {
+      top: 3935px;
+}
+}
+
+@media (max-width: 980px) {
+  .s28 {
+      top: 4235px;
+}
+}
+
+@media (max-width: 980px) {
+  .s29, .s30 {
+      top: 4535px;
+}
+}
+
+@media (max-width: 980px) {
+  .s31, .s32 {
+      top: 4835px;
+}
+}
+
+@media (max-width: 980px) {
+  .s33, .s34 {
+      top: 5135px;
+}
+}
+
+@media (max-width: 980px) {
+  .s35, .s36 {
+      top: 5435px;
+}
+}
+
+@media (max-width: 980px) {
+  .s37 {
+      top: 5735px;
+}
+}
+
+
+@media (max-width: 980px) {
+  .s2, .s4, .s6, .s8, .s11, .s13, .s15, .s17, .s20, .s22, .s24, .s26, .s29, .s31, .s33, .s35 {
+      left: -270px;
+}
+}
+
+@media (max-width: 980px) {
+  .s3, .s5, .s7, .s9, .s12, .s14, .s16, .s18, .s21, .s23, .s25, .s27, .s30, .s32, .s34, .s36 {
+      left:30px;
+}
+}
+
+@media (max-width: 980px) {
+  .s1, .s10, .s19, .s28, .s37 {
+      left: -125px;
+}
 }
 
 .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro,  .supernovembro, .superdezembro {
