@@ -7,6 +7,12 @@
       height: 3880px;
 }
 
+@media (max-width: 980px) {
+  .março {
+      height: 6460px;
+}
+}
+
 h1 {
     left: -75px;
 }
@@ -60,192 +66,186 @@ h1 {
       top: 1885px;
 }
 
-.março19 {
+.s19 {
       top: 2570px;
 }
 
-.março20, .março21, .março22, .março23 {
+.s20, .s21, .s22, .s23 {
       top: 2810px;
 }
 
-.março24, .março25, .março26, .março27 {
+.s24, .s25, .s26, .s27 {
       top: 3045px;
 }
 
-.março28 {
+.s28 {
       top: 3355px;
 }
 
-.março29, .março30, .março31, .março32 {
+.s29, .s30, .s31, .s32 {
       top: 3590px;
 }
 
-.março33, .março34, .março35, .março36 {
+.s33, .s34, .s35, .s36 {
       top: 3825px;
 }
 
-.março1, .março10, .março19, .março28, .superdezembro {
+.março1, .março10, .s19, .s28 {
       left: -118px;
 }
 
-.março2, .março6, .março11, .março15, .março20, .março24, .março29, .março33 {
+.março2, .março6, .março11, .março15, .s20, .s24, .s29, .s33 {
      left: -550px;
 }
 
-.março3, .março7, .março12, .março16, .março21, .março25, .março30, .março34 {
+.março3, .março7, .março12, .março16, .s21, .s25, .s30, .s34 {
       left: -260px;
 }
 
-.março4, .março8, .março13, .março17, .março22, .março26, .março31, .março35 {
+.março4, .março8, .março13, .março17, .s22, .s26, .s31, .s35 {
       left: 23px;
 }
 
-.março5, .março9, .março14, .março18, .março23, .março27, .março32, .março36 {
+.março5, .março9, .março14, .março18, .s23, .s27, .s32, .s36 {
       margin: 0 50% 0 50%;
       left: 308px;
 }
 
 @media (max-width: 980px) {
-  .s1 {
-      top: 120px;
+  .março1 {
+      top: 60px;
 }
 }
 
 @media (max-width: 980px) {
-  .s2, .s3 {
-      top: 370px;
+  .março2, .março3 {
+      top: 430px;
 }
 }
 
 @media (max-width: 980px) {
-  .s4, .s5 {
-      top: 700px;
+  .março4, .março5 {
+      top: 830px;
 }
 }
 
 @media (max-width: 980px) {
-  .s6, .s7 {
-     top: 950px;
+  .março6, .março7 {
+     top: 1250px;
 }
 }
 
 @media (max-width: 980px) {
-  .s8, .s9 {
-     top: 1195px;
+  .março8, .março9 {
+     top: 1655px;
 }
 }
 
 @media (max-width: 980px) {
-  .s10 {
-      top: 1440px;
+  .março10 {
+      top: 2180px;
 }
 }
 
 @media (max-width: 980px) {
-  .s11, .s12 {
-      top: 1686px;
+  .março11, .março12 {
+      top: 2556px;
 }
 }
 
 @media (max-width: 980px) {
-  .s13, .s14 {
-      top: 2030px;
+  .março13, .março14 {
+      top: 2830px;
 }
 }
 
 @media (max-width: 980px) {
-  .s15, .s16 {
-      top: 2285px;
+  .março15, .março16 {
+      top: 3105px;
 }
 }
 
 @media (max-width: 980px) {
-  .s17, .s18 {
-      top: 2535px;
+  .março17, .março18 {
+      top: 3505px;
 }
 }
 
 @media (max-width: 980px) {
   .s19 {
-      top: 2785px;
+      top: 4445px;
 }
 }
 
 @media (max-width: 980px) {
   .s20, .s21 {
-      top: 3035px;
+      top: 4700px;
 }
 }
 
 @media (max-width: 980px) {
   .s22, .s23 {
-      top: 3335px;
+      top: 4955px;
 }
 }
 
 @media (max-width: 980px) {
   .s24, .s25 {
-      top: 3635px;
+      top: 5215px;
 }
 }
 
 @media (max-width: 980px) {
   .s26, .s27 {
-      top: 3935px;
+      top: 5475px;
 }
 }
 
 @media (max-width: 980px) {
   .s28 {
-      top: 4235px;
+      top: 5835px;
 }
 }
 
 @media (max-width: 980px) {
   .s29, .s30 {
-      top: 4535px;
+      top: 6100px;
 }
 }
 
 @media (max-width: 980px) {
   .s31, .s32 {
-      top: 4835px;
+      top: 6355px;
 }
 }
 
 @media (max-width: 980px) {
   .s33, .s34 {
-      top: 5135px;
+      top: 6610px;
 }
 }
 
 @media (max-width: 980px) {
   .s35, .s36 {
-      top: 5435px;
-}
-}
-
-@media (max-width: 980px) {
-  .s37 {
-      top: 5735px;
+      top: 6865px;
 }
 }
 
 
 @media (max-width: 980px) {
-  .s2, .s4, .s6, .s8, .s11, .s13, .s15, .s17, .s20, .s22, .s24, .s26, .s29, .s31, .s33, .s35 {
+  .março2, .março4, .março6, .março8, .março11, .março13, .março15, .março17, .s20, .s22, .s24, .s26, .s29, .s31, .s33, .s35 {
       left: -270px;
 }
 }
 
 @media (max-width: 980px) {
-  .s3, .s5, .s7, .s9, .s12, .s14, .s16, .s18, .s21, .s23, .s25, .s27, .s30, .s32, .s34, .s36 {
+  .março3, .março5, .março7, .março9, .março12, .março14, .março16, .março18, .s21, .s23, .s25, .s27, .s30, .s32, .s34, .s36 {
       left:30px;
 }
 }
 
 @media (max-width: 980px) {
-  .s1, .s10, .s19, .s28, .s37 {
+  .março1, .março10, .s19, .s28 {
       left: -125px;
 }
 }
@@ -260,4 +260,10 @@ h1 {
 
 #roda {
   margin-top: 4080px;
+}
+
+@media (max-width: 980px) {
+  #roda {
+  margin-top: 6680px;
+}
 }
