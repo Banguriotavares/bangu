@@ -4,7 +4,7 @@
       position: absolute;
       width: 100%;
       background: #8B0000;
-      height: 3880px;
+      height: 3800px;
 }
 
 @media (max-width: 980px) {
@@ -24,33 +24,16 @@ h1 {
       height: 205px;
 }
 
-
-.março19, .março20, .março21, .março22, .março23, .março24, .março25, .março26, .março27, .março28, .março29, .março30, .março31, .março32, .março33, .março34, .março35, .março36 {
-      position: absolute;
-      width: 250px;
-      height: 205px;
-      border-radius: 25px;
-      margin: 0 50% 0 50%;
-      zoom: 90%;
-      border: 1px solid white;
-}
-
-.março19:hover, .março20:hover, .março21:hover, .março22:hover, .março23:hover, .março24:hover, .março25:hover, .março26:hover, .março27:hover, .março28:hover, .março29:hover, .março30:hover, .março31:hover, .março32:hover, .março33:hover, .março34:hover, .março35:hover, .março36:hover {
-      opacity: 85%;
-      background-color: #f64422;
-      border: 4px solid white;
-}
-
 .março1 {
-      top: 100px;
+      top: 50px;
 }
 
 .março2, .março3, .março4, .março5 {
-      top: 440px;
+      top: 390px;
 }
 
 .março6, .março7, .março8, .março9 {
-      top: 840px;
+      top: 790px;
 }
 
 .março10 {
@@ -67,27 +50,27 @@ h1 {
 }
 
 .s19 {
-      top: 2570px;
+      top: 2620px;
 }
 
 .s20, .s21, .s22, .s23 {
-      top: 2810px;
+      top: 2860px;
 }
 
 .s24, .s25, .s26, .s27 {
-      top: 3045px;
+      top: 3095px;
 }
 
 .s28 {
-      top: 3355px;
+      top: 3405px;
 }
 
 .s29, .s30, .s31, .s32 {
-      top: 3590px;
+      top: 3640px;
 }
 
 .s33, .s34, .s35, .s36 {
-      top: 3825px;
+      top: 3875px;
 }
 
 .março1, .março10, .s19, .s28 {
@@ -259,7 +242,7 @@ h1 {
 }
 
 #roda {
-  margin-top: 4080px;
+  margin-top: 4000px;
 }
 
 @media (max-width: 980px) {

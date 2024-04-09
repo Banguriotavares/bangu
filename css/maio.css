@@ -4,7 +4,7 @@
       position: absolute;
       width: 100%;
       background: #8B0000;
-      height: 3395px;
+      height: 3145px;
 } 
 
 @media (max-width: 980px) {
@@ -18,51 +18,51 @@ h1 {
 }
 
 .s1 {
-      top: 120px;
+      top: 60px;
 }
 
 .s2, .s3, .s4, .s5 {
-      top: 355px;
+      top: 295px;
 }
 
 .s6, .s7, .s8, .s9 {
-      top: 588px;
+      top: 528px;
 }
 
 .s10 {
-      top: 874px;
+      top: 814px;
 }
 
 .s11, .s12, .s13, .s14 {
-      top: 1107px;
+      top: 1047px;
 }
 
 .s15, .s16, .s17, .s18 {
-      top: 1340px;
+      top: 1280px;
 }
 
 .s19{
-      top: 1625px;
+      top: 1565px;
 }
 
 .s20, .s21, .s22, .s23 {
-      top: 1860px;
+      top: 1800px;
 }
 
 .s24, .s25, .s26, .s27 {
-      top: 2095px;
+      top: 2035px;
 }
 
 .s28 {
-      top: 2380px;
+      top: 2320px;
 }
 
 .s29, .s30, .s31, .s32 {
-      top: 2615px;
+      top: 2555px;
 }
 
 .s33, .s34, .s35, .s36 {
-      top: 2850px;
+      top: 2790px;
 }
 
 .s37 {
@@ -243,7 +243,7 @@ h1 {
 }
 
 #roda {
-  margin-top: 3609px;
+  margin-top: 3359px;
 }
 
 @media (max-width: 980px) {

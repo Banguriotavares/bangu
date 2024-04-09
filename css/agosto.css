@@ -4,7 +4,7 @@
       position: absolute;
       width: 100%;
       background: #8B0000;
-      height: 3395px;
+      height: 3145px;
 }
 
 @media (max-width: 980px) {
@@ -18,55 +18,55 @@ h1 {
 }
 
 .s1, .s2, .s3, .s4 {
-      top: 120px;
+      top: 60px;
 }
 
 .s5, .s6, .s7, .s8 {
-      top: 355px;
+      top: 295px;
 }
 
 .s9 {
-      top: 633px;
+      top: 573px;
 }
 
 .s10, .s11, .s12, .s13 {
-      top: 874px;
+      top: 814px;
 }
 
 .s14, .s15, .s16, .s17 {
-      top: 1107px;
+      top: 1047px;
 }
 
 .s18 {
-      top: 1385px;
+      top: 1325px;
 }
 
 .s19, .s20, .s21, .s22 {
-      top: 1625px;
+      top: 1565px;
 }
 
 .s23,.s24, .s25, .s26 {
-      top: 1860px;
+      top: 1800px;
 }
 
 .s27 {
-      top: 2140px;
+      top: 2080px;
 }
 
 .s28, .s29, .s30, .s31 {
-      top: 2380px;
+      top: 2320px;
 }
 
 .s32, .s33, .s34, .s35 {
-      top: 2615px;
+      top: 2555px;
 }
 
 .s36 {
-      top: 2900px;
+      top: 2840px;
 }
 
 .s37, .s38, .s39, .s40 {
-      top: 3135px;
+      top: 3080px;
 }
 
 .s9, .s18, .s27, .s36 {
@@ -248,7 +248,7 @@ h1 {
 }
 
 #roda {
-  margin-top: 3609px;
+  margin-top: 3358px;
 }
 
 @media (max-width: 980px) {
