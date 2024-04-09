@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+       <meta charset="UTF-8">
+       <title>Bangu - Aluguel</title>
+       <link rel="stylesheet" href="css/formulario.css">
+       <link rel="stylesheet" href="css/todos.css">
+       <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
+       <link rel="shortcut icon" href="favicon.png">
+
+</head> 
+<body>
+<header id="menu">
+        <nav><ul>
+            <li><a href ='bar.html'>Bar</a></li>
+            <li><a href ='março.html'>Jogos</a></li>
+            <li><a href ='taça_bangu.html'>Taça</a></li>
+        </ul></nav>
+</header>
+<header id="site">
+       <h1>Aluguel</h1>
+
+        
+      <div id="caixa4"></div>
+      <div id="texto"><p>O projeto Futebol e Cidadania da <a href="https://www.udesc.br/busca?q=projeto%20Futebol%20e%20Cidadania/site/" target="blank">UDESC</a> é realizado há 15 anos com o apoio do Bangu do Rio Tavares, time de futebol local, na Associação Recreativa Esportiva e Cultural Bangu. O projeto que tem a coordenação do professor da Universidade de educação física Alfredo Balduíno, e realizados pelos alunos. A ação atende crianças e adolescentes dos 5 aos 18 anos três vezes por semana, terças e quintas, no período da tarde e sábados pela manhã. A ação busca valorizar as crianças e os jovens do local através do esporte e da promoção da cidadania. Ensinar a disciplina dentro e fora do campo, reforçar qualidades individuais e coletivas, promover o respeito às regras e ao próximo.</p></div> 
+</header>
+
+<header class="mapa"> 
+	<div id="datas">
+      <div id="mapa0"><p>Endereço</p></div>
+      <div id="mapa1"><p><b>RUA</b></p></div>
+      <div id="mapa2"><p>Rodovia SC-405, n° 356 - Rio Tavares</p></div>
+      <div id="mapa3"><p><b>BAIRRO</b></p></div>
+      <div id="mapa4"><p>Rio Tavares</p></div>
+      <div id="mapa5"><p><b>CEP</b></p></div>
+      <div id="mapa6"><p>88063700</p></div>
+      <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+      <script>
+function initialize() {
+  var myLatlng = new google.maps.LatLng(-27.665197,-48.502348,3);
+  var mapOptions = {
+    zoom: 15,
+    center: myLatlng
+  };
+
+  var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+  var contentString = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Uluru</h1>'+
+      '<div id="bodyContent">'+
+      '<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large ' +
+      'sandstone rock formation in the southern part of the '+
+      'Northern Territory, central Australia. It lies 335&#160;km (208&#160;mi) '+
+      'south west of the nearest large town, Alice Springs; 450&#160;km '+
+      '(280&#160;mi) by road. Kata Tjuta and Uluru are the two major '+
+      'features of the Uluru - Kata Tjuta National Park. Uluru is '+
+      'sacred to the Pitjantjatjara and Yankunytjatjara, the '+
+      'Aboriginal people of the area. It has many springs, waterholes, '+
+      'rock caves and ancient paintings. Uluru is listed as a World '+
+      'Heritage Site.</p>'+
+      '<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">'+
+      'https://en.wikipedia.org/w/index.php?title=Uluru</a> '+
+      '(last visited June 22, 2009).</p>'+
+      '</div>'+
+      '</div>';
+
+  var infowindow = new google.maps.InfoWindow({
+      content: contentString
+  });
+
+  var marker = new google.maps.Marker({
+      position: myLatlng,
+      map: map,
+      title: 'Uluru (Ayers Rock)'
+  });
+  google.maps.event.addListener(marker, 'click', function() {
+    infowindow.open(map,marker);
+  });
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+</script>
+      <div id="map-canvas"></div>
+  </div>
+</header>
+<div id="caixa2"></div>
+<form method="post" name="fcontato" action="mailto:daniavai.antunes@gmail.com">
+<fieldset id="usuario">
+    <div id="caixa"><h2>Inscrisções abertas</h2><h3>Nome*<input type="text" name="tnome" id="cnome" size="30" placeholder="Nome Completo"></h3>
+    <h3>E-mail*<input type="email" name="tmail" id="cmail" size="30"></h3>
+    <h3>Data de Nasc.*<input type="date" name="tdate" id="cdate" size="30" ></h3>
+
+   <h3>Bairro*
+    <select name="tbairro" id="cbairro">
+      <option>Armação</option>
+      <option>Arreias</option>
+      <option>Caeira da Barra do sul</option>
+        <option>Campeche</option>
+        <option>Carianos</option>
+      <option>Castanheiras</option>
+        <option>Costa de Cima</option>
+      <option>Costa de Dentro</option>
+        <option>Costeira</option>
+        <option>Lagoa da Coceição</option>
+        <option>Morro das Pedras</option>
+        <option>Pantano do Sul</option>
+      <option>Porto da lagoa</option>
+        <option>Ribeirão da Ilha</option>
+        <option selected>Rio Tavares</option>
+      <option>Tapera</option>
+    </select></h3>
+   <h3><input type="submit" name="BTEnvia" value="Enviar" id="aperta"></h3></div>
+</fieldset>
+</form>
+<div class="caixa3"></div><div id="caixa3"><p>&nbsp&nbspO projeto Futebol e Cidadania da UDESC é realizado há 15 anos com o apoio do Bangu do Rio Tavares, time de futebol local, na Associação Recreativa Esportiva e Cultural Bangu. O projeto que tem a coordenação do professor da Universidade de educação física Alfredo Balduíno, e realizados pelos alunos.</div>
+</header>
+<div id="roda">  
+
+  <footer id="roda">
+        <div id="img01" ><img src="imagens/arcebangu.png" width="100" height="110" /></div>
+        <div id="textos"><p>Uma &nbsppexperiência &nbspa ser &nbspcompartilhada</p></div>
+        <div id="img2"><a href =https://www.instagram.com/arcebangurt/ target="_blank"><img src="imagens/instagram.png" width="30" height="30" /></a></div>
+        <div id="img3"><a href =https://www.instagram.com/arcebangurt// target="_blank"><img src="imagens/whats.png" width="30" height="30" /></a></div>
+        <div id="texto4"><a href ='https://www.google.com.br/maps/@-27.6641169,-48.5032426,3a,75y,251.22h,84.91t/data=!3m6!1e1!3m4!1sVBbXg7b3Cv0Ztm82yTAjlg!2e0!7i13312!8i6656?entry=ttu' target="_blank"><p>Rodovia SC-405, 356 - Rio Tavares</p></a></div>   
+</footer>    
+</body>
+</html>
