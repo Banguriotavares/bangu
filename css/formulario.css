@@ -10,7 +10,7 @@ h1 {
     font-size: 58px;
     margin: 0 50% 0 50%;
     color: #ED3A1E;
-    margin: 105px 0 0 620px;
+    margin: 105px 0 0 655px;
     font-family: 'Fjalla One', sans-serif;
     letter-spacing: .092em;
     font-weight: 700;
@@ -27,11 +27,9 @@ h1 {
      padding: 0 270px 0 550px;
 	 font-size: 18px;
      line-height: 1.70;
-     letter-spacing: .092em;
+     letter-spacing: .142em;
      font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-     color: #8B0000;
      text-indent: 27px;
-
 }
 
 #usuario {
@@ -82,11 +80,11 @@ h3 {
 }
 
 #caixa2 {
-    margin: 820px 0 0 364px;
+    margin: 820px 0 0 360px;
 }
 
 #caixa3 {
-    margin: 820px 0 0 804px;
+    margin: 820px 0 0 800px;
 }
 
 #caixa3 p {
