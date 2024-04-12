@@ -5,6 +5,7 @@
        <title>Bangu - Aluguel</title>
        <link rel="stylesheet" href="css/formulario.css">
        <link rel="stylesheet" href="css/todos.css">
+       <link rel="stylesheet" href="enviarWhatsApp.php">
        <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
        <link rel="shortcut icon" href="favicon.png">
 
@@ -24,34 +25,35 @@
 
 <div id="caixa1"></div>
 <div id="caixa2"></div>
-<form method="post" name="fcontato" action="mailto:daniavai.antunes@gmail.com">
+<form method="post" name="fcontato" action="enviarWhatsApp.php" method="post" >
 <fieldset id="usuario">
-    <div id="caixa"><h2>Inscrisções abertas</h2><h3>Nome*<input type="text" name="tnome" id="cnome" size="30" placeholder="Nome Completo"></h3>
-    <h3>E-mail*<input type="email" name="tmail" id="cmail" size="30"></h3>
-    <h3>Data de Nasc.*<input type="date" name="tdate" id="cdate" size="30" ></h3>
-
-   <h3>Bairro*
-    <select name="tbairro" id="cbairro">
-      <option>Armação</option>
-      <option>Arreias</option>
-      <option>Caeira da Barra do sul</option>
-        <option>Campeche</option>
-        <option>Carianos</option>
-      <option>Castanheiras</option>
-        <option>Costa de Cima</option>
-      <option>Costa de Dentro</option>
-        <option>Costeira</option>
-        <option>Lagoa da Coceição</option>
-        <option>Morro das Pedras</option>
-        <option>Pantano do Sul</option>
-      <option>Porto da lagoa</option>
-        <option>Ribeirão da Ilha</option>
-        <option selected>Rio Tavares</option>
-      <option>Tapera</option>
-    </select></h3>
+    <div id="caixa"><h2>Inscrisções abertas</h2>
+       <h3>Nome<input type="text" name="tnome" id="cnome" size="30" placeholder="Nome Completo"></h3>
+       <h3>E-mail<input type="email" name="tmail" id="cmail" size="30"></h3>
+       <h3>Número<input type="tel" name="whatsapp" required size="10"><br›</h3>
+       <h3>Bairro*
+          <select name="tbairro" id="cbairro">
+                  <option>Armação</option>
+                  <option>Arreias</option>
+                  <option>Caeira da Barra do sul</option>
+                  <option>Campeche</option>
+                  <option>Carianos</option>
+                  <option>Castanheiras</option>
+                  <option>Costa de Cima</option>
+                  <option>Costa de Dentro</option>
+                  <option>Costeira</option>
+                  <option>Lagoa da Coceição</option>
+                  <option>Morro das Pedras</option>
+                  <option>Pantano do Sul</option>
+                  <option>Porto da lagoa</option>
+                  <option>Ribeirão da Ilha</option>
+                  <option selected>Rio Tavares</option>
+                  <option>Tapera</option>
+         </select></h3>
    <h3><input type="submit" name="BTEnvia" value="Enviar" id="aperta"></h3></div>
 </fieldset>
 </form>
+
 <div class="caixa3"></div><div id="caixa3"><p>&nbsp&nbspO projeto Futebol e Cidadania da UDESC é realizado há 15 anos com o apoio do Bangu do Rio Tavares, time de futebol local, na Associação Recreativa Esportiva e Cultural Bangu. O projeto que tem a coordenação do professor da Universidade de educação física Alfredo Balduíno, e realizados pelos alunos.</div>
 </header>
 <div id="roda">  
