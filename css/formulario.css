@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-#site, #datas, #mapa, .contato {
+#site, .contato {
 	position: relative;
 	width: 1100px;
 }
@@ -35,13 +35,33 @@ h1 {
 #usuario {
     position: absolute;
     margin: 840px 0 0 360px;
-     width: 370px;
+    width: 370px;
+}
+
+#fs-frm {
+    margin: 100px 0 0 300px;
+}
+
+#fs-frm-inputs {
     border: none;
 }
 
-input, select {
-    margin: 7px 0 0 5px;
+#botao {
+    margin-top: 30px;
+}
+
+h2 {
+    position: relative;
+    font-family: Verdana;
+    letter-spacing: .092em;
+    font-size: 15px;
+    color: white;
+    margin-top: 25px;
+}
+
+input{
     padding: 7px 23px 7px 23px;
+    margin: 0 0 0 25px;
     font-size: 15px;
     font-family: 'Source Code Pro', monospace;
     border-radius: 30px;
@@ -53,61 +73,16 @@ input:hover, select:hover, textarea:hover {
     background-color: #dcdcdc;
 }
 
-
-h3 {
-    color: #8B0000;
-    font-family: 'Droid Serif';
-    font-size: 16px;
-    margin: 30px 20px 0px 20px;
-    padding: 0 0 0 10px;
-    letter-spacing: .12em;
-}
-
 #caixa1 {
     position: absolute;
     width: 100%;
-    height: 700px;
+    height: 800px;
     background-color: #8B0000;
     top: 750px;
 }
 
-#caixa2, #caixa3 {
-    position: absolute;
-    height: 545px;
-    width: 375px;
-    background-color: white;
-    border-radius: 20px;
-}
-
-#caixa2 {
-    margin: 820px 0 0 360px;
-}
-
-#caixa3 {
-    margin: 820px 0 0 800px;
-}
-
-#caixa3 p {
-    position: relative;
-    margin: 80px 40px 40px 40px;
-    font-size: 19px;
-    line-height: 1.70;
-    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-}
-
-h2 {
-    position: relative;
-    text-align: center;
-    font-family: Verdana;
-    letter-spacing: .092em;
-    font-size: 22px;
-    color: #800000;
-    margin-top: 25px;
-    padding: 0 0 10px 0;
-}
-
 #roda {
-  margin-top: 1440px;
+  margin-top: 1540px;
 }
 
 @media (max-width: 980px) {
