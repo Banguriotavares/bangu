@@ -25,6 +25,12 @@ body {
    height: 50px;
    background-color: #8B0000;
 }
+
+@media (max-width: 980px) {
+  #menu {
+   zoom: 130%;
+}
+}
         
 nav ul {
    position: absolute;
@@ -36,7 +42,7 @@ nav ul {
 @media (max-width: 980px) {
   nav ul {
    margin: 0 50% 0 50%;
-   left: -460px;
+   left: -420px;
 } 
 }
 
@@ -177,9 +183,10 @@ footer {
   #textos {
     margin: 0 50% 0 50%;
     font-size: 20px;
-    width: 445px;
+    width: 500px;
     top: 14.4em;
     left: -11em;
+    padding: 0 0 0 0;
 } 
 }
 
