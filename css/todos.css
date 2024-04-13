@@ -164,7 +164,6 @@ footer {
 
 #textos, #texto4 {
     position: absolute;
-    padding: 0 70px 0 0;
     margin: 0 50% 0 50%; 
     width: 458px;
     line-height: 1.50;
@@ -186,7 +185,6 @@ footer {
     width: 500px;
     top: 14.4em;
     left: -11em;
-    padding: 0 0 0 0;
 } 
 }
 
