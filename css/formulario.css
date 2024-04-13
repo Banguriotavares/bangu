@@ -48,7 +48,7 @@ h1 {
  #site p {;
      margin-top: 300px;
      padding: 0 70px 0 70px;
-     zoom: 80%;
+     zoom: 90%;
 }
 }
 
@@ -62,7 +62,7 @@ h1 {
 
 @media (max-width: 980px) {
 #caixa1 {
-    top: 770px;
+    top: 870px;
     height: 850px;
 }
 }
@@ -142,6 +142,6 @@ input:hover, select:hover, textarea:hover {
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 1580px;
+  margin-top: 1680px;
 }
 }		
