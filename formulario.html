@@ -25,32 +25,30 @@
 
 <div id="caixa1">
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xdoqpyoe" method="post">
-  
-    <label for="full-name"><h2>Name</h2></label>
-    <input type="text" name="Name" id="full-name" placeholder="Nome Completo" required="">
-      
-      
-    <label for="full-name"><h2>Time</h2></label>
-    <input type="text" name="Time" id="full-time" placeholder="Nome do Time" required="">
-      
-      
-    <label for="email-address"><h2>E-mail</h2></label>
-    <input type="email" name="E-mail" id="email-address" placeholder="exemplo@xxx.com" required="">
+<form id="meuFormulario" action="" method="post">
+        <label for="nome"><h2>Nome:</h2></label><input type="text" id="nome" name="nome">
+        <label for="time"><h2>Time:</h2></label><input type="text" id="time" name="time">
+        <label for="numero"><h2>Número:</h2></label><input type="text" id="numero" name="numero">
+        <label for="data"><h2>Data do Jogo:</h2></label><input type="date" id="data" name="data">
+        <label for="horario"><h2>Horário do Jogo:</h2></label><input type="time" id="horario" name="horario">
+        <input type="submit" value="Enviar">
+    </form>
 
-    <label for="numero"><h2>Número:</h2></label>
-    <input type="text" name="WhatsApp" placeholder="(48) 99999-9999">
+    <script>
+        document.getElementById('meuFormulario').addEventListener('submit', function(e) {
+            e.preventDefault();
 
-    <label for="data"><h2>Data do Jogo:</h2></label>
-    <input type="date" name="Dia do jogo">
-      
-     <label for="horario"><h2>Horário do Jogo:</h2></label>
-     <input type="time" name="Horário">
-    
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-  
- <div id="botao"><input type="submit" value="Enviar"></div>
-</form>
+            var nome = document.getElementById('nome').value;
+            var time = document.getElementById('time').value;
+            var numero = document.getElementById('numero').value;
+            var data = document.getElementById('data').value;
+            var horario = document.getElementById('horario').value;
+
+            var mensagem = 'Olá! Meu nome é ' + nome + ', sou do time ' + time + '. Gostaria de marcar um jogo para o dia ' + data + ' às ' + horario + '.';
+
+            window.location.href = 'https://wa.me/5548996368579?text=' + numero + '?text=' + encodeURIComponent(mensagem);
+        });
+    </script>
 
          <img src="imagens/551.png" alt="bangu" width="330" height="469" />
 </div>
