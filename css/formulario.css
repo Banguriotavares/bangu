@@ -41,14 +41,14 @@ h1 {
 #caixa1 {
     position: absolute;
     width: 100%;
-    height: 570px;
+    height: 630px;
     background-color: #8B0000;
     top: 650px;
 }
 
 @media (max-width: 980px) {
 #caixa1 {
-    top: 986px;
+    top: 1086px;
     height: 1150px;
 }
 }
@@ -60,7 +60,7 @@ h1 {
 
 @media (max-width: 980px) {
   #caixa1 img {
-   margin: -1300px 160px;
+   margin: -1200px 160px;
 }
 }
 
@@ -110,7 +110,7 @@ input:hover, select:hover, textarea:hover {
 }
 
 #roda {
-  margin-top: 1210px;
+  margin-top: 1270px;
 }
 
 @media (max-width: 980px) {

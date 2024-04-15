@@ -27,7 +27,8 @@
 
 <form id="meuFormulario" action="" method="post">
         <label for="nome"><h2>Nome:</h2></label><input type="text" id="nome" name="nome">
-        <label for="time"><h2>Time:</h2></label><input type="text" id="time" name="time">
+        <label for="time"><h2>Seu Time:</h2></label><input type="text" id="time" name="time">
+        <label for="adversario"><h2>Adversario:</h2></label><input type="text" id="adversario" name="adversario">
         <label for="numero"><h2>Número:</h2></label><input type="text" id="numero" name="numero">
         <label for="data"><h2>Data do Jogo:</h2></label><input type="date" id="data" name="data">
         <label for="horario"><h2>Horário do Jogo:</h2></label><input type="time" id="horario" name="horario">
@@ -40,11 +41,12 @@
 
             var nome = document.getElementById('nome').value;
             var time = document.getElementById('time').value;
+            var adversario = document.getElementById('adversario').value;
             var numero = document.getElementById('numero').value;
             var data = document.getElementById('data').value;
             var horario = document.getElementById('horario').value;
 
-            var mensagem = 'Olá! Meu nome é ' + nome + ', sou do time ' + time + '. Gostaria de marcar um jogo para o dia ' + data + ' às ' + horario + '.';
+            var mensagem = 'Olá! Meu nome é ' + nome + ', sou do time ' + time + ', vou jogar contra o ' + adversario + ' . Gostaria de marcar um jogo para o dia ' + data + ' às ' + horario + '.';
 
             window.location.href = 'https://wa.me/5548996368579?text=' + numero + '?text=' + encodeURIComponent(mensagem);
         });
