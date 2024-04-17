@@ -241,8 +241,59 @@ h1 {
      margin: 150px 0 0 509px;
 }
 
+.bairro {
+    position: relative;
+    margin: 70px 0 0 199px;
+    width: 1150px;
+    height: 1255px;
+    background-color: white;
+    box-shadow: 0 0 1px 0 black;
+    border-radius: 20px;
+}
+
+.bairro h1 {
+    position: absolute;
+    margin: 70px 0 0 344px;
+}
+
+#bairro1 p, #bairro2 p, #bairro3 p {
+    position: absolute;
+    font-size: 21px;
+    line-height: 1.70;
+    letter-spacing: .022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #333;
+    text-indent: 27px;
+}
+
+#bairro1 P {
+     margin: 200px 110px 0 110px;
+}
+
+#bairro2 P {
+     margin: 380px 110px 0 560px;
+}
+
+#bairro3 P {
+     margin: 760px 460px 0 110px;
+}
+
+#bairroimg1 img, #bairroimg2 img {
+     position: absolute;
+     border-radius: 15px;
+     box-shadow: 0 0 1px  black;
+}
+
+#bairroimg1 img {
+     margin: 390px 110px 0 110px;
+}
+
+#bairroimg2 img {
+     margin: 760px 110px 0 760px;
+}
+
 #roda {
 	position: absolute;
-    margin-top: 1980px;
+    margin-top: 80px;
 	background-color: white;
 }		
