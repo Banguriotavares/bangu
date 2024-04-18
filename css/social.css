@@ -9,23 +9,44 @@ h1 {
     position: relative;
     font-size: 58px;
     color: #ED3A1E;
-    margin: 105px 0 0 620px;
+    margin: 0 50% 0 50%;
+    top: 105px;
+    left: -120px;
     font-family: 'Fjalla One', sans-serif;
+    letter-spacing: .092em;
+    font-weight: 500;
+}
+
+@media (max-width: 980px) {
+  h1 {
+      left: -125px;
+}
 }
 
 #caixa4 {
      position: absolute;
-     margin: 85px 139px 0 330px;
+     margin: 0 50% 0 50%;
+     top: 265px;
+     left: -430px;
      height: 800px;
-     width: 1189px;
+     width: 1189.5px;
      background-color: white;
      border-radius: 20px 0 0 0;
-     box-shadow: 0 0 1px 0 black;
-}	 
+}	
+
+@media (max-width: 980px) {
+ #caixa4 {
+     height: 950px;
+     width: 789px;
+     zoom: 70%;
+     top: 360px;
+     left: -330px;
+}
+} 
 	  
 #texto p {
      position: relative;
-     margin: 70px 270px 0 90px;
+     padding: 40px 270px 0 90px;
 	 font-size: 21px;
      line-height: 1.70;
      letter-spacing: .022em;
@@ -33,6 +54,12 @@ h1 {
      color: #333;
      text-indent: 27px;
 }
+
+@media (max-width: 980px) {
+ #texto p {
+     padding: 70px 80px 0 80px;
+}
+} 
 
 #texto a {
      color: #333; 
@@ -42,6 +69,12 @@ h1 {
     position: absolute;
     border-radius: 15px;
     box-shadow: 0 0 1px  black;
+}
+
+@media (max-width: 980px) {
+#treino1 img, #treino2 img, #treino3 img, #treino4 img {
+    zoom: 80%;
+}
 }
       
 #treino1 img {
@@ -60,19 +93,54 @@ h1 {
     margin: 325px 0 0 569px;
 }
 
+@media (max-width: 980px) {
+#treino1 img {
+    margin: 45px 0 0 -56px;
+}
+}
+
+@media (max-width: 980px) {
+#treino2 img {
+   margin: 45px 0 0 449px;
+}
+}
+
+@media (max-width: 980px) {
+#treino3 img {
+    margin: 325px 0 0 -56px;
+}
+}
+
+@media (max-width: 980px) {
+#treino4 img {
+    margin: 325px 0 0 449px;
+}
+}
+
 #caixa5 {
      position: absolute;
-     margin: 1100px 0 0 -210px;
+     margin: 0 50% 0 50%;
+     top: 1300px;
+     left: -760px;
      height: 115px;
-     width: 1290px;
+     width: 1090px;
      background-color: white;
      border-radius: 0 27px 0px 0;
      box-shadow: 0 0 1px 0 black;
 }
 
+@media (max-width: 980px) {
+#caixa5 {
+     zoom: 80%;
+     width: 630px;
+     height: 215px;
+     left: -400px;
+}
+} 
+
 #caixa5 p {
     position: absolute;
-    margin: 45px 0 0 240px;
+    margin: 45px 0 0 140px;
     position: relative;
     font-family: Verdana;
     letter-spacing: .092em;
@@ -81,43 +149,75 @@ h1 {
     text-indent: 27px;
 }
 
+@media (max-width: 980px) {
+#caixa5 p {
+    margin: 85px 0 0 40px;
+}
+} 
+
 #foto5 img, #foto6 img, #foto7 img, #foto8 img {
-    position: absolute;
-    width: 115px; 
-    border-radius: 12px 0px 12px 0px;
+    position: absolute; 
 }
 
 #foto5 img {
-    margin: -62px 0 0 490px;
-    height: 90px;
-    width: 135px; 
+    margin: -62px 0 0 370px;
 }
 
 #foto6 img {
-     margin: -63px 0 0 695px;
-     height: 85px;
-     width: 135px;
+     margin: -63px 0 0 545px;
 }
 
 #foto7 img {
-     margin: -58px 0 0 910px;
-     width: 135px; 
-     height: 83px;
+     margin: -58px 0 0 730px;
 }
 
 #foto8 img {
-     margin: -62px 0 0 1100px;
-     height: 93px;
+     margin: -62px 0 0 920px;
+}
+
+@media (max-width: 980px) {
+#foto5 img {
+    margin: -102px 0 0 270px;
+}
+}
+
+@media (max-width: 980px) {
+#foto6 img {
+    margin: -102px 0 0 445px;
+}
+}
+
+@media (max-width: 980px) {
+#foto7 img {
+    margin: -7px 0 0 270px;
+}
+}
+
+@media (max-width: 980px) {
+#foto8 img {
+    margin: -7px 0 0 445px;
+}
 }
 
 .datas {
     position: absolute;
     width: 1250px;
     height: 300px;
-    margin-top: 1310px;
+    margin: 0 50% 0 50%;
+    top: 1490px;
+    left: -760px;
     background-color: #8B0000;
     box-shadow: 0 0 3px  black;
     z-index: 2;
+}
+
+@media (max-width: 980px) {
+.datas {
+    top: 1900px;
+    width: 850px;
+    left: -458px;
+    zoom: 70%;
+}
 }
 
 #treino5 {
@@ -131,23 +231,47 @@ h1 {
 #treino7 {
     margin: 230px 0 0 734px;
 }
+
+@media (max-width: 980px) {
+#treino5 {
+    margin: 230px 0 0 -164px;
+}
+}
+
+@media (max-width: 980px) {
+#treino6 {
+     margin: 230px 0 0 99px;
+}
+}
+
+@media (max-width: 980px) {
+#treino7 {
+     margin: 230px 0 0 374px;
+}
+}
  
 #treino5 p, #treino6 p, #treino7 p {
      position: absolute;
      line-height: 1.50;
      letter-spacing: .102em;
-     margin: -160px 0 0 305px;
+     margin: -160px 0 0 285px;
      font-family: Jazz LET, fantasy;
      font-weight: 500;
      font-size: 28px;
      color: white;
 }
 
+@media (max-width: 980px) {
+#treino5 p, #treino6 p, #treino7 p {
+     margin: -160px 0 0 285px;
+}
+}
+
 #treino50 p, #treino51 p, #treino52 p, #treino72 p {
      position: absolute;
      line-height: 1.50;
      letter-spacing: .092em;
-     font-family: helvetica;
+     font-family: 'Fjalla One', sans-serif;
      font-size: 19px;
      font-weight: 300;
      opacity:0.85;
@@ -172,11 +296,23 @@ h1 {
 
 .mapa {
     position: relative;
-    margin: 1530px 0 0 169px;
-    width: 1350px;
+    margin: 0 50% 0 50%;
+    top: 1680px;
+    left: -591px;
+    width: 1350.5px;
     height: 405px;
     background-color: white;
     box-shadow: 0 0 1px 0 black;
+}
+
+@media (max-width: 980px) {
+.mapa {
+    top: 1780px;
+    left: -291px;
+    width: 692px;
+    height: 685px;
+    zoom: 80%;
+}
 }
 
 #mapa {
@@ -196,6 +332,12 @@ h1 {
      opacity:0.85;
      font-size: 27px;
      color: #A81606;
+}
+
+@media (max-width: 980px) {
+#mapa0 p{
+     margin: 125px 0 0 144px;
+}
 }
 
 #mapa1 p, #mapa2 p, #mapa3 p, #mapa4 p, #mapa5 p, #mapa6 p {
@@ -234,6 +376,45 @@ h1 {
 #mapa6 p {
      margin: 340px 0 0 134px;
 }
+
+@media (max-width: 980px) {
+#mapa1 p{
+     margin: 195px 0 0 124px;
+}
+}
+
+@media (max-width: 980px) {
+#mapa2 p{
+    margin: 230px 0 0 134px;
+}
+}
+
+
+@media (max-width: 980px) {
+#mapa3 p{
+     margin: 255px 0 0 124px;
+}
+}
+
+
+@media (max-width: 980px) {
+#mapa4 p{
+     margin: 290px 0 0 134px;
+}
+}
+
+
+@media (max-width: 980px) {
+#mapa5 p{
+     margin: 315px 0 0 124px;
+}
+}
+
+@media (max-width: 980px) {
+#mapa6 p{
+      margin: 340px 0 0 134px;
+}
+}
        
 #map-canvas {
      position: absolute;
@@ -241,9 +422,18 @@ h1 {
      margin: 150px 0 0 509px;
 }
 
+@media (max-width: 980px) {
+#map-canvas {
+     margin: 480px 0 0 169px;
+     zoom: 90%;
+}
+}
+
 .bairro {
-    position: relative;
-    margin: 70px 0 0 199px;
+    position: absolute;
+    margin: 0 50% 0 50%;
+    top: 2220px;
+    left: -559px;
     width: 1150px;
     height: 1255px;
     background-color: white;
@@ -251,9 +441,26 @@ h1 {
     border-radius: 20px;
 }
 
+@media (max-width: 980px) {
+.bairro {
+     margin: 440px 0 0 169px;
+     width: 663px;
+     height: 1935px;
+     left: -100px;
+     zoom: 80%;
+}
+}
+
 .bairro h1 {
     position: absolute;
-    margin: 70px 0 0 344px;
+    margin: -30px 0 0 474px;
+}
+
+@media (max-width: 980px) {
+.bairro h1 {
+    position: absolute;
+    margin: -30px 0 0 234px;
+}
 }
 
 #bairro1 p, #bairro2 p, #bairro3 p {
@@ -278,6 +485,24 @@ h1 {
      margin: 760px 460px 0 110px;
 }
 
+@media (max-width: 980px) {
+#bairro1 P {
+     margin: 200px 50px 0 50px;
+}
+}
+
+@media (max-width: 980px) {
+#bairro2 P {
+     margin: 840px 50px 0 50px;
+}
+}
+
+@media (max-width: 980px) {
+#bairro3 P {
+     margin: 1590px 50px 0 50px;
+}
+}
+
 #bairroimg1 img, #bairroimg2 img {
      position: absolute;
      border-radius: 15px;
@@ -285,15 +510,33 @@ h1 {
 }
 
 #bairroimg1 img {
-     margin: 390px 110px 0 110px;
+     margin: 390px 0 0 110px;
+}
+
+@media (max-width: 980px) {
+#bairroimg1 img {
+     margin: 490px 0 0 130px;
+}
 }
 
 #bairroimg2 img {
-     margin: 760px 110px 0 760px;
+     margin: 760px 0 0 760px;
+}
+
+@media (max-width: 980px) {
+#bairroimg2 img {
+     margin: 1150px 0 0 200px;
+}
 }
 
 #roda {
 	position: absolute;
-    margin-top: 80px;
+    margin-top: 3100px;
 	background-color: white;
-}		
+}	
+
+@media (max-width: 980px) {
+#roda {
+      margin-top: 3130px;
+}
+}	
