@@ -40,7 +40,7 @@ h1 {
      width: 789px;
      zoom: 70%;
      top: 360px;
-     left: -330px;
+     left: -331px;
 }
 } 
 	  
@@ -308,8 +308,8 @@ h1 {
 @media (max-width: 980px) {
 .mapa {
     top: 1780px;
-    left: -291px;
-    width: 692px;
+    left: -292px;
+    width: 692.5px;
     height: 685px;
     zoom: 80%;
 }
@@ -325,7 +325,7 @@ h1 {
      letter-spacing: .092em;
 }
 
-#mapa0 p{
+#mapa0 p {
      margin: 125px 0 0 124px;
      font-family: Verdana;
      font-weight: 700;
@@ -335,7 +335,8 @@ h1 {
 }
 
 @media (max-width: 980px) {
-#mapa0 p{
+#mapa0 p {
+    width: 50px;
      margin: 125px 0 0 144px;
 }
 }
