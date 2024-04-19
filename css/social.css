@@ -6,16 +6,17 @@
 }
 
 h1 {
-    position: relative;
+    position: absolute;
     font-size: 58px;
     color: #ED3A1E;
     margin: 0 50% 0 50%;
-    top: 105px;
-    left: -120px;
+    top: 100px;
+    left: -125px;
     font-family: 'Fjalla One', sans-serif;
     letter-spacing: .092em;
     font-weight: 500;
 }
+
 
 @media (max-width: 980px) {
   h1 {
