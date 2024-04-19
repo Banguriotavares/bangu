@@ -127,8 +127,6 @@ h1 {
      height: 115px;
      width: 1090px;
      background-color: white;
-     border-radius: 0 27px 0px 0;
-     box-shadow: 0 0 1px 0 black;
 }
 
 @media (max-width: 980px) {
@@ -205,13 +203,12 @@ h1 {
 
 .datas {
     position: absolute;
-    width: 1250px;
+    width: 100%;
     height: 300px;
     margin: 0 50% 0 50%;
-    top: 1490px;
+    top: 1427px;
     left: -760px;
     background-color: #8B0000;
-    box-shadow: 0 0 3px  black;
     z-index: 2;
 }
 
@@ -225,15 +222,15 @@ h1 {
 }
 
 #treino5 {
-    margin: 230px 0 0 64px;
+    margin: 230px 0 0 114px;
 }
 
 #treino6 {
-    margin: 230px 0 0 399px;
+    margin: 230px 0 0 449px;
 }
 
 #treino7 {
-    margin: 230px 0 0 734px;
+    margin: 230px 0 0 724px;
 }
 
 @media (max-width: 980px) {
@@ -300,146 +297,10 @@ h1 {
     margin: -20px 0 0 236px;
 }
 
-.mapa {
-    position: relative;
-    margin: 0 50% 0 50%;
-    top: 1680px;
-    left: -591px;
-    width: 1350.5px;
-    height: 405px;
-    background-color: white;
-    box-shadow: 0 0 1px 0 black;
-}
-
-@media (max-width: 980px) {
-.mapa {
-    top: 1780px;
-    left: -292px;
-    width: 692.5px;
-    height: 685px;
-    zoom: 80%;
-}
-}
-
-#mapa {
-     margin: auto;
-}
-        
-#mapa0 p, #mapa1 p, #mapa2 p, #mapa3 p, #mapa4 p, #mapa5 p, #mapa6 p {
-     position: absolute;
-     line-height: 1.50;
-     letter-spacing: .092em;
-}
-
-#mapa0 p {
-     margin: 125px 0 0 124px;
-     font-family: Verdana;
-     font-weight: 700;
-     opacity:0.85;
-     font-size: 27px;
-     color: #A81606;
-}
-
-@media (max-width: 980px) {
-#mapa0 p {
-    width: 50px;
-     margin: 125px 0 0 144px;
-}
-}
-
-#mapa1 p, #mapa2 p, #mapa3 p, #mapa4 p, #mapa5 p, #mapa6 p {
-     font-family: helvetica;
-     font-size: 15px;
-}
-
-#mapa1 p, #mapa3 p, #mapa5 p {
-    color: #ED3A1E;
-}
-
-#mapa2 p, #mapa4 p, #mapa6 p {
-    color: black;
-}
-
-#mapa1 p {
-    margin: 195px 0 0 124px;
-}
-
-#mapa2 p {
-     margin: 230px 0 0 134px;
-}
-       
-#mapa3 p {
-     margin: 255px 0 0 124px;
-}
-       
-#mapa4 p {
-     margin: 290px 0 0 134px;
-}
-       
-#mapa5 p {
-     margin: 315px 0 0 124px;
-}
-       
-#mapa6 p {
-     margin: 340px 0 0 134px;
-}
-
-@media (max-width: 980px) {
-#mapa1 p{
-     margin: 195px 0 0 124px;
-}
-}
-
-@media (max-width: 980px) {
-#mapa2 p{
-    margin: 230px 0 0 134px;
-}
-}
-
-
-@media (max-width: 980px) {
-#mapa3 p{
-     margin: 255px 0 0 124px;
-}
-}
-
-
-@media (max-width: 980px) {
-#mapa4 p{
-     margin: 290px 0 0 134px;
-}
-}
-
-
-@media (max-width: 980px) {
-#mapa5 p{
-     margin: 315px 0 0 124px;
-}
-}
-
-@media (max-width: 980px) {
-#mapa6 p{
-      margin: 340px 0 0 134px;
-}
-}
-       
-#map-canvas {
-     position: absolute;
-     padding: 220px 0 0 455px;
-     margin: 150px 0 0 509px;
-}
-
-@media (max-width: 980px) {
-#map-canvas {
-     margin: 480px 0 0 169px;
-     zoom: 90%;
-}
-}
-
 .bairro {
     position: absolute;
     margin: 0 50% 0 50%;
-    top: 2220px;
+    top: 1820px;
     left: -559px;
     width: 1150px;
     height: 1255px;
@@ -544,7 +405,7 @@ h1 {
 
 #roda {
 	position: absolute;
-    margin-top: 3100px;
+    margin-top: 3150px;
 	background-color: white;
 }	
 
