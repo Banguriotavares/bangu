@@ -267,7 +267,7 @@ h1 {
 @media (max-width: 980px) {
 #treino5 p, #treino6 p, #treino7 p {
      margin: -160px 0 0 270px;
-      font-family: Verdana;
+     font-family: Verdana;
      font-weight: 700;
 }
 }
@@ -451,7 +451,7 @@ h1 {
 .bairro {
      margin: 440px 0 0 169px;
      width: 663px;
-     height: 1935px;
+     height: 2080px;
      left: -100px;
      zoom: 80%;
 }
@@ -479,6 +479,12 @@ h1 {
     text-indent: 27px;
 }
 
+@media (max-width: 980px) {
+#bairro1 P, #bairro2 P, #bairro3 P {
+     font-size: 23px;
+}
+}
+
 #bairro1 P {
      margin: 200px 110px 0 110px;
 }
@@ -499,13 +505,13 @@ h1 {
 
 @media (max-width: 980px) {
 #bairro2 P {
-     margin: 840px 50px 0 50px;
+     margin: 870px 50px 0 50px;
 }
 }
 
 @media (max-width: 980px) {
 #bairro3 P {
-     margin: 1590px 50px 0 50px;
+     margin: 1650px 50px 0 50px;
 }
 }
 
@@ -521,7 +527,7 @@ h1 {
 
 @media (max-width: 980px) {
 #bairroimg1 img {
-     margin: 490px 0 0 130px;
+     margin: 530px 0 0 130px;
 }
 }
 
@@ -531,7 +537,7 @@ h1 {
 
 @media (max-width: 980px) {
 #bairroimg2 img {
-     margin: 1150px 0 0 200px;
+     margin: 1230px 0 0 200px;
 }
 }
 
@@ -543,6 +549,6 @@ h1 {
 
 @media (max-width: 980px) {
 #roda {
-      margin-top: 3130px;
+      margin-top: 3250px;
 }
 }	
