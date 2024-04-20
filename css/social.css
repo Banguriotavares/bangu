@@ -76,7 +76,7 @@ h1 {
 
 @media (max-width: 980px) {
 #treino1 img, #treino2 img, #treino3 img, #treino4 img {
-    zoom: 80%;
+    zoom: 70%;
 }
 }
       
@@ -98,25 +98,25 @@ h1 {
 
 @media (max-width: 980px) {
 #treino1 img {
-    margin: 45px 0 0 96px;
+    margin: 45px 0 0 186px;
 }
 }
 
 @media (max-width: 980px) {
 #treino2 img {
-   margin: 45px 0 0 599px;
+   margin: 45px 0 0 689px;
 }
 }
 
 @media (max-width: 980px) {
 #treino3 img {
-    margin: 335px 0 0 96px;
+    margin: 335px 0 0 186px;
 }
 }
 
 @media (max-width: 980px) {
 #treino4 img {
-    margin: 335px 0 0 599px;
+    margin: 335px 0 0 689px;
 }
 }
 
@@ -132,7 +132,7 @@ h1 {
 
 @media (max-width: 980px) {
 #caixa5 {
-     top: 1660px;
+     top: 1610px;
      zoom: 80%;
      width: 100%;
      height: 215px;
@@ -214,7 +214,7 @@ h1 {
 
 @media (max-width: 980px) {
 .datas {
-    top: 2180px;
+    top: 2120px;
     width: 100%;
     left: -459px;
     zoom: 70%;
@@ -311,9 +311,9 @@ h1 {
 
 @media (max-width: 980px) {
 .bairro {
-     margin: 440px 0 0 169px;
+     margin: 390px 0 0 169px;
      width: 663px;
-     height: 2080px;
+     height: 2230px;
      left: -100px;
      zoom: 80%;
 }
@@ -343,7 +343,7 @@ h1 {
 
 @media (max-width: 980px) {
 #bairro1 P, #bairro2 P, #bairro3 P {
-     font-size: 23px;
+     font-size: 24px;
 }
 }
 
@@ -367,13 +367,13 @@ h1 {
 
 @media (max-width: 980px) {
 #bairro2 P {
-     margin: 870px 50px 0 50px;
+     margin: 940px 50px 0 50px;
 }
 }
 
 @media (max-width: 980px) {
 #bairro3 P {
-     margin: 1650px 50px 0 50px;
+     margin: 1780px 50px 0 50px;
 }
 }
 
@@ -387,19 +387,19 @@ h1 {
      margin: 390px 0 0 110px;
 }
 
-@media (max-width: 980px) {
-#bairroimg1 img {
-     margin: 530px 0 0 130px;
-}
-}
-
 #bairroimg2 img {
      margin: 760px 0 0 760px;
 }
 
 @media (max-width: 980px) {
+#bairroimg1 img {
+     margin: 580px 0 0 130px;
+}
+}
+
+@media (max-width: 980px) {
 #bairroimg2 img {
-     margin: 1230px 0 0 200px;
+     margin: 1360px 0 0 200px;
 }
 }
 
@@ -411,6 +411,6 @@ h1 {
 
 @media (max-width: 980px) {
 #roda {
-      margin-top: 3500px;
+      margin-top: 3630px;
 }
 }	
