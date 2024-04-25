@@ -154,7 +154,8 @@ h1 {
 
 @media (max-width: 980px) {
 #caixa5 p {
-    margin: 20px 0 0 300px;
+    top: 35px;
+    left: -100px;
 }
 } 
 
@@ -181,26 +182,32 @@ h1 {
 }
 
 @media (max-width: 980px) {
+#foto5 img, #foto6 img, #foto7 img, #foto8 img {
+    top: 90px;
+}
+}
+
+@media (max-width: 980px) {
 #foto5 img {
-    margin: 20px 0 0 85px;
+    left: -335px;
 }
 }
 
 @media (max-width: 980px) {
 #foto6 img {
-    margin: 20px 0 0 260px;
+    left: -157px;
 }
 }
 
 @media (max-width: 980px) {
 #foto7 img {
-    margin: 20px 0 0 425px;
+    left: 13px;
 }
 }
 
 @media (max-width: 980px) {
 #foto8 img {
-    margin: 20px 0 0 590px;
+    left: 195px;
 }
 }
 
@@ -214,7 +221,7 @@ h1 {
 
 @media (max-width: 980px) {
 .data {
-    top: 2270px;
+    top: 2295px;
     zoom: 70%;
 }
 }
@@ -239,20 +246,27 @@ h1 {
 }
 
 @media (max-width: 980px) {
+#treino5, #treino6, #treino7 {
+    margin: 0 50% 0 50%;
+    top: 230px;
+}
+}
+
+@media (max-width: 980px) {
 #treino5 {
-    margin: 230px 0 0 -139px;
+    left: -589px;
 }
 }
 
 @media (max-width: 980px) {
 #treino6 {
-     margin: 230px 0 0 124px;
+    left: -314px;
 }
 }
 
 @media (max-width: 980px) {
 #treino7 {
-     margin: 230px 0 0 399px;
+     left: -60px;
 }
 }
  
