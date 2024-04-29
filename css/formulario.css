@@ -54,7 +54,7 @@ h1 {
 
 @media (max-width: 980px) {
  #site p {;
-     padding: 2px 20px 0 20px;
+     padding: 2px 60px 0 60px;
 }
 }
 
@@ -68,7 +68,7 @@ h1 {
 
 @media (max-width: 980px) {
 #caixa1 {
-    top: 986px;
+    top: 1086px;
     height: 1150px;
 }
 }
@@ -165,7 +165,7 @@ input:hover, select:hover, textarea:hover {
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 2100px;
+  margin-top: 2200px;
 }
 }	
 
