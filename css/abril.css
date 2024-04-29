@@ -13,6 +13,12 @@
 }
 }
 
+@media (max-width: 979px) {
+  .abril {
+      zoom: 80%;
+}
+}
+
 h1 {
     left: -60px;
 }
@@ -237,6 +243,12 @@ h1 {
 }
 
 @media (max-width: 980px) {
+  #roda {
+  margin-top: 5270px;
+}
+}
+
+@media (max-width: 979px) {
   #roda {
   margin-top: 5270px;
 }

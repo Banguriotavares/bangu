@@ -13,6 +13,12 @@
 }
 }
 
+@media (max-width: 979px) {
+  .março {
+      zoom: 80%;
+}
+}
+
 h1 {
     left: -75px;
 }
@@ -253,6 +259,6 @@ h1 {
 
 @media (max-width: 979px) {
 #roda {
-      margin-top: 8360px;
+      margin-top: 6689px;
 }
 }
