@@ -32,6 +32,14 @@ h1 {
     width: 1000px;
     height: 350px;
     background-color: #dcdcdc;
+}
+
+@media (max-width: 980px) {
+ #sites {;
+    top: 230px;
+    left: -300px;
+    width: 600px;
+}
 }	 	
 
 #site p {
@@ -46,7 +54,7 @@ h1 {
 
 @media (max-width: 980px) {
  #site p {;
-     padding: 220px 80px 0 80px;
+     padding: 2px 20px 0 20px;
 }
 }
 
@@ -60,8 +68,15 @@ h1 {
 
 @media (max-width: 980px) {
 #caixa1 {
-    top: 1086px;
+    top: 986px;
     height: 1150px;
+}
+}
+
+@media (max-width: 979px) {
+#caixa1 {
+    top: 986px;
+    height: 900px;
 }
 }
 
@@ -74,7 +89,15 @@ h1 {
 
 @media (max-width: 980px) {
   #caixa1 img {
-   margin: -1200px 160px;
+   margin: -350px 0 0 30px;
+}
+}
+
+@media (max-width: 979px) {
+  #caixa1 img {
+    margin: 0 50% 0 50%;
+    top: -220px;
+    left: -140px;
 }
 }
 
@@ -88,8 +111,17 @@ h1 {
 
 @media (max-width: 980px) {
  #meuFormulario {
-    margin: 200px 0 0 95px;
+    margin: 150px 0 0 515px;
     zoom: 140%;
+}
+}
+
+@media (max-width: 979px) {
+ #meuFormulario {
+    margin: 0 50% 0 50%;
+    top: 300px;
+    left: -142px;
+    zoom: 100%;
 }
 }
 
@@ -135,4 +167,10 @@ input:hover, select:hover, textarea:hover {
   #roda {
   margin-top: 2100px;
 }
-}		
+}	
+
+@media (max-width: 979px) {
+  #roda {
+  margin-top: 1860px;
+}
+}	
