@@ -42,7 +42,13 @@ h1 {
      zoom: 80%;
      top: 300px;
      left: -331px;
-     background-color: white;
+}
+} 
+
+@media (max-width: 979px) {
+ #caixa4 {
+     zoom: 70%;
+     top: 350px;
 }
 } 
 	  
@@ -136,6 +142,12 @@ h1 {
 }
 } 
 
+@media (max-width: 979px) {
+#caixa5 {
+     top: 1610px;
+}
+} 
+
 #caixa5 p {
     position: absolute;
     margin: 0 50% 0 50%;
@@ -209,6 +221,13 @@ h1 {
 .data {
     top: 2295px;
     zoom: 70%;
+}
+}
+
+@media (max-width: 979px) {
+.data {
+    top: 2470px;
+    zoom: 60%;
 }
 }
 
@@ -326,6 +345,13 @@ h1 {
 }
 }
 
+@media (max-width: 979px) {
+.bairro {
+    top: 2470px;
+    zoom: 70%;
+}
+}
+
 .bairro h1 {
     position: absolute;
     margin: -30px 0 0 384px;
@@ -424,6 +450,7 @@ h1 {
 
 @media (max-width: 979px) {
 #roda {
-      margin-top: 4700px;
+      margin-top: 4200px;
 }
 }
+
