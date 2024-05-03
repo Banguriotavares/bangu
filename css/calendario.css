@@ -305,60 +305,53 @@ h1 {
 
 
 @media (max-width: 980px) {
-  .supermaio {
-     left: -325px; 
+  .supermaio, .supersetembro {
+     left: -255px; 
 }
 }
 
 @media (max-width: 980px) {
   .superjunho, .superoutubro {
-      left: -189px;
+      left: -119px;
 }
 }
 
 @media (max-width: 980px) {
   .superjulho, .supernovembro {
-      left: -55px;
+      left: 15px;
 }
 }
 
 @media (max-width: 980px) {
   .superagosto, .superdezembro {
-      left: 80px;
+      left: 150px;
 }
 }
-
-@media (max-width: 980px) {
-  .supersetembro {
-     left: 215px;
-}
-}
-
 
 .supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
      top: 635px;
 }
 
 @media (max-width: 980px) {
-  .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro {
+  .supermaio, .superjunho, .superjulho, .superagosto {
      top: 678px;   
 }
 }
 
 @media (max-width: 980px) {
-  .superoutubro, .supernovembro, .superdezembro {
+  .supersetembro, .superoutubro, .supernovembro, .superdezembro {
      top: 738px;   
 }
 }
 
 @media (max-width: 979px) {
-  .supermarço, .superabril, .supermaio, .superjunho, .superjulho {
+  .supermaio, .superjunho, .superjulho, .superagosto {
      top: 878px;   
 }
 }
 
 @media (max-width: 979px) {
-  .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
+  .supersetembro, .superoutubro, .supernovembro, .superdezembro {
      top: 928px;   
 }
 }
