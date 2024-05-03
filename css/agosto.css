@@ -9,7 +9,7 @@
 
 @media (max-width: 980px) {
   .agosto {
-      height: 5560px;
+      height: 6700px;
 }
 }
 
@@ -268,7 +268,7 @@ h1 {
 }
 
 @media (max-width: 980px) {
-  .s2, .s4, .s6, .s8, .s11, .s13, .s15, .s17, .s20, .s22, .s24, .s26, .s29, .s31, .s33, .s35, .s38, .s40 .t9, .t18, .t27, .t36 {
+  .s2, .s4, .s6, .s8, .s11, .s13, .s15, .s17, .s20, .s22, .s24, .s26, .s29, .s31, .s33, .s35, .s38, .s40, .t9, .t18, .t27, .t36 {
       left:30px;
 }
 }
@@ -293,12 +293,12 @@ h1 {
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 5780px;
+  margin-top: 6920px;
 }
 }
 
 @media (max-width: 979px) {
   #roda {
-  margin-top: 5789px;
+  margin-top: 5543px;
 }
 }
