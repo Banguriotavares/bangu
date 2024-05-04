@@ -10,7 +10,7 @@
 
 @media (max-width: 980px) {
   .dezembro {
-      height: 3040px;
+      height: 3740px;
 }
 }
 
@@ -29,27 +29,27 @@ h1 {
 }
 
 .s5, .r5, .t5 {
-      top: 380px;
+      top: 400px;
 }
 
 .s6, .s7, .s8, .s9 {
-      top: 618px;
+      top: 638px;
 }
 
 .s10, .s11, .s12, .s13 {
-      top: 854px;
+      top: 874px;
 }
 
 .s14, .r14, .t14 {
-      top: 1177px;
+      top: 1217px;
 }
 
 .s15, .s16, .s17, .s18 {
-      top: 1415px;
+      top: 1455px;
 }
 
 .s19, .s20, .s21, .s22 {
-      top: 1650px;
+      top: 1690px;
 }
 
 .r5, .r14 {
@@ -94,80 +94,92 @@ h1 {
 }
 
 @media (max-width: 980px) {
-  .s5 {
-      top: 675px;
+  .r5 {
+      top: 755px;
+}
+}
+
+@media (max-width: 980px) {
+  .s5, .t5 {
+      top: 1015px;
 }
 }
 
 @media (max-width: 980px) {
   .s6, .s7 {
-     top: 930px;
+     top: 1275px;
 }
 }
 
 @media (max-width: 980px) {
   .s8, .s9 {
-     top: 1185px;
+     top: 1535px;
 }
 }
 
 @media (max-width: 980px) {
   .s10, .s11 {
-      top: 1440px;
+      top: 1790px;
 }
 }
 
 @media (max-width: 980px) {
   .s12, .s13 {
-      top: 1696px;
+      top: 2046px;
 }
 }
 
 @media (max-width: 980px) {
-  .s14 {
-      top: 2050px;
+  .r14 {
+      top: 2490px;
+}
+}
+
+@media (max-width: 980px) {
+  .s14, .t14 {
+      top: 2750px;
 }
 }
 
 
 @media (max-width: 980px) {
   .s15, .s16 {
-      top: 2307px;
+      top: 3007px;
 }
 }
 
 @media (max-width: 980px) {
   .s17, .s18 {
-      top: 2560px;
+      top: 3260px;
 }
 }
 
 @media (max-width: 980px) {
   .s19, .s20 {
-      top: 2810px;
+      top: 3520px;
 }
 }
 
 @media (max-width: 980px) {
   .s21, .s22 {
-      top: 3065px;
+      top: 3780px;
 }
 }
 
 @media (max-width: 980px) {
-  .s1, .s3, .s6, .s8, .s10, .s12, .s15, .s17, .s19, .s21 {
+  .s1, .s3, .s5, .s6, .s8, .s10, .s12, .s14, .s15, .s17, .s19, .s21 {
       left: -270px;
 }
 }
 
 @media (max-width: 980px) {
-  .s2, .s4, .s7, .s9, .s11, .s13, .s16, .s18, .s20, .s22 {
+  .s2, .s4, .s7, .s9, .s11, .s13, .s16, .s18, .s20, .s22, .t5, .t14 {
       left:30px;
 }
 }
 
 @media (max-width: 980px) {
-  .s5, .s14 {
+  .r5, .r14 {
       left: -125px;
 }
 }
@@ -188,12 +200,12 @@ h1 {
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 3268px;
+  margin-top: 3968px;
 }
 }
 
 @media (max-width: 979px) {
   #roda {
-  margin-top: 3269px;
+  margin-top: 3175px;
 }
 }

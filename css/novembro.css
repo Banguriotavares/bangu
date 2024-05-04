@@ -4,12 +4,12 @@
       position: absolute;
       width: 100%;
       background: #8B0000;
-      height: 3145px;
+      height: 3450px;
 }
 
 @media (max-width: 980px) {
  .novemnro {
-       height: 5609px;
+       height: 6750px;
 }
 }
 
@@ -32,47 +32,48 @@ h1 {
 }
 
 .s9, .r9, .t9 {
-      top: 577px;
+      top: 640px;
 }
 
 .s10, .s11, .s12, .s13 {
-      top: 814px;
+      top: 884px;
 }
 
 .s14, .s15, .s16, .s17 {
-      top: 1047px;
+      top: 1127px;
 }
 
 .s18, .r18, .t18 {
-      top: 1325px;
+      top: 1505px;
 }
 
 .s19, .s20, .s21, .s22 {
-      top: 1565px;
+      top: 1755px;
 }
 
 .s23,.s24, .s25, .s26 {
-      top: 1800px;
+      top: 2000px;
 }
 
 .s27, .r27, .t27 {
-      top: 2100px;
+      top: 2380px;
 }
 
 .s28, .s29, .s30, .s31 {
-      top: 2340px;
+      top: 2625px;
 }
 
 .s32, .s33, .s34, .s35 {
-      top: 2575px;
+      top: 2867px;
 }
 
+
 .s36, .r36, .t36 {
-      top: 2860px;
+      top: 3250px;
 }
 
 .s37, .s38, .s39, .s40 {
-      top: 3095px;
+      top: 3490px;
 }
 
 .r9, .r18, .r27, .r36 {
@@ -84,7 +85,7 @@ h1 {
 }
 
 .t9, .t18, .t27, .t36 {
-      left: 172px;
+     left: 172px;
 }
 
 .s1, .s5, .s10, .s14, .s19, .s23, .s28, .s32, .s37 {
@@ -117,138 +118,162 @@ h1 {
 
 @media (max-width: 980px) {
   .s5, .s6{
-      top: 570px;
+      top: 580px;
 }
 }
 
 @media (max-width: 980px) {
   .s7, .s8 {
-     top: 830px;
+     top: 845px;
 }
 }
 
 @media (max-width: 980px) {
-  .s9 {
-     top: 1185px;
+  .r9 {
+     top: 1285px;
+}
+}
+
+@media (max-width: 980px) {
+  .s9, .t9 {
+     top: 1545px;
 }
 }
 
 @media (max-width: 980px) {
   .s10, .s11 {
-      top: 1445px;
+      top: 1800px;
 }
 }
 
 @media (max-width: 980px) {
   .s12, .s13 {
-      top: 1702px;
+      top: 2050px;
 }
 }
 
 @media (max-width: 980px) {
   .s14, .s15 {
-      top: 1960px;
+      top: 2305px;
 }
 }
 
 @media (max-width: 980px) {
   .s16, .s17 {
-      top: 2220px;
+      top: 2560px;
 }
 }
 
 @media (max-width: 980px) {
-  .s18 {
-      top: 2585px;
+  .r18 {
+      top: 2985px;
+}
+}
+
+@media (max-width: 980px) {
+  .s18, .t18 {
+      top: 3240px;
 }
 }
 
 @media (max-width: 980px) {
   .s19, .s20 {
-      top: 2845px;
+      top: 3490px;
 }
 }
 
 @media (max-width: 980px) {
   .s21, .s22 {
-      top: 3100px;
+      top: 3740px;
 }
 }
 
 @media (max-width: 980px) {
   .s23, .s24 {
-      top: 3355px;
+      top: 3995px;
 }
 }
 
 @media (max-width: 980px) {
   .s25, .s26 {
-      top: 3615px;
+      top: 4250px;
 }
 }
 
 @media (max-width: 980px) {
-  .s27 {
-      top: 3980px;
+  .r27 {
+      top: 4665px;
+}
+}
+
+@media (max-width: 980px) {
+  .s27, .t27 {
+      top: 4915px;
 }
 }
 
 @media (max-width: 980px) {
   .s28, .s29 {
-      top: 4240px;
+      top: 5170px;
 }
 }
 
 @media (max-width: 980px) {
   .s30, .s31 {
-      top: 4495px;
+      top: 5425px;
 }
 }
 
 @media (max-width: 980px) {
   .s32, .s33 {
-      top: 4750px;
+      top: 5680px;
 }
 }
 
 @media (max-width: 980px) {
   .s34, .s35 {
-      top: 5005px;
+      top: 5930px;
 }
 }
 
 @media (max-width: 980px) {
-  .s36 {
-      top: 5375px;
+  .r36 {
+      top: 6350px;
+}
+}
+
+@media (max-width: 980px) {
+  .s36, .t36 {
+      top: 6605px;
 }
 }
 
 @media (max-width: 980px) {
   .s37, .s38 {
-      top: 5635px;
+      top: 6857px;
 }
 }
 
 @media (max-width: 980px) {
   .s39, .s40 {
-      top: 5890px;
+      top: 7112px;
 }
 }
 
 @media (max-width: 980px) {
-  .s1, .s3, .s5, .s7, .s10, .s12, .s14, .s16, .s19, .s21, .s23, .s25, .s28, .s30, .s32, .s34, .s37, .s39 {
+  .s1, .s3, .s5, .s7, .s9, .s10, .s12, .s14, .s16, .s18, .s19, .s21, .s23, .s25, .s27, .s28, .s30, .s32, .s34, .s36, .s37, .s39 {
       left: -270px;
 }
 }
 
 @media (max-width: 980px) {
-  .s2, .s4, .s6, .s8, .s11, .s13, .s15, .s17, .s20, .s22, .s24, .s26, .s29, .s31, .s33, .s35, .s38, .s40 {
+  .s2, .s4, .s6, .s8, .s11, .s13, .s15, .s17, .s20, .s22, .s24, .s26, .s29, .s31, .s33, .s35, .s38, .s40, .t9, .t18, .t27, .t36 {
       left:30px;
 }
 }
 
 @media (max-width: 980px) {
-  .s9, .s18, .s27, .s36 {
+  .r9, .r18, .r27, .r36 {
       left: -125px;
 }
 }
@@ -262,17 +287,17 @@ h1 {
 }
 
 #roda {
-  margin-top: 3359px;
+  margin-top: 3663px;
 }
 
 @media (max-width: 980px) {
   #roda {
-    margin-top: 5837px;
+  margin-top: 6978px;
 }
 }
 
 @media (max-width: 979px) {
   #roda {
-    margin-top: 5838px;
+  margin-top: 5580px;
 }
 }

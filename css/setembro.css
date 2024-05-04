@@ -9,7 +9,7 @@
 
 @media (max-width: 980px) {
   .setembro {
-      height: 5550px;
+      height: 6800px;
 }
 }
 
@@ -118,122 +118,146 @@ h1 {
 }
 
 @media (max-width: 980px) {
-  .s5{
-      top: 670px;
+  .r5{
+      top: 755px;
+}
+}
+
+@media (max-width: 980px) {
+  .s5, .t5 {
+      top: 1015px;
 }
 }
 
 @media (max-width: 980px) {
   .s6, .s7 {
-     top: 930px;
+     top: 1270px;
 }
 }
 
 @media (max-width: 980px) {
   .s8, .s9 {
-     top: 1185px;
+     top: 1525px;
 }
 }
 
 @media (max-width: 980px) {
   .s10, .s11 {
-      top: 1440px;
+      top: 1780px;
 }
 }
 
 @media (max-width: 980px) {
   .s12, .s13 {
-      top: 1696px;
+      top: 2035px;
 }
 }
 
 @media (max-width: 980px) {
-  .s14 {
-      top: 2050px;
+  .r14 {
+      top: 2475px;
+}
+}
+
+@media (max-width: 980px) {
+  .s14, .t14 {
+      top: 2735px;
 }
 }
 
 @media (max-width: 980px) {
   .s15, .s16 {
-      top: 2310px;
+      top: 2995px;
 }
 }
 
 @media (max-width: 980px) {
   .s17, .s18 {
-      top: 2565px;
+      top: 3255px;
 }
 }
 
 @media (max-width: 980px) {
   .s19, .s20 {
-      top: 2820px;
+      top: 3513px;
 }
 }
 
 @media (max-width: 980px) {
   .s21, .s22 {
-      top: 3075px;
+      top: 3770px;
 }
 }
 
 @media (max-width: 980px) {
-  .s23 {
-      top: 3435px;
+  .r23 {
+      top: 4210px;
+}
+}
+
+@media (max-width: 980px) {
+  .s23, .t23 {
+      top: 4465px;
 }
 }
 
 @media (max-width: 980px) {
   .s24, .s25 {
-      top: 3693px;
+      top: 4720px;
 }
 }
 
 @media (max-width: 980px) {
   .s26, .s27 {
-      top: 3950px;
+      top: 4980px;
 }
 }
 
 @media (max-width: 980px) {
   .s28, .s29 {
-      top: 4205px;
+      top: 5235px;
 }
 }
 
 @media (max-width: 980px) {
   .s30, .s31 {
-      top: 4460px;
+      top: 5490px;
 }
 }
 
 @media (max-width: 980px) {
-  .s32 {
-      top: 4815px;
+  .r32 {
+      top: 5930px;
+}
+}
+
+@media (max-width: 980px) {
+  .s32, .t32 {
+      top: 6190px;
 }
 }
 
 @media (max-width: 980px) {
   .s33, .s34 {
-      top: 5075px;
+      top: 6450px;
 }
 }
 
 @media (max-width: 980px) {
   .s35, .s36 {
-      top: 5330px;
+      top: 6705px;
 }
 }
 
 @media (max-width: 980px) {
   .s37, .s38 {
-      top: 5585px;
+      top: 6960px;
 }
 }
 
 @media (max-width: 980px) {
   .s39, .s40 {
-      top: 5840px;
+      top: 7215px;
 }
 }
 
@@ -269,12 +293,12 @@ h1 {
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 5773px;
+  margin-top: 7020px;
 }
 }
 
 @media (max-width: 979px) {
   #roda {
-  margin-top: 5779px;
+  margin-top: 5619px;
 }
 }
