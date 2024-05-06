@@ -13,7 +13,7 @@ h1 {
 }
 
 .borda1, .borda2, .borda3 {
-  position: relative;
+  position: absolute;
   margin: 0 50% 0 50%;
   width: 530px;
   height: 250px;
@@ -29,14 +29,14 @@ h1 {
 }
 
 .borda2 {
-  top: 480px;
+  top: 680px;
   left: -524px;
   width: 470px;
   border-radius: 20px;
 }
 
 .borda3 {
-  top: 230px;
+  top: 680px;
   left: 36px;
   width: 450px;
   border-radius: 20px 100px 20px 20px;
@@ -82,5 +82,5 @@ H2 {
 }
 
 #roda {
-  margin-top: 509px;
+  margin-top: 1009px;
 }

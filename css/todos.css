@@ -82,10 +82,6 @@ nav li a, nav li #Menu {
     padding: 15px 10px 10px 10px;
 }
 
-nav li img {
-    margin: -5px 10px 0 0;
-}
-
 nav li a:hover {
     color: #dcdcdc;
 }
