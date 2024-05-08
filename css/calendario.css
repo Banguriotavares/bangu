@@ -141,36 +141,29 @@ h1 {
       margin: 64px 0 0 168px;
 }
 
-#versos p, #gol p, #festival a, #vs p, #jogos p {
+#vs p, #jogos p {
       position: absolute;
       font-family: Arial;
 }
 
-#versos p, #vs p {
+#vs p {
      text-align: center;
      font-size: 15px;
      margin: 77px 0 0 98px;
      padding: 3px 14px 3px 14px;
      border-radius: 12px;
-}
-
-#versos p {
-     color: #A61407;
+     color: #8B0000;
      background-color:  white;
 }
-
-#vs p {
-      color: #8B0000;
-      background-color:  white;
 }
 
-#gol p, #cancelado p {
-      color: #FFFFFF;
-}
-
-#gol p, #cancelado p {
+#cancelado p {
       letter-spacing: .092em;
       font-size: 18px;
+       margin: 149px 0 0 55px;
+       font-weight: 700;
+       width: 10px;
+       color: #FFFFFF;
 }
 
 #jogos p {
@@ -181,46 +174,7 @@ h1 {
       text-align: center;
       left: -65px;
       color: white;
-}
-
-#gol p {
-     margin: 147px 0 0 73px;
-}
-
-#jogos p {
-     margin: 142px 0 0 73px;
-}
-
-#cancelado p {
-      margin: 149px 0 0 55px;
-       font-weight: 700;
-       width: 10px;
-}
-
-#golde01, #golde02, #golde03, #golde04, #golde05, #golde06, #golde07, #golde08, #golde09 {
-      position: absolute;
-      letter-spacing: .092em;
-      font-family: verdana;
-      letter-spacing: .092em;
-      font-size: 17px;
-      color: white;
-
-}
-
-#golde01, #golde02, #golde03, #golde04, #golde05, #golde06, #golde07, #golde08, #golde09  {
-      margin-left: 43px;
-}
-
-#golde01, #golde03, #golde04, #golde07 {
-     margin-top: 195px;
-}
-
-#golde02, #golde05, #golde08 {
-     margin-top: 235px;
-}
-
-#golde06, #golde09 {
-     margin-top: 275px;
+      margin: 142px 0 0 73px;
 }
 
 #chuva {

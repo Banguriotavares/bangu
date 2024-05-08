@@ -1,264 +1,404 @@
 @charset "UTF-8";
 
-.março {
-      position: absolute;
-      width: 100%;
-      background: #8B0000;
-      height: 3800px;
-}
-
-@media (max-width: 980px) {
-  .março {
-      height: 6460px;
-}
-}
-
-@media (max-width: 979px) {
-  .março {
-      zoom: 80%;
-}
-}
-
-h1 {
-    left: -75px;
-}
-
-.b1, .b2, .b3, .b4, .b5, .b6, .b7, .b8, .b9, .b10, .b11, .b12, .b13, .b14, .b15, .b16, .b17, .b18, .b19, .b20, .b21, .b22, .b23, .b24, .b25, .b26, .b27, .b28, .b29, .b30, .b31, .b32, .b33, .b34, .b35, .b36 {
-      position: absolute;
-      margin: 0 50% 0 50%;
-      width: 250px;
-      height: 205px;
-}
-
-.b1 {
-      top: 50px;
-}
-
-.b2, .b3, .b4, .b5 {
-      top: 390px;
-}
-
-.b6, .b7, .b8, .b9 {
-      top: 790px;
-}
-
-.b10 {
-      top: 1240px;
-}
-
-.b11, .b12, .b13, .b14 {
-      top: 1600px;
-}
-
-.b15, .b16, .b17, .b18 {
-      margin: 0 50% 0 50%;
-      top: 1885px;
-}
-
-.b19 {
-      top: 2620px;
-}
-
-.b20, .b21, .b22, .b23 {
-      top: 2860px;
-}
-
-.b24, .b25, .b26, .b27 {
-      top: 3095px;
-}
-
-.b28 {
-      top: 3405px;
-}
-
-.b29, .b30, .b31, .b32 {
-      top: 3640px;
-}
-
-.b33, .b34, .b35, .b36 {
-      top: 3875px;
-}
-
-.b1, .b10, .b19, .b28 {
-      left: -118px;
-}
-
-.b2, .b6, .b11, .b15, .b20, .b24, .b29, .b33 {
-     left: -550px;
-}
-
-.b3, .b7, .b12, .b16, .b21, .b25, .b30, .b34 {
-      left: -260px;
-}
-
-.b4, .b8, .b13, .b17, .b22, .b26, .b31, .b35 {
-      left: 23px;
-}
-
-.b5, .b9, .b14, .b18, .b23, .b27, .b32, .b36 {
-      margin: 0 50% 0 50%;
-      left: 308px;
-}
-
-@media (max-width: 980px) {
-  .b1 {
-      top: 60px;
-}
-}
-
-@media (max-width: 980px) {
-  .b2, .b3 {
-      top: 430px;
-}
-}
-
-@media (max-width: 980px) {
-  .b4, .b5 {
-      top: 830px;
-}
-}
-
-@media (max-width: 980px) {
-  .b6, .b7 {
-     top: 1250px;
-}
-}
-
-@media (max-width: 980px) {
-  .b8, .b9 {
-     top: 1655px;
-}
-}
-
-@media (max-width: 980px) {
-  .b10 {
-      top: 2180px;
-}
-}
-
-@media (max-width: 980px) {
-  .b11, .b12 {
-      top: 2556px;
-}
-}
-
-@media (max-width: 980px) {
-  .b13, .b14 {
-      top: 2830px;
-}
-}
-
-@media (max-width: 980px) {
-  .b15, .b16 {
-      top: 3105px;
-}
-}
-
-@media (max-width: 980px) {
-  .b17, .b18 {
-      top: 3505px;
-}
-}
-
-@media (max-width: 980px) {
-  .b19 {
-      top: 4445px;
-}
-}
-
-@media (max-width: 980px) {
-  .b20, .b21 {
-      top: 4700px;
-}
-}
-
-@media (max-width: 980px) {
-  .b22, .b23 {
-      top: 4955px;
-}
-}
-
-@media (max-width: 980px) {
-  .b24, .b25 {
-      top: 5215px;
-}
-}
-
-@media (max-width: 980px) {
-  .b26, .b27 {
-      top: 5475px;
-}
-}
-
-@media (max-width: 980px) {
-  .b28 {
-      top: 5835px;
-}
-}
-
-@media (max-width: 980px) {
-  .b29, .b30 {
-      top: 6100px;
-}
-}
-
-@media (max-width: 980px) {
-  .b31, .b32 {
-      top: 6355px;
-}
-}
-
-@media (max-width: 980px) {
-  .b33, .b34 {
-      top: 6610px;
-}
-}
-
-@media (max-width: 980px) {
-  .b35, .b36 {
-      top: 6865px;
-}
-}
-
-
-@media (max-width: 980px) {
-  .b2, .b4, .b6, .b8, .b11, .b13, .b15, .b17, .b20, .b22, .b24, .b26, .b29, .b31, .b33, .b35 {
-      left: -270px;
-}
-}
-
-@media (max-width: 980px) {
-  .b3, .b5, .b7, .b9, .b12, .b14, .b16, .b18, .b21, .b23, .b25, .b27, .b30, .b32, .b34, .b36 {
-      left:30px;
-}
-}
-
-@media (max-width: 980px) {
-  .b1, .b10, .b19, .b28 {
-      left: -125px;
-}
-}
-
-.superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro,  .supernovembro, .superdezembro {
+body {
     background-color: white;
 }
 
-.supermarço {
-   background-color: #dcdcdc;
+h1 {
+    position: absolute;
+    font-size: 58px;
+    color: #ED3A1E;
+    margin: 0 50% 0 50%;
+    top: 100px;
+    left: -100px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.foto {
+      position: absolute; 
+      margin: 0 50% 0 50%;
+      top: 296px;
+      left: -141px;
+}
+
+#artilharia, #estatistica {
+      position: absolute;
+      margin: 0 50% 0 50%;
+      top: 284px;
+      letter-spacing: .092em;
+      font-family: helvetica;
+      font-size: 25px;
+      color: #B61B1B;
+}
+
+#artilharia {
+      left: -410px;
+}
+
+#estatistica {
+      left: 225px;
+}
+
+ #artilharia1, #artilharia3, #artilharia5, #artilharia7, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #estatistica1, #estatistica3, #estatistica5, #estatistica7, #estatistica01, #estatistica03, #estatistica05, #estatistica07, #artilharia2, #artilharia4, #artilharia6, #artilharia02, #artilharia04, #artilharia06, #estatistica2, #estatistica4, #estatistica6, #estatistica02, #estatistica04, #estatistica06 {
+      position: absolute;
+      margin: 0 50% 0 50%;
+      width: 150px;
+      letter-spacing: .092em;
+      font-family: helvetica;
+      color: #B61B1B;
+      font-size: 22px;
+      list-style: none;
+}
+
+ #artilharia1, #artilharia3, #artilharia5, #artilharia7, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07, #estatistica1, #estatistica3, #estatistica5, #estatistica7, #estatistica01, #estatistica03, #estatistica05, #estatistica07 {
+      color: #B61B1B;
+}
+
+#artilharia2, #artilharia4, #artilharia6, #artilharia02, #artilharia04, #artilharia06, #estatistica2, #estatistica4, #estatistica6, #estatistica02, #estatistica04, #estatistica06 {
+      color: white;
+}
+
+#artilharia1, #artilharia01, #estatistica1, #estatistica01 {
+      top: 365px;
+}
+
+#artilharia2, #artilharia02, #estatistica2, #estatistica02 {
+      top: 409px;
+}
+
+#artilharia3, #artilharia03, #estatistica3, #estatistica03 {
+      top: 451px;
+}
+
+#artilharia4, #artilharia04, #estatistica4, #estatistica04 {
+      top: 496px;
+}
+
+#artilharia5, #artilharia05, #estatistica5, #estatistica05 {
+      top: 540px;
+}
+
+#artilharia6, #artilharia06, #estatistica6,  #estatistica06 {
+      top: 583px;
+}
+
+#artilharia7, #artilharia07, #estatistica7, #estatistica07 {
+      top: 624px;
+}
+
+#artilharia1, #artilharia2, #artilharia3, #artilharia4, #artilharia5, #artilharia6, #artilharia7 {
+      left: -415px;
+}
+
+#artilharia01, #artilharia02, #artilharia03, #artilharia04, #artilharia05, #artilharia06, #artilharia07 {
+      left: -265px;
+}
+
+#estatistica1, #estatistica2, #estatistica3, #estatistica4, #estatistica5, #estatistica6, #estatistica7 {
+      left: 230px;
+}
+
+#estatistica01, #estatistica02, #estatistica03, #estatistica04, #estatistica05, #estatistica06, #estatistica07 {
+      left: 387px;
+}
+
+.linha1, .linha2, .linha3, .linha4, .linha5, .linha6, .linha7, .linha8, .linha9, .linha10, .linha11, .linha12 {
+      position: absolute;
+      height: 45px;
+      background: #B61B1B;
+      list-style: none;
+      border-radius: 17px 0 17px 0;
+      margin: 0 50% 0 50%;
+}
+
+.linha1, .linha2, .linha3, .linha4, .linha5, .linha6 {
+      left: -429px;
+      width: 205px;
+} 
+
+.linha7, .linha8, .linha9, .linha10, .linha11, .linha12 {
+      left: 213px;
+      width: 215px;
+}
+
+.linha1, .linha7 {
+      top: 420px; 
+}
+.linha3, .linha9 {
+      top: 507px;
+}
+
+.linha5, .linha11 {
+      top: 594px;
+}
+
+.março, .abril, .maio, .julho, .outubro, .setembro, .junho, .agosto, .novembro, .desembro {
+      position: absolute;
+      width: 100%;
+      background: #8B0000;
+}
+
+.março{
+      height: 930px;
+}
+
+.abril  {
+      height: 560px;
+}
+
+.maio  {
+      height: 430px;
+}
+
+.junho, .agosto, .novembro  {
+      height: 650px;
+}
+
+.julho, .setembro, .outubro, .desembro {
+      height: 439px;
+}
+
+.março {
+      margin-top: 725px;
+} 
+
+.abril {
+      margin-top: 1655px;
+}  
+
+.maio {
+      margin-top: 2213px;
+}
+
+.junho {
+      margin-top: 2630px;
+}
+
+.julho {
+      margin-top: 3280px;
+}
+
+.agosto {
+      margin-top: 3713px;
+}
+
+.setembro {
+      margin-top: 4361px;
+}
+.outubro {
+      margin-top: 4791px;
+}
+
+.novembro {
+      margin-top: 5230px;
+}
+
+.desembro {
+      margin-top: 5880px;
+}
+
+h6 {
+      position: relative;
+      text-align: center;
+      font-family: 'Droid Serif', serif;
+      letter-spacing: .092em;
+      margin-top: 80px;
+      font-size: 30px;
+      color: white;
+}
+
+#vs p {
+      position: absolute;
+      font-family: Verdana;
+      font-size: 30px;
+      color: #FFFFFF;
+      margin: 75px 0 0 113px;
+}  
+
+#horas p {
+      position: relative;
+      text-align: center;
+      font-family: Verdana;
+      letter-spacing: .092em;
+      font-size: 18px;
+      color: #FFFFFF;
+      margin-top: 149px;
+}
+
+.março1, .março2, .março3, .março4, .março5, .abril1, .abril2, .abril3, .abril4 {
+      position: absolute;
+      margin: 0 50% 0 50%;
+      width: 250px;
+      height: 245px;
+}
+
+.maio1, .maio2, .maio3, .maio4, .junho1, .junho2, .junho3, .junho4,.junho5, .julho1, .julho2, .julho3, .julho4, .agosto1, .agosto2, .agosto3, .agosto4, .agosto5, .setembro1, .setembro2, .setembro3, .setembro4, .outubro1, .outubro2, .outubro3, .outubro4, .novembro1, .novembro2, .novembro3, .novembro4, .novembro5, .desembro1, .desembro2 {
+      position: absolute;
+      width: 250px;
+      height: 205px;
+      border-radius: 25px;
+      margin: 0 50% 0 50%;
+      zoom: 90%;
+      border: 1px solid white;
+}
+
+.março1, .março2, .março3, .abril1, .abril2, .abril3, .abril4, .maio1, .maio2, .maio3, .maio4, .junho1, .junho2, .junho3, .julho1, .julho2, .julho3, .julho4, .agosto1, .agosto2, .agosto3, .setembro1, .setembro2, .setembro3, .setembro4, .outubro1, .outubro2, .outubro3, .outubro4, .novembro1, .novembro2, .novembro3, .desembro1, .desembro2 {
+      top: 100px;
+}
+
+.março4, .março5 {
+      top: 470px;
+}
+
+.junho4,.junho5, .agosto4, .agosto5, .novembro4, .novembro5 {
+      top: 345px;
+}
+
+.março1, .junho1, .agosto1, .novembro1 {
+     left: -408px;
+}
+
+.março2, .junho2, .agosto2, .novembro2 {
+      left: -118px;
+}
+
+.março3, .junho3, .agosto3, .novembro3 {
+      left: 172px;
+}
+
+.março4, .junho4, .agosto4, .novembro4, .desembro1 {
+      left: -265px;
+}
+
+.março5, .junho5, .agosto5, .novembro5, .desembro2 {
+      left: 28px;
+}
+
+.abril1, .maio1, .julho1, .setembro1, .outubro1 {
+      left: -550px;
+}
+
+.abril2, .maio2, .julho2, .setembro2, .outubro2 {
+      left: -260px;
+}
+
+.abril3, .maio3, .julho3, .setembro3, .outubro3 {
+      left: 23px;
+}
+
+.abril4, .maio4, .julho4, .setembro4, .outubro4 {
+      left: 308px;
+}
+
+
+
+#dias p, #dialivre p {
+      position: absolute;
+      letter-spacing: .092em;
+      font-family: Verdana;
+      font-size: 18px;
+      margin: 14px 0 0 60px;
+      color: white;
+}
+
+#escudo1 {
+      position: absolute;
+      margin: 63px 0 0 35px;
+}
+
+#escudo2 {
+      position: absolute;
+      margin: 64px 0 0 168px;
+}
+
+#versos p, #gol p, #festival a, #vs p, #jogos p {
+      position: absolute;
+      font-family: Arial;
+}
+
+#versos p, #vs p {
+     text-align: center;
+     font-size: 15px;
+     margin: 77px 0 0 98px;
+     padding: 3px 14px 3px 14px;
+     border-radius: 12px;
+}
+
+#versos p {
+     color: #A61407;
+     background-color:  white;
+}
+
+#vs p {
+      color: #8B0000;
+      background-color:  white;
+}
+
+#gol p, #cancelado p {
+      color: #FFFFFF;
+}
+
+#gol p, #cancelado p {
+      letter-spacing: .092em;
+      font-size: 18px;
+}
+
+#jogos p {
+      letter-spacing: .092em;
+      font-size: 22px;
+      font-weight: 700;
+      padding: 0 40px 0;
+      text-align: center;
+      left: -65px;
+      color: white;
+}
+
+#gol p {
+     margin: 147px 0 0 73px;
+}
+
+#jogos p {
+     margin: 142px 0 0 73px;
+}
+
+#cancelado p {
+      margin: 149px 0 0 55px;
+       font-weight: 700;
+       width: 10px;
+}
+
+#golde01, #golde02, #golde03, #golde04, #golde05, #golde06, #golde07, #golde08, #golde09 {
+      position: absolute;
+      letter-spacing: .092em;
+      font-family: verdana;
+      letter-spacing: .092em;
+      font-size: 17px;
+      color: white;
+
+}
+
+#golde01, #golde02, #golde03, #golde04, #golde05, #golde06, #golde07, #golde08, #golde09  {
+      margin-left: 43px;
+}
+
+#golde01, #golde03, #golde04, #golde07 {
+     margin-top: 195px;
+}
+
+#golde02, #golde05, #golde08 {
+     margin-top: 235px;
+}
+
+#golde06, #golde09 {
+     margin-top: 275px;
+}
+
+#chuva {
+      position: absolute;
+      margin: 65px 0 0 85px;
 }
 
 #roda {
-  margin-top: 4000px;
+  margin-top: 6320px;
 }
 
-@media (max-width: 980px) {
-  #roda {
-  margin-top: 6680px;
-}
-}
-
-@media (max-width: 979px) {
-#roda {
-      margin-top: 6689px;
-}
-}
