@@ -13,6 +13,13 @@ h1 {
     font-family: 'Fjalla One', sans-serif;
 }
 
+@media (max-width: 980px) {
+  h1 {
+      margin-top: 50px;
+      zoom: 80%;
+}
+}
+
 .foto {
       position: absolute; 
       margin: 0 50% 0 50%;
@@ -278,6 +285,12 @@ h1 {
 
 .desembro {
       margin-top: 5880px;
+}
+
+@media (max-width: 980px) {
+.março {
+     margin-top: 555px;
+}
 }
 
 h6 {
