@@ -541,6 +541,12 @@ h6 {
       color: white;
 }
 
+@media (max-width: 980px) {
+  h6 {
+      zoom: 120%;
+}
+}
+
 #dias p, #dialivre p {
       position: absolute;
       letter-spacing: .092em;
