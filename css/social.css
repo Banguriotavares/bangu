@@ -40,7 +40,7 @@ h1 {
      height: 1300px;
      width: 663px;
      zoom: 95%;
-     top: 300px;
+     top: 200px;
      left: -331px;
      background-color: #dcdcdc;
 }
@@ -119,19 +119,19 @@ h1 {
 
 @media (max-width: 980px) {
 #treino2 img {
-   margin: 800px 0 0 50px;
+   margin: 700px 0 0 50px;
 }
 }
 
 @media (max-width: 980px) {
 #treino3 img {
-    margin: 1560px 0 0 50px;
+    margin: 1360px 0 0 50px;
 }
 }
 
 @media (max-width: 980px) {
 #treino4 img {
-    margin: 2335px 0 0 50px;
+    margin: 2035px 0 0 50px;
 }
 }
 
@@ -145,9 +145,9 @@ h1 {
 
 @media (max-width: 980px) {
 #caixa5 {
-     top: 4090px;
+     top: 3690px;
      zoom: 80%;
-     height: 215px;
+     height: 270px;
 }
 } 
 
@@ -196,7 +196,8 @@ h1 {
 
 @media (max-width: 980px) {
 #foto5 img, #foto6 img, #foto7 img, #foto8 img {
-    top: 90px;
+    top: 60px;
+    zoom: 140%
 }
 }
 
@@ -228,8 +229,8 @@ h1 {
 
 @media (max-width: 980px) {
 .data {
-    top: 4958px;
-    zoom: 70%;
+    top: 3990px;
+    zoom: 80%;
 }
 }
 
@@ -345,7 +346,7 @@ h1 {
 @media (max-width: 980px) {
 .bairro {
     margin: 0 50% 0 50%;
-    top: 3940px;
+    top: 3640px;
     left: -331px;
     width: 663px;
     height: 2230px;
@@ -461,7 +462,7 @@ h1 {
 
 @media (max-width: 980px) {
 #roda {
-      margin-top: 6250px;
+      margin-top: 6000px;
 }
 }	
 
