@@ -39,7 +39,7 @@ h1 {
  #caixa4 {
      height: 1300px;
      width: 663px;
-     zoom: 80%;
+     zoom: 95%;
      top: 300px;
      left: -331px;
      background-color: #dcdcdc;
@@ -106,32 +106,32 @@ h1 {
 
 @media (max-width: 980px) {
 #treino1 img, #treino2 img, #treino3 img, #treino4 img {
-    width: 1000px;
+    width: 850px;
     height: 600px;
 }
 }
 
 @media (max-width: 980px) {
 #treino1 img {
-    margin: 35px 0 0 -10px;
+    margin: 35px 0 0 50px;
 }
 }
 
 @media (max-width: 980px) {
 #treino2 img {
-   margin: 800px 0 0 -10px;
+   margin: 800px 0 0 50px;
 }
 }
 
 @media (max-width: 980px) {
 #treino3 img {
-    margin: 1560px 0 0 -10px;
+    margin: 1560px 0 0 50px;
 }
 }
 
 @media (max-width: 980px) {
 #treino4 img {
-    margin: 2335px 0 0 -10px;
+    margin: 2335px 0 0 50px;
 }
 }
 
@@ -145,7 +145,7 @@ h1 {
 
 @media (max-width: 980px) {
 #caixa5 {
-     top: 3460px;
+     top: 4090px;
      zoom: 80%;
      height: 215px;
 }
@@ -228,7 +228,7 @@ h1 {
 
 @media (max-width: 980px) {
 .data {
-    top: 4235px;
+    top: 4958px;
     zoom: 70%;
 }
 }
@@ -345,11 +345,11 @@ h1 {
 @media (max-width: 980px) {
 .bairro {
     margin: 0 50% 0 50%;
-    top: 4070px;
+    top: 3940px;
     left: -331px;
     width: 663px;
     height: 2230px;
-    zoom: 80%;
+    zoom: 95%;
     background-color: #dcdcdc;
 }
 }
@@ -410,13 +410,13 @@ h1 {
 
 @media (max-width: 980px) {
 #bairro2 P {
-     margin: 1290px 50px 0 50px;
+     margin: 1050px 50px 0 50px;
 }
 }
 
 @media (max-width: 980px) {
 #bairro3 P {
-     margin: 2520px 50px 0 50px;
+     margin: 2170px 50px 0 50px;
 }
 }
 
@@ -436,19 +436,20 @@ h1 {
 
 @media (max-width: 980px) {
 #bairroimg1 img, #bairroimg2 img {
-     width: 700px;
-     height: 600px;}
+     width: 570px;
 }
 
 @media (max-width: 980px) {
 #bairroimg1 img {
-     margin: 580px 0 0 -10px;
+     margin: 580px 0 0 50px;
+     height: 400px;
 }
 }
 
 @media (max-width: 980px) {
 #bairroimg2 img {
-     margin: 1800px 0 0 -10px;
+     margin: 1500px 0 0 50px;
+     height: 600px;
 }
 }
 
@@ -460,7 +461,7 @@ h1 {
 
 @media (max-width: 980px) {
 #roda {
-      margin-top: 5700px;
+      margin-top: 6250px;
 }
 }	
 
