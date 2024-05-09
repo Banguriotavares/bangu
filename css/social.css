@@ -67,7 +67,7 @@ h1 {
 @media (max-width: 980px) {
  #texto p {
      top: -70px;
-     padding: 120px 80px 0 80px;
+     padding: 120px 70px 0 70px;
      font-size: 23px;
 }
 } 
@@ -106,32 +106,32 @@ h1 {
 
 @media (max-width: 980px) {
 #treino1 img, #treino2 img, #treino3 img, #treino4 img {
-    width: 850px;
-    height: 600px;
+    width: 830px;
+    height: 500px;
 }
 }
 
 @media (max-width: 980px) {
 #treino1 img {
-    margin: 35px 0 0 50px;
+    margin: 5px 0 0 70px;
 }
 }
 
 @media (max-width: 980px) {
 #treino2 img {
-   margin: 700px 0 0 50px;
+   margin: 580px 0 0 70px;
 }
 }
 
 @media (max-width: 980px) {
 #treino3 img {
-    margin: 1360px 0 0 50px;
+    margin: 1155px 0 0 70px;
 }
 }
 
 @media (max-width: 980px) {
 #treino4 img {
-    margin: 2035px 0 0 50px;
+    margin: 1735px 0 0 70px;
 }
 }
 
@@ -145,7 +145,7 @@ h1 {
 
 @media (max-width: 980px) {
 #caixa5 {
-     top: 3690px;
+     top: 3390px;
      zoom: 80%;
      height: 270px;
 }
@@ -229,7 +229,7 @@ h1 {
 
 @media (max-width: 980px) {
 .data {
-    top: 3990px;
+    top: 3690px;
     zoom: 80%;
 }
 }
@@ -346,7 +346,7 @@ h1 {
 @media (max-width: 980px) {
 .bairro {
     margin: 0 50% 0 50%;
-    top: 3640px;
+    top: 3370px;
     left: -331px;
     width: 663px;
     height: 2230px;
@@ -388,6 +388,7 @@ h1 {
 @media (max-width: 980px) {
 #bairro1 P, #bairro2 P, #bairro3 P {
      font-size: 24px;
+     padding: 0 20px 0 20px;
 }
 }
 
@@ -462,7 +463,7 @@ h1 {
 
 @media (max-width: 980px) {
 #roda {
-      margin-top: 6000px;
+      margin-top: 5700px;
 }
 }	
 
