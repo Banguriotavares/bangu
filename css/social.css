@@ -37,12 +37,11 @@ h1 {
 
 @media (max-width: 980px) {
  #caixa4 {
-     height: 1300px;
-     width: 663px;
-     zoom: 95%;
-     top: 200px;
-     left: -331px;
-     background-color: #dcdcdc;
+     height: 2585px;
+     width: 600px;
+     top: 250px;
+     left: -300px;
+     border-radius: 10px;
 }
 } 
 
@@ -67,8 +66,9 @@ h1 {
 @media (max-width: 980px) {
  #texto p {
      top: -70px;
-     padding: 120px 70px 0 70px;
-     font-size: 23px;
+     padding: 100px 60px 0 60px;
+     font-size: 25px;
+     line-height: 1.85;
 }
 } 
 
@@ -80,12 +80,6 @@ h1 {
     position: absolute;
     border-radius: 15px;
     box-shadow: 0 0 1px  black;
-}
-
-@media (max-width: 980px) {
-#treino1 img, #treino2 img, #treino3 img, #treino4 img {
-    zoom: 70%;
-}
 }
       
 #treino1 img {
@@ -106,32 +100,32 @@ h1 {
 
 @media (max-width: 980px) {
 #treino1 img, #treino2 img, #treino3 img, #treino4 img {
-    width: 830px;
-    height: 500px;
+    width: 560px;
+    height: 300px;
 }
 }
 
 @media (max-width: 980px) {
 #treino1 img {
-    margin: 5px 0 0 70px;
+    margin: -15px 0 0 20px;
 }
 }
 
 @media (max-width: 980px) {
 #treino2 img {
-   margin: 580px 0 0 70px;
+   margin: 340px 0 0 20px;
 }
 }
 
 @media (max-width: 980px) {
 #treino3 img {
-    margin: 1155px 0 0 70px;
+    margin: 695px 0 0 20px;
 }
 }
 
 @media (max-width: 980px) {
 #treino4 img {
-    margin: 1735px 0 0 70px;
+    margin: 1050px 0 0 20px;
 }
 }
 
@@ -145,7 +139,7 @@ h1 {
 
 @media (max-width: 980px) {
 #caixa5 {
-     top: 3390px;
+     top: 3640px;
      zoom: 80%;
      height: 270px;
 }
@@ -229,7 +223,7 @@ h1 {
 
 @media (max-width: 980px) {
 .data {
-    top: 3690px;
+    top: 3940px;
     zoom: 80%;
 }
 }
@@ -346,12 +340,10 @@ h1 {
 @media (max-width: 980px) {
 .bairro {
     margin: 0 50% 0 50%;
-    top: 3370px;
-    left: -331px;
-    width: 663px;
-    height: 2230px;
-    zoom: 95%;
-    background-color: #dcdcdc;
+    top: 3670px;
+    left: -300px;
+    width: 600px;
+    height: 2910px;
 }
 }
 
@@ -387,8 +379,9 @@ h1 {
 
 @media (max-width: 980px) {
 #bairro1 P, #bairro2 P, #bairro3 P {
-     font-size: 24px;
-     padding: 0 20px 0 20px;
+     padding: 30px 10px 0 10px;
+     font-size: 25px;
+     line-height: 1.85;
 }
 }
 
@@ -412,13 +405,13 @@ h1 {
 
 @media (max-width: 980px) {
 #bairro2 P {
-     margin: 1050px 50px 0 50px;
+     margin: 1150px 50px 0 50px;
 }
 }
 
 @media (max-width: 980px) {
 #bairro3 P {
-     margin: 2170px 50px 0 50px;
+     margin: 2390px 50px 0 50px;
 }
 }
 
@@ -437,20 +430,17 @@ h1 {
 }
 
 @media (max-width: 980px) {
-#bairroimg1 img, #bairroimg2 img {
-     width: 570px;
-}
-
-@media (max-width: 980px) {
 #bairroimg1 img {
-     margin: 580px 0 0 50px;
+     margin: 710px 0 0 20px;
+     width: 565px;
      height: 400px;
 }
 }
 
 @media (max-width: 980px) {
 #bairroimg2 img {
-     margin: 1500px 0 0 50px;
+     margin: 1750px 0 0 115px;
+     width: 370px;
      height: 600px;
 }
 }
@@ -463,7 +453,7 @@ h1 {
 
 @media (max-width: 980px) {
 #roda {
-      margin-top: 5700px;
+      margin-top: 6650px;
 }
 }	
 
