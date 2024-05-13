@@ -22,7 +22,8 @@ h1 {
   border-radius: 20px;
 }
 
-.borda1, .borda2, .borda3 {
+@media (max-width: 980px) {
+  .borda1, .borda2, .borda3 {
   zoom: 160%;
 }
 }
