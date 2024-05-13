@@ -37,7 +37,7 @@ h1 {
 
 @media (max-width: 980px) {
  #sites {;
-     height: 1070px;
+     height: 950px;
      width: 600px;
      top: 250px;
      left: -300px;
@@ -66,9 +66,9 @@ h1 {
 #site p {
      position: absolute;
 	 font-size: 20px;
-    padding: 60px 90px 0 90px;
+     padding: 60px 90px 0 90px;
      line-height: 1.70;
-     letter-spacing: .142em;
+     letter-spacing: .05em;
      font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
      text-indent: 27px;
 }
@@ -98,7 +98,7 @@ h1 {
     width: 100%;
     height: 630px;
     background-color: #8B0000;
-    top: 780px;
+    top: 700px;
 }
 
 @media (max-width: 980px) {
@@ -206,7 +206,7 @@ input:hover, select:hover, textarea:hover {
 }
 
 #roda {
-  margin-top: 1380px;
+  margin-top: 1300px;
 }
 
 @media (max-width: 980px) {
