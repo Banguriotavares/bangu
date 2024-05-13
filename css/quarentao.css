@@ -1,7 +1,8 @@
 @charset "UTF-8";
 
 h1 {
-    left: -175px;
+    left: -150px;
+    width: 400PX;
 }
 
 .foto {
