@@ -340,70 +340,70 @@ h1 {
 
 @media (max-width: 980px) {
 .março {
-     margin-top: 1255px;
+     margin-top: 1045px;
      height: 1430px;
 }
 }
 
 @media (max-width: 980px) {
 .abril {
-     margin-top: 2655px;
+     margin-top: 2445px;
      height: 1300px;
 }
 }
 
 @media (max-width: 980px) {
 .maio {
-     margin-top: 3620px;
+     margin-top: 3410px;
      height: 700px;
 }
 }
 
 @media (max-width: 980px) {
 .junho {
-     margin-top: 4305px;
+     margin-top: 4095px;
      height: 930px;
 }
 }
 
 @media (max-width: 980px) {
 .julho {
-     margin-top: 5225px;
+     margin-top: 5015px;
      height: 700px;
 }
 }
 
 @media (max-width: 980px) {
 .agosto {
-     margin-top: 5905px;
+     margin-top: 5695px;
      height: 930px;
 }
 }
 
 @media (max-width: 980px) {
 .setembro {
-     margin-top: 6815px;
+     margin-top: 6605px;
      height: 700px;
 }
 }
 
 @media (max-width: 980px) {
 .outubro {
-     margin-top: 7495px;
+     margin-top: 7285px;
      height: 700px;
 }
 }
 
 @media (max-width: 980px) {
 .novembro {
-     margin-top: 8180px;
+     margin-top: 7970px;
      height: 930px;
 }
 }
 
 @media (max-width: 980px) {
 .dezembro {
-     margin-top: 9105px;
+     margin-top: 8895px;
 }
 }
 
@@ -518,13 +518,13 @@ h1 {
 
 @media (max-width: 980px) {
   .maio3, .maio4, .junho3, .junho4, .julho3, .julho4, .agosto3, .agosto4, .setembro3, .setembro4, .outubro3, .outubro4, .novembro3, .novembro4 {
-      top: 360px;
+      top: 345px;
 }
 }
 
 @media (max-width: 980px) {
   .junho5, .agosto5, .novembro5 {
-      top: 620px;
+      top: 595px;
 }
 }
 
@@ -674,7 +674,7 @@ h6 {
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 11440px;
+  margin-top: 11200px;
 }
 }
 
