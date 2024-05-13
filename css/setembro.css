@@ -9,6 +9,7 @@
 
 @media (max-width: 980px) {
   .setembro {
+      zoom: 120%;
       height: 6800px;
 }
 }
@@ -293,7 +294,7 @@ h1 {
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 7020px;
+  margin-top: 8430px;
 }
 }
 
