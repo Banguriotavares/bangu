@@ -15,14 +15,20 @@ h1 {
 .borda1, .borda2, .borda3 {
   position: absolute;
   margin: 0 50% 0 50%;
-  top: 350px;
-  width: 350px;
-  height: 50px;
+  top: 255px;
+  width: 360px;
+  height: 280px;
   background-color: white;
+  border-radius: 20px;
+}
+
+.borda1, .borda2, .borda3 {
+  zoom: 160%;
+}
 }
 
 .borda1 {
-  left: -594px;;
+  left: -594px;
 }
 
 .borda2 {
@@ -34,16 +40,30 @@ h1 {
 
 }
 
-.borda1 img {
-  margin: -180px 0 0 50px;
+@media (max-width: 980px) {
+  .borda1 {
+   top: 170px;
+   left: -178px;
+}
 }
 
-.borda2 img {
-  margin: -160px 0 0 30px;
+@media (max-width: 980px) {
+  .borda2 {
+   top: 570px;
+   left: -178px;
+}
 }
 
-.borda3 img {
-  margin: -178px 0 0 200px;
+@media (max-width: 980px) {
+  .borda3 {
+   top: 970px;
+   left: -178px;
+}
+}
+
+.borda1 img, .borda2 img, .borda3 img {
+  margin: 40px 0 0 10px;
+  border-radius: 20px;
 }
 
 H2 {
@@ -59,12 +79,12 @@ H2 {
 
 .borda1 H2 {
    top: -20px;
-   left: 50px;
+   left: -150px;
 }
 
 .borda2 H2 {
    top: -20px;
-   left: -30px;
+   left: -150px;
 }
 
 .borda3 H2 {
@@ -73,5 +93,11 @@ H2 {
 }
 
 #roda {
-  margin-top: 1009px;
+  margin-top: 620px;
+}
+
+@media (max-width: 980px) {
+  #roda {
+  margin-top: 2150px;
+}
 }

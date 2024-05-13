@@ -200,7 +200,7 @@ h1 {
 
 @media (max-width: 979px) {
   .supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
-    zoom: 70%;
+    zoom: 89%;
 }
 }
 
@@ -292,12 +292,12 @@ h1 {
 
 @media (max-width: 979px) {
   .supermaio, .superjunho, .superjulho, .superagosto {
-     top: 878px;   
+     top: 688px;   
 }
 }
 
 @media (max-width: 979px) {
   .supersetembro, .superoutubro, .supernovembro, .superdezembro {
-     top: 928px;   
+     top: 738px;   
 }
 }
