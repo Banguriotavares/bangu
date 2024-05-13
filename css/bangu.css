@@ -567,8 +567,15 @@ h6 {
       letter-spacing: .092em;
       font-family: Verdana;
       font-size: 18px;
-      margin: 14px 0 0 60px;
       color: white;
+}
+
+#dias p {
+      margin: 14px 0 0 80px;
+}
+
+#dialivre p {
+      margin: 14px 0 0 60px;
 }
 
 #escudo1 {
@@ -591,7 +598,8 @@ h6 {
      font-size: 15px;
      margin: 77px 0 0 98px;
      padding: 3px 14px 3px 14px;
-     border-radius: 12px;
+     border-radius: 30px;
+     font-weight: 700;
 }
 
 #versos p {
