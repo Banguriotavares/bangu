@@ -4,6 +4,7 @@
       position: absolute;
       width: 100%;
       height: 3345px;
+      background-color: #8B0000;
 } 
 
 @media (max-width: 980px) {
@@ -284,8 +285,12 @@ h1 {
     box-shadow: 0 0 10px black;
 }
 
+#patrocinio {
+  top: 4059px;
+}
+
 #roda {
-  margin-top: 3559px;
+  margin-top: 3990px;
 }
 
 @media (max-width: 980px) {

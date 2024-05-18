@@ -95,6 +95,13 @@ nav li #Menu:hover  {
     margin: 35px 0 0 745px;
 } 
 
+#patrocinio {
+    position: absolute;
+    width: 100%;
+    margin: auto;
+    height: 455px;
+    background-color: #aeafae;
+}
 
 footer {
     position: relative;
