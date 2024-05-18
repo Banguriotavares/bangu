@@ -3,7 +3,6 @@
 .maio {
       position: absolute;
       width: 100%;
-      background: #8B0000;
       height: 3345px;
 } 
 
@@ -282,6 +281,7 @@ h1 {
 
 .supermarço, .superabril, .superjunho, .superjulho, .superagosto,  .supersetembro, .superoutubro, .supernovembro, .superdezembro {
     background-color: white;
+    box-shadow: 0 0 10px black;
 }
 
 #roda {
