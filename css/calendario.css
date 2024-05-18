@@ -117,8 +117,9 @@ h1 {
       position: absolute;
       letter-spacing: .092em;
       font-family: Verdana;
+      font-weight: 700;
       font-size: 18px;
-      margin: 14px 0 0 60px;
+      margin: 20px 0 0 60px;
       color: #8B0000;
 }
 
@@ -138,14 +139,9 @@ h1 {
 }
 
 #vs p {
-     text-align: center;
-     font-size: 15px;
-     margin: 77px 0 0 98px;
-     padding: 3px 14px 3px 14px;
-     border-radius: 12px;
+     font-size: 25px;
+     margin: 77px 0 0 104px;
      color: #8B0000;
-     background-color:  white;
-     font-weight: 700;
 }
 }
 
@@ -163,10 +159,10 @@ h1 {
       font-size: 22px;
       font-weight: 700;
       padding: 0 40px 0;
-      text-align: center;
-      left: -65px;
+      left: -93px;
       color: #8B0000;
-      margin: 142px 0 0 73px;
+      width: 300px;
+      margin: 152px 0 0 73px;
 }
 
 #chuva {
