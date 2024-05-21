@@ -281,6 +281,13 @@ h1 {
 
 .supermarço, .superabril, .supermaio, .superjunho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
     background-color: white;
+    box-shadow: 0 0 10px black;
+}
+
+@media (max-width: 980px) {
+  .supermarço, .superabril, .supermaio, .superjunho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
+    box-shadow: 0 0 5px black;
+}
 }
 
 .superjulho {

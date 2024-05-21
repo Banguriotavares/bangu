@@ -9,7 +9,7 @@
 
 @media (max-width: 980px) {
  .maio {
-      zoom: 110%;
+      zoom: 120%;
       height: 6600px;
 }
 }
@@ -264,13 +264,13 @@ h1 {
 
 @media (max-width: 980px) {
   .s1, .s2, .s4, .s6, .s8, .s10, .s11, .s13, .s15, .s17, .s19, .s20, .s22, .s24, .s26, .s28, .s29, .s31, .s33, .s35, .s37 {
-      left: -265px;
+      left: -260px;
 }
 }
 
 @media (max-width: 980px) {
   .s3, .s5, .s7, .s9, .s12, .s14, .s16, .s18, .s21, .s23, .s25, .s27, .s30, .s32, .s34, .s36, .t1, .t10, .t19, .t28, .t37 {
-      left: 25px;
+      left: 20px;
 }
 }
 
