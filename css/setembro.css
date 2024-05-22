@@ -9,7 +9,6 @@
 
 @media (max-width: 980px) {
   .setembro {
-      zoom: 110%;
       height: 6800px;
 }
 }
@@ -295,13 +294,23 @@ h1 {
    background-color: #dcdcdc;
 }
 
+#patrocinio {
+  top: 4100px;
+}
+
+@media (max-width: 980px) {
+  #patrocinio {
+  top: 8685px;
+}
+}
+
 #roda {
-  margin-top: 3580px;
+  margin-top: 4030px;
 }
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 8430px;
+  margin-top: 8600px;
 }
 }
 

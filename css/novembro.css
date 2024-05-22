@@ -9,7 +9,6 @@
 
 @media (max-width: 980px) {
  .novemnro {
-       zoom: 110%;
        height: 6750px;
 }
 }
@@ -294,13 +293,23 @@ h1 {
    background-color: #dcdcdc;
 }
 
+#patrocinio {
+  top: 4180px;
+}
+
+@media (max-width: 980px) {
+  #patrocinio {
+  top: 8625px;
+}
+}
+
 #roda {
-  margin-top: 3663px;
+  margin-top: 4110px;
 }
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 8300px;
+  margin-top: 8540px;
 }
 }
 

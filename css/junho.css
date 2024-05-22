@@ -9,7 +9,6 @@
 
 @media (max-width: 980px) {
   .junho {
-      zoom: 110%;
       height: 7200px;
 }
 }
@@ -311,13 +310,23 @@ h1 {
    background-color: #dcdcdc;
 }
 
+#patrocinio {
+  top: 4380px;
+}
+
+@media (max-width: 980px) {
+  #patrocinio {
+  top: 9150px;
+}
+}
+
 #roda {
-  margin-top: 3863px;
+  margin-top: 4314px;
 }
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 8900px;
+  margin-top: 9065px;
 }
 }
 

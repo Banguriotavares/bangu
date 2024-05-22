@@ -9,7 +9,6 @@
 
 @media (max-width: 980px) {
   .outubro {
-      zoom: 110%;
       height: 6850px;
 }
 }
@@ -302,13 +301,23 @@ h1 {
    background-color: #dcdcdc;
 }
 
+#patrocinio {
+  top: 4080px;
+}
+
+@media (max-width: 980px) {
+  #patrocinio {
+  top: 8745px;
+}
+}
+
 #roda {
-  margin-top: 3559px;
+  margin-top: 4010px;
 }
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 7078px;
+  margin-top: 8660px;
 }
 }
 
