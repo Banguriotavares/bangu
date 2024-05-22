@@ -93,12 +93,22 @@ H2 {
    left: -150px;
 }
 
+#patrocinio {
+  top: 620px;
+}
+
+@media (max-width: 980px) {
+  #patrocinio {
+  top: 1855px;
+}
+}
+
 #roda {
-  margin-top: 620px;
+  margin-top: 1065px;
 }
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 1900px;
+  margin-top: 2284px;
 }
 }
