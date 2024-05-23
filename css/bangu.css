@@ -13,8 +13,6 @@ h1 {
     font-family: 'Fjalla One', sans-serif;
 }
 
-
-
 .foto {
       position: absolute; 
       margin: 0 50% 0 50%;
@@ -422,11 +420,11 @@ h1 {
       border-radius: 25px;
       margin: 0 50% 0 50%;
       zoom: 90%;
-      border: 1px solid white;
+      background-color: white;
 }
 
 .maio1:hover, .maio2:hover, .maio3:hover, .maio4:hover, .junho1:hover, .junho2:hover, .junho3:hover, .junho4:hover, .junho5:hover, .julho1:hover, .julho2:hover, .julho3:hover, .julho4:hover, .agosto1:hover, .agosto2:hover, .agosto3:hover, .agosto4:hover, .agosto5:hover, .setembro1:hover, .setembro2:hover, .setembro3:hover, .setembro4:hover, .outubro1:hover, .outubro2:hover, .outubro3:hover, .outubro4:hover, .novembro1:hover, .novembro2:hover, .novembro3:hover, .novembro4:hover, .novembro5:hover, .dezembro1:hover, .dezembro2:hover {
-      background-color: #808080;
+      background-color: #aeafae;
 }
 
 .março1, .março2, .março3, .abril1, .abril2, .abril3, .abril4, .maio1, .maio2, .maio3, .maio4, .junho1, .junho2, .junho3, .julho1, .julho2, .julho3, .julho4, .agosto1, .agosto2, .agosto3, .setembro1, .setembro2, .setembro3, .setembro4, .outubro1, .outubro2, .outubro3, .outubro4, .novembro1, .novembro2, .novembro3, .dezembro1, .dezembro2 {
@@ -561,16 +559,19 @@ h6 {
       position: absolute;
       letter-spacing: .092em;
       font-family: Verdana;
+      font-weight: 700;
       font-size: 18px;
-      color: white;
+      margin: 20px 0 0 45px;
 }
 
 #dias p {
-      margin: 14px 0 0 80px;
+      margin: 14px 0 0 90px;
+       color: white;
 }
 
 #dialivre p {
-      margin: 14px 0 0 60px;
+      margin: 14px 0 0 50px;
+       color: #8B0000;
 }
 
 #escudo1 {
@@ -583,28 +584,31 @@ h6 {
       margin: 64px 0 0 168px;
 }
 
-#versos p, #gol p, #festival a, #vs p, #jogos p {
+#versos p, #gol p, #vs p, #jogos p {
       position: absolute;
       font-family: Arial;
 }
 
 #versos p, #vs p {
-     text-align: center;
-     font-size: 15px;
-     margin: 77px 0 0 98px;
-     padding: 3px 14px 3px 14px;
-     border-radius: 30px;
-     font-weight: 700;
+     font-size: 17px;
+     color: white;
+     background-color: #FE0005;
+     padding: 5px 1px 4px 2px;
+     border-radius: 25px;
 }
 
 #versos p {
      color: #A61407;
      background-color:  white;
+     padding: 3px 14px 3px 14px;
+     margin: 82px 0 0 93px;
 }
 
 #vs p {
-      color: #8B0000;
-      background-color:  white;
+      color: white;
+      background-color: #FE0005;
+      margin: 82px 0 0 109px;
+      padding: 5px 1px 4px 2px;
 }
 
 #gol p, #cancelado p {
@@ -621,9 +625,10 @@ h6 {
       font-size: 22px;
       font-weight: 700;
       padding: 0 40px 0;
-      text-align: center;
-      left: -65px;
-      color: white;
+      left: -93px;
+      color: #8B0000;
+      width: 217px;
+      margin: 152px 0 0 73px;
 }
 
 #gol p {
