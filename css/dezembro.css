@@ -219,9 +219,3 @@ h1 {
   margin-top: 5050px;
 }
 }
-
-@media (max-width: 979px) {
-  #roda {
-  margin-top: 3175px;
-}
-}

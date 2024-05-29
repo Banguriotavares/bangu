@@ -685,6 +685,12 @@ h6 {
 }
 }
 
+@media (max-width: 979px) {
+  #patrocinio {
+  top: 7490px;
+}
+}
+
 #roda {
   margin-top: 6760px;
 }
@@ -692,6 +698,12 @@ h6 {
 @media (max-width: 980px) {
   #roda {
   margin-top: 11620px;
+}
+}
+
+@media (max-width: 979px) {
+  #roda {
+  margin-top: 7900px;
 }
 }
 
