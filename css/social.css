@@ -47,8 +47,7 @@ h1 {
 
 @media (max-width: 979px) {
  #caixa4 {
-     zoom: 70%;
-     top: 350px;
+     top: 250px;
 }
 } 
 	  
@@ -146,7 +145,7 @@ h1 {
 
 @media (max-width: 979px) {
 #caixa5 {
-     top: 1610px;
+     top: 3480px;
 }
 } 
 
@@ -229,7 +228,7 @@ h1 {
 
 @media (max-width: 979px) {
 .data {
-    top: 2470px;
+    top: 5040px;
     zoom: 60%;
 }
 }
@@ -348,8 +347,7 @@ h1 {
 
 @media (max-width: 979px) {
 .bairro {
-    top: 2470px;
-    zoom: 70%;
+    top: 3250px;;
 }
 }
 
@@ -453,6 +451,12 @@ h1 {
 }
 }
 
+@media (max-width: 979px) {
+  #patrocinio {
+     top: 6300px;
+}
+}
+
 #roda {
     margin-top: 3794px;
 }	
@@ -465,7 +469,7 @@ h1 {
 
 @media (max-width: 979px) {
 #roda {
-      margin-top: 4200px;
+      margin-top: 8400px;
 }
 }
 
