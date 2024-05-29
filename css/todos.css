@@ -91,44 +91,16 @@ nav li #Menu:hover  {
     color: #ADFF2F;
 }
 
-#logo {
-    position: absolute;
-    margin: 0 50% 0 50%;
-    width: 150px;
-    height: 180px;
-    background-color: #dcdcdc;
-    top: 38px;
-    left: -400px;
-    border-radius: 0 0 20px 20px;
-}
-
-@media (max-width: 980px) {
-  #logo {
-    background-color: #dcdcdc;
-    top: 90px;
-    left: -250px;
-}  
-}
-
 #logo img{
     position: absolute;
     margin: 0 50% 0 50%;
-    top: 50px;
-    left: -50px;
-}
-
-#logo1 img{
-    position: absolute;
-    margin: 0 50% 0 50%;
-    top: 50px;
-    left: -50px;
-    opacity: 0%;
+    top: 85px;
+    left: -400px;
 }
 
 @media (max-width: 980px) {
   #logo img {
-    top: 0px;
-    left: -50px;
+    left: -250px;
 }  
 }
 
