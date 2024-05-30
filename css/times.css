@@ -12,6 +12,13 @@ h1 {
     left: -70px;
 }
 
+@media (max-width: 980px) {
+  h1 {
+      top: 135px;
+      left: -20px;
+}
+}
+
 #logo img {
     position: absolute;
     margin: 0 50% 0 50%;
@@ -57,21 +64,21 @@ h1 {
 
 @media (max-width: 980px) {
   .borda1 {
-   top: 170px;
+   top: 270px;
    left: -178px;
 }
 }
 
 @media (max-width: 980px) {
   .borda2 {
-   top: 530px;
+   top: 630px;
    left: -178px;
 }
 }
 
 @media (max-width: 980px) {
   .borda3 {
-   top: 890px;
+   top: 990px;
    left: -178px;
 }
 }
@@ -113,7 +120,7 @@ H2 {
 
 @media (max-width: 980px) {
   #patrocinio {
-  top: 1855px;
+  top: 2100px;
 }
 }
 
@@ -123,6 +130,6 @@ H2 {
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 2284px;
+  margin-top: 2500px;
 }
 }

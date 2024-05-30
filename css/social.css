@@ -20,7 +20,8 @@ h1 {
 
 @media (max-width: 980px) {
   h1 {
-      left: -70px;
+     top: 135px;
+     left: -70px;
 }
 }
 
@@ -53,7 +54,7 @@ h1 {
  #caixa4 {
      height: 2450px;
      width: 600px;
-     top: 250px;
+     top: 350px;
      left: -300px;
      border-radius: 10px;
 }
@@ -151,7 +152,7 @@ h1 {
 
 @media (max-width: 980px) {
 #caixa5 {
-     top: 3500px;
+     top: 3600px;
      zoom: 80%;
      height: 270px;
 }
@@ -235,7 +236,7 @@ h1 {
 
 @media (max-width: 980px) {
 .data {
-    top: 3790px;
+    top: 3910px;
     zoom: 80%;
 }
 }
@@ -352,7 +353,7 @@ h1 {
 @media (max-width: 980px) {
 .bairro {
     margin: 0 50% 0 50%;
-    top: 3370px;
+    top: 3460px;
     left: -300px;
     width: 600px;
     height: 2950px;
@@ -373,7 +374,7 @@ h1 {
 @media (max-width: 980px) {
 .bairro h1 {
     position: absolute;
-    margin: -30px 0 0 215px;
+    margin: -30px 0 0 165px;
 }
 }
 
@@ -461,7 +462,7 @@ h1 {
 
 @media (max-width: 980px) {
   #patrocinio {
-     top: 6425px;
+     top: 6450px;
 }
 }
 

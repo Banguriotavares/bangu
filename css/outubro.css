@@ -23,6 +23,11 @@ h1 {
     left: -110px;
 }
 
+@media (max-width: 980px) {
+  h1 {
+    left: -50px;
+}
+}
 
 .s1, .r1, .t1 {
       top: 60px;
@@ -307,7 +312,7 @@ h1 {
 
 @media (max-width: 980px) {
   #patrocinio {
-  top: 8745px;
+  top: 8945px;
 }
 }
 
