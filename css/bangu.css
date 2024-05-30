@@ -60,12 +60,14 @@ h1 {
 
 @media (max-width: 980px) {
   #artilharia {
+      top: 265px;
       left: -210px;
 }
 }
 
 @media (max-width: 980px) {
   #estatistica {
+      top: 265px;
       left: 30px;
 }
 }
@@ -128,43 +130,43 @@ h1 {
 
 @media (max-width: 980px) {
 #artilharia1, #artilharia01, #estatistica1, #estatistica01 {
-      top: 315px;
+      top: 365px;
 }
 }
 
 @media (max-width: 980px) {
 #artilharia2, #artilharia02, #estatistica2, #estatistica02 {
-      top: 359px;
+      top: 409px;
 }
 }
 
 @media (max-width: 980px) {
 #artilharia3, #artilharia03, #estatistica3, #estatistica03 {
-      top: 401px;
+      top: 451px;
 }
 }
 
 @media (max-width: 980px) {
 #artilharia4, #artilharia04, #estatistica4, #estatistica04 {
-       top: 446px;
+       top: 496px;
 }
 }
 
 @media (max-width: 980px) {
 #artilharia5, #artilharia05, #estatistica5, #estatistica05 {
-        top: 490px;
+        top: 540px;
 }
 }
 
 @media (max-width: 980px) {
 #artilharia6, #artilharia06, #estatistica6,  #estatistica06 {
-         top: 533px;
+         top: 583px;
 }
 }
 
 @media (max-width: 980px) {
 #artilharia7, #artilharia07, #estatistica7, #estatistica07 {
-          top: 574px;
+          top: 624px;
 }
 }
 
@@ -258,19 +260,19 @@ h1 {
 
 @media (max-width: 980px) {
 .linha1, .linha7 {
-      top: 370px;
+      top: 420px;
 }
 }
 
 @media (max-width: 980px) {
 .linha3, .linha9 {
-      top: 457px;
+      top: 507px;
 }
 }
 
 @media (max-width: 980px) {
 .linha5, .linha11 {
-      top: 544px;
+      top: 594px;
 }
 }
 
@@ -695,7 +697,7 @@ h6 {
 
 @media (max-width: 980px) {
   #patrocinio {
-  top: 11200px;
+  top: 11225px;
 }
 }
 
