@@ -13,7 +13,7 @@ h1 {
 
 @media (max-width: 980px) {
   h1 {
-      top: 130px;
+      top: -435px;
 }
 }
 
@@ -23,7 +23,22 @@ h1 {
 }
 }
 
+#logo img {
+    position: absolute;
+    margin: 0 50% 0 50%;
+    top: 85px;
+    left: -400px;
+}
+
+@media (max-width: 980px) {
+  #logo img {
+    left: -250px;
+    top: -455px;
+}  
+}
+
 #sites {
+    position: relative;
     width: 940px;
     height: 40px;
     margin: -39px auto;
@@ -35,8 +50,8 @@ h1 {
 @media (max-width: 980px) {
    #sites {
     width: 465px;
-    margin: -39px auto;
-    margin-top: 580px;
+    margin-top: 680px;
+    top: -20px;
 }
 }
 
@@ -62,14 +77,14 @@ h1 {
 
 @media (max-width: 980px) {
   .foto0 {
-      top: 458px;
+      top: -180px;
       left: -230px;
 }
 }
 
 @media (max-width: 980px) {
   .foto {
-      top: 307px;
+      top: -330px;
       left: 30px;
 }
 }
@@ -286,13 +301,13 @@ h1 {
 
 @media (max-width: 980px) {
   .supermaio, .superjunho, .superjulho, .superagosto {
-     top: 677px;   
+     top: 97px;   
 }
 }
 
 @media (max-width: 980px) {
   .supersetembro, .superoutubro, .supernovembro, .superdezembro {
-     top: 737px;   
+     top: 157px;   
 }
 }
 
