@@ -47,10 +47,8 @@ body {
 
 @media (max-width: 980px) {
   #menu {
-   position: fixed;
    zoom: 150%;
    height: 65px;
-   top: 0px;
 }
 }
         

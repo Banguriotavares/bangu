@@ -13,7 +13,7 @@ h1 {
 
 @media (max-width: 980px) {
   h1 {
-      top: -435px;
+      top: 135px;
 }
 }
 
@@ -33,7 +33,7 @@ h1 {
 @media (max-width: 980px) {
   #logo img {
     left: -250px;
-    top: -455px;
+    top: 120px;
 }  
 }
 
@@ -57,21 +57,21 @@ h1 {
 
 .foto0, .foto, .foto1 {
       position: absolute; 
-      margin: 0 50% 0 50%;
+      margin: 0 50% 0 50%;;
 } 
 
 .foto0 {
-      top: 343px;
+      top: -183px;
       left: -468px;
 }
 
 .foto { 
-      top: 192px;
+      top: -330px;
       left: -116px;
 }
 
 .foto1 {
-      top: 370px;
+      top: -150px;
       left: 350px;
 }
 
@@ -301,13 +301,13 @@ h1 {
 
 @media (max-width: 980px) {
   .supermaio, .superjunho, .superjulho, .superagosto {
-     top: 97px;   
+     top: 757px;   
 }
 }
 
 @media (max-width: 980px) {
   .supersetembro, .superoutubro, .supernovembro, .superdezembro {
-     top: 157px;   
+     top: 827px;   
 }
 }
 
