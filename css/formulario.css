@@ -17,6 +17,27 @@ h1 {
     font-weight: 500;
 }
 
+@media (max-width: 980px) {
+  h1 {
+       left: -30px;
+       top: 135px;
+}
+}
+
+#logo img {
+    position: absolute;
+    margin: 0 50% 0 50%;
+    top: 85px;
+    left: -400px;
+}
+
+@media (max-width: 980px) {
+  #logo img {
+    left: -250px;
+    top: 120px;
+}  
+}
+
 #sites {
     position: absolute;
      margin: 0 50% 0 50%;
@@ -32,7 +53,7 @@ h1 {
  #sites {;
      height: 950px;
      width: 600px;
-     top: 250px;
+     top: 350px;
      left: -300px;
      background-color: white;
 }
@@ -96,7 +117,7 @@ h1 {
 
 @media (max-width: 980px) {
 #caixa1 {
-    top: 1386px;
+    top: 1436px;
     height: 950px;
 }
 }
@@ -204,7 +225,7 @@ input:hover, select:hover, textarea:hover {
 
 @media (max-width: 980px) {
   #patrocinio {
-  top: 2335px;
+  top: 2385px;
 }
 }
 
@@ -214,7 +235,7 @@ input:hover, select:hover, textarea:hover {
 
 @media (max-width: 980px) {
   #roda {
-  margin-top: 2760px;
+  margin-top: 2780px;
 }
 }	
 

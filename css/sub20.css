@@ -5,6 +5,13 @@ h1 {
     width: 420px;
 }
 
+@media (max-width: 980px) {
+  h1 {
+     padding-top: 45px;
+     left: -40px;
+}
+}
+
 .foto {
       top: 296px;
 }
