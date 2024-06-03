@@ -46,7 +46,7 @@ h1 {
 @media (max-width: 980px) {
   #artilharia, #estatistica {
       zoom: 120%;
-      top: 215px;
+      top: 285px;
 }
 }
 
@@ -60,14 +60,12 @@ h1 {
 
 @media (max-width: 980px) {
   #artilharia {
-      top: 265px;
       left: -210px;
 }
 }
 
 @media (max-width: 980px) {
   #estatistica {
-      top: 265px;
       left: 30px;
 }
 }
