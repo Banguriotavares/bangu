@@ -241,17 +241,7 @@ h1 {
 
 .supermarço, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
     background-color: white;
-    box-shadow: 0 0 10px black;
-}
-
-@media (max-width: 980px) {
-  .supermarço, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
     box-shadow: 0 0 5px black;
-}
-}
-
-.superabril {
-   background-color: #dcdcdc;
 }
 
 #roda {
