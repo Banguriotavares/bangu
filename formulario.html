@@ -10,6 +10,24 @@
        <link rel="shortcut icon" href="favicon.png">
 
 </head> 
+
+<script>
+        document.getElementById('meuFormulario').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            var nome = document.getElementById('nome').value;
+            var time = document.getElementById('time').value;
+            var adversario = document.getElementById('adversario').value;
+            var numero = document.getElementById('numero').value;
+            var data = document.getElementById('data').value;
+            var horario = document.getElementById('horario').value;
+
+            var mensagem = 'Olá! Meu nome é ' + nome + ', sou do time ' + time + ', vou jogar contra o ' + adversario + ' . Gostaria de marcar um jogo para o dia ' + data + ' às ' + horario + '.';
+
+            window.location.href = 'https://wa.me/5548996368579?text=' + numero + '?text=' + encodeURIComponent(mensagem);
+        });
+</script>
+
 <body>
 <header id="menu">
         <nav><ul>
@@ -34,27 +52,8 @@
         <label for="data"><h2>Data do Jogo:</h2></label><input type="date" id="data" name="data">
         <label for="horario"><h2>Horário do Jogo:</h2></label><input type="time" id="horario" name="horario">
         <input type="submit" value="Enviar">
-    </form>
-
-    <script>
-        document.getElementById('meuFormulario').addEventListener('submit', function(e) {
-            e.preventDefault();
-
-            var nome = document.getElementById('nome').value;
-            var time = document.getElementById('time').value;
-            var adversario = document.getElementById('adversario').value;
-            var numero = document.getElementById('numero').value;
-            var data = document.getElementById('data').value;
-            var horario = document.getElementById('horario').value;
-
-            var mensagem = 'Olá! Meu nome é ' + nome + ', sou do time ' + time + ', vou jogar contra o ' + adversario + ' . Gostaria de marcar um jogo para o dia ' + data + ' às ' + horario + '.';
-
-            window.location.href = 'https://wa.me/5548996368579?text=' + numero + '?text=' + encodeURIComponent(mensagem);
-        });
-    </script>
-
-         <img src="imagens/551.png" alt="bangu" width="330" height="469" />
-</div>
+</form>
+         <img src="imagens/551.png" alt="bangu" width="330" height="469" /></div>
 
 <header id="patrocinio">
 </header>
