@@ -1,0 +1,324 @@
+@charset "UTF-8";
+
+h1 {
+    position: absolute;
+    font-size: 58px;
+    color: #ED3A1E;
+    margin: 0 50% 0 50%;
+    top: 100px;
+    font-family: 'Fjalla One', sans-serif;
+    letter-spacing: .092em;
+    font-weight: 500;
+}
+
+@media (max-width: 980px) {
+  h1 {
+      top: 135px;
+}
+}
+
+@media (max-width: 979px) {
+  h1 {
+      top: 100px;
+}
+}
+
+#logo img {
+    position: absolute;
+    margin: 0 50% 0 50%;
+    top: 85px;
+    left: -400px;
+}
+
+@media (max-width: 980px) {
+  #logo img {
+    left: -250px;
+    top: 120px;
+}  
+}
+
+#sites {
+    position: relative;
+    width: 940px;
+    height: 40px;
+    margin: -39px auto;
+    background-color: #8B0000;
+    margin-top: 510px;
+    border-radius: 20px;
+}
+
+@media (max-width: 980px) {
+   #sites {
+    width: 465px;
+    margin-top: 680px;
+    top: -20px;
+}
+}
+
+.foto0, .foto, .foto1 {
+      position: absolute; 
+      margin: 0 50% 0 50%;;
+} 
+
+.foto0 {
+      top: -183px;
+      left: -468px;
+}
+
+.foto { 
+      top: -330px;
+      left: -116px;
+}
+
+.foto1 {
+      top: -150px;
+      left: 350px;
+}
+
+@media (max-width: 980px) {
+  .foto0 {
+      top: -180px;
+      left: -230px;
+}
+}
+
+@media (max-width: 980px) {
+  .foto {
+      top: -330px;
+      left: 30px;
+}
+}
+
+@media (max-width: 980px) {
+  .foto1 {
+      opacity: 0%;
+      left: -100px;
+}
+}
+
+@media (max-width: 979px) {
+  .foto0 {
+      zoom: 80%;
+      top: 500px;
+      left: -250px;
+}
+}
+
+@media (max-width: 979px) {
+  .foto {
+      zoom: 80%;
+      top: 351px;
+      left: 30px;
+}
+}
+
+@media (max-width: 979px) {
+  .foto1 {
+      zoom: 80%;
+      opacity: 0%;
+      left: -100px;
+}
+}
+
+.s1, .s2, .s3, .s4, .s5, .s6, .s7, .s8, .s9, .s10, .s11, .s12, .s13, .s14, .s15, .s16, .s17, .s18, .s19, .s20, .s21, .s22, .s23, .s24, .s25, .s26, .s27, .s28, .s29, .s30, .s31, .s32, .s33, .s34, .s35, .s36, .s37, .s38, .s39, .s40, .s41, .s42, .s43, .s44, .r1, .t1, .r5, .t5, .r9, .t9, .r10, .t10, .r14, .t14, .r18, .t18, .r19, .t19, .r23, .t23, .r27, .t27, .r28, .t28, .r32, .t32, .r36, .t36, .r37, .t37 {
+      position: absolute;
+      width: 250px;
+      height: 205px;
+      border-radius: 25px;
+      margin: 0 50% 0 50%;
+      zoom: 90%;
+      background-color: white;
+}
+
+.s1:hover, .s2:hover, .s3:hover, .s4:hover, .s5:hover, .s6:hover, .s7:hover, .s8:hover, .s9:hover, .s10:hover, .s11:hover, .s12:hover, .s13:hover, .s14:hover, .s15:hover, .s16:hover, .s17:hover, .s18:hover, .s19:hover, .s20:hover, .s21:hover, .s22:hover, .s23:hover, .s24:hover, .s25:hover, .s26:hover, .s27:hover, .s28:hover, .s29:hover, .s30:hover, .s31:hover, .s32:hover, .s33:hover, .s34:hover, .s35:hover, .s36:hover, .s37:hover, .s38:hover, .s39:hover, .s40:hover, .s41:hover, .s42:hover, .s43:hover, .s44:hover, .r1:hover, .t1:hover, .r5:hover, .t5:hover, .r9:hover, .t9:hover, .r10:hover, .t10:hover, .r14:hover, .t14:hover, .r18:hover, .t18:hover, .r19:hover, .t19:hover, .r23:hover, .t23:hover, .r27:hover, .t27:hover, .r28:hover, .t28:hover, .r32:hover, .t32:hover, .r36:hover, .t36:hover, .r37:hover, .t37:hover {
+      background-color: #aeafae;
+}
+
+#dias p, #dialivre p {
+      position: absolute;
+      letter-spacing: .092em;
+      font-family: Verdana;
+      font-weight: 700;
+      font-size: 18px;
+      margin: 20px 0 0 45px;
+      color: #8B0000;
+}
+
+#escudo1 {
+      position: absolute;
+      margin: 63px 0 0 35px;
+}
+
+#escudo2 {
+      position: absolute;
+      margin: 64px 0 0 168px;
+}
+
+#vs p, #jogos p {
+      position: absolute;
+      font-family: Arial;
+}
+
+#vs p {
+     font-size: 17px;
+     margin: 82px 0 0 109px;
+     color: white;
+     background-color: #FE0005;
+     padding: 5px 1px 4px 2px;
+     border-radius: 25px;
+}
+}
+
+#cancelado p {
+      letter-spacing: .092em;
+      font-size: 18px;
+       margin: 149px 0 0 55px;
+       font-weight: 700;
+       width: 10px;
+       color: #8B0000;
+}
+
+#jogos p {
+      letter-spacing: .092em;
+      font-size: 22px;
+      font-weight: 700;
+      padding: 0 40px 0;
+      left: -93px;
+      color: #8B0000;
+      width: 217px;
+      margin: 152px 0 0 73px;
+}
+
+#chuva {
+      position: absolute;
+      margin: 65px 0 0 85px;
+}
+
+.março, .abril, .maio, .junho, .julho, .agosto, .setembro, .outubro, .novemnro, .dezembro {
+      margin-top: 213px;
+}
+
+@media (max-width: 980px) {
+  .março, .abril, .maio, .junho, .julho, .agosto, .setembro, .outubro, .novemnro, .dezembro {
+      margin-top: 258px;
+      zoom: 116%;
+}
+}
+
+.supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
+    position: absolute;
+    margin: 0 50% 0 50%;
+    width: 120px; 
+    height: 40px;
+    border-radius: 40px;
+}
+
+@media (max-width: 980px) {
+  .supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
+    zoom: 110%;
+}
+}
+
+@media (max-width: 979px) {
+  .supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
+    zoom: 89%;
+}
+}
+
+.proximos p {
+      text-align: center;
+      font-size: 14px;
+      font-family: 'Fjalla One', sans-serif;
+      letter-spacing: .272em;
+      margin-top: 11px;
+}
+
+.proximos p {
+      color: #8B0000;
+}
+
+.supermaio {
+     left: -530px; 
+}
+
+.superjunho {
+      left: -394px;
+}
+
+.superjulho {
+      left: -260px;
+}
+
+.superagosto {
+      left: -124px;
+}
+
+.supersetembro {
+     left: 10px;
+}
+
+.superoutubro {
+      left: 146px;
+}
+
+.supernovembro {
+      left: 283px;
+}
+
+.superdezembro {
+      left: 415px;
+}
+
+
+
+@media (max-width: 980px) {
+  .supermaio, .supersetembro {
+     left: -255px; 
+}
+}
+
+@media (max-width: 980px) {
+  .superjunho, .superoutubro {
+      left: -119px;
+}
+}
+
+@media (max-width: 980px) {
+  .superjulho, .supernovembro {
+      left: 15px;
+}
+}
+
+@media (max-width: 980px) {
+  .superagosto, .superdezembro {
+      left: 150px;
+}
+}
+
+.supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
+     top: 635px;
+}
+
+@media (max-width: 980px) {
+  .supermaio, .superjunho, .superjulho, .superagosto {
+     top: 757px;   
+}
+}
+
+@media (max-width: 980px) {
+  .supersetembro, .superoutubro, .supernovembro, .superdezembro {
+     top: 827px;   
+}
+}
+
+@media (max-width: 979px) {
+  .supermaio, .superjunho, .superjulho, .superagosto {
+     top: 718px;   
+}
+}
+
+@media (max-width: 979px) {
+  .supersetembro, .superoutubro, .supernovembro, .superdezembro {
+     top: 768px;   
+}
+}

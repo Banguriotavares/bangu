@@ -1,0 +1,311 @@
+@charset "UTF-8";
+
+.setembro {
+      position: absolute;
+      width: 100%;
+      background: #8B0000;
+      height: 3370px;
+}
+
+@media (max-width: 980px) {
+  .setembro {
+      height: 6800px;
+}
+}
+
+@media (max-width: 979px) {
+  .setembro {
+      zoom: 80%;
+}
+}
+
+h1 {
+    left: -120px;
+}
+
+@media (max-width: 980px) {
+  h1 {
+    left: -50px;
+}
+}
+
+.s1, .s2, .s3, .s4 {
+      top: 60px;
+}
+
+.s5, .r5, .t5 {
+      top: 390px;
+}
+
+.s6, .s7, .s8, .s9 {
+      top: 630px;
+}
+
+.s10, .s11, .s12, .s13 {
+      top: 870px;
+}
+
+.s14, .r14, .t14 {
+      top: 1197px;
+}
+
+.s15, .s16, .s17, .s18 {
+      top: 1440px;
+}
+
+.s19, .s20, .s21, .s22 {
+      top: 1685px;
+}
+
+.s23, .r23, .t23 {
+      top: 2010px;
+}
+
+.s24, .s25, .s26, .s27 {
+      top: 2255px;
+}
+
+.s28, .s29, .s30, .s31 {
+      top: 2500px;
+}
+
+.s32, .r32, .t32 {
+      top: 2835px;
+}
+
+.s33, .s34, .s35, .s36 {
+      top: 3080px;
+}
+
+.s37, .s38, .s39, .s40 {
+      top: 3325px;
+}
+
+
+.r5, .r14, .r23, .r32 {
+      left: -408px;
+}
+
+.s5, .s14, .s23, .s32 {
+      left: -118px;
+}
+
+.t5, .t14, .t23, .t32 {
+     left: 172px;
+}
+
+.s1, .s6, .s10, .s15, .s19, .s24, .s28, .s33, .s37 {
+     left: -550px;
+}
+
+.s2, .s7, .s11, .s16, .s20, .s25, .s29, .s34, .s38 {
+      left: -260px;
+}
+
+.s3, .s8, .s12, .s17, .s21, .s26, .s30, .s35, .s39 {
+      left: 23px;
+}
+
+.s4, .s9, .s13, .s18, .s22, .s27, .s31, .s36, .s40 {
+      left: 308px;
+}
+
+
+@media (max-width: 980px) {
+  .s1, .s2 {
+      top: 60px;
+}
+}
+
+@media (max-width: 980px) {
+  .s3, .s4 {
+      top: 315px;
+}
+}
+
+@media (max-width: 980px) {
+  .r5{
+      top: 755px;
+}
+}
+
+@media (max-width: 980px) {
+  .s5, .t5 {
+      top: 1015px;
+}
+}
+
+@media (max-width: 980px) {
+  .s6, .s7 {
+     top: 1270px;
+}
+}
+
+@media (max-width: 980px) {
+  .s8, .s9 {
+     top: 1525px;
+}
+}
+
+@media (max-width: 980px) {
+  .s10, .s11 {
+      top: 1780px;
+}
+}
+
+@media (max-width: 980px) {
+  .s12, .s13 {
+      top: 2035px;
+}
+}
+
+@media (max-width: 980px) {
+  .r14 {
+      top: 2475px;
+}
+}
+
+@media (max-width: 980px) {
+  .s14, .t14 {
+      top: 2735px;
+}
+}
+
+@media (max-width: 980px) {
+  .s15, .s16 {
+      top: 2995px;
+}
+}
+
+@media (max-width: 980px) {
+  .s17, .s18 {
+      top: 3255px;
+}
+}
+
+@media (max-width: 980px) {
+  .s19, .s20 {
+      top: 3513px;
+}
+}
+
+@media (max-width: 980px) {
+  .s21, .s22 {
+      top: 3770px;
+}
+}
+
+@media (max-width: 980px) {
+  .r23 {
+      top: 4210px;
+}
+}
+
+@media (max-width: 980px) {
+  .s23, .t23 {
+      top: 4465px;
+}
+}
+
+@media (max-width: 980px) {
+  .s24, .s25 {
+      top: 4720px;
+}
+}
+
+@media (max-width: 980px) {
+  .s26, .s27 {
+      top: 4980px;
+}
+}
+
+@media (max-width: 980px) {
+  .s28, .s29 {
+      top: 5235px;
+}
+}
+
+@media (max-width: 980px) {
+  .s30, .s31 {
+      top: 5490px;
+}
+}
+
+@media (max-width: 980px) {
+  .r32 {
+      top: 5930px;
+}
+}
+
+@media (max-width: 980px) {
+  .s32, .t32 {
+      top: 6190px;
+}
+}
+
+@media (max-width: 980px) {
+  .s33, .s34 {
+      top: 6450px;
+}
+}
+
+@media (max-width: 980px) {
+  .s35, .s36 {
+      top: 6705px;
+}
+}
+
+@media (max-width: 980px) {
+  .s37, .s38 {
+      top: 6960px;
+}
+}
+
+@media (max-width: 980px) {
+  .s39, .s40 {
+      top: 7215px;
+}
+}
+
+@media (max-width: 980px) {
+  .s1, .s3, .s5, .s6, .s8, .s10, .s12, .s14, .s15, .s17, .s19, .s21, .s23, .s24, .s26, .s28, .s30, .s32, .s33, .s35, .s37, .s39 {
+      left: -270px;
+}
+}
+
+@media (max-width: 980px) {
+  .s2, .s4, .s7, .s9, .s11, .s13, .s16, .s18, .s20, .s22, .s25, .s27, .s29, .s31, .s34, .s36, .s38, .s40, .t5, .t14, .t23, .t32 {
+      left:30px;
+}
+}
+
+@media (max-width: 980px) {
+  .r5, .r14, .r23, .r32 {
+      left: -125px;
+}
+}
+
+.supermarço, .superabril, .supermaio, .superjunho, .superjulho, .superagosto, .superoutubro, .supernovembro, .superdezembro {
+    background-color: white;
+    box-shadow: 0 0 5px black;
+}
+
+#patrocinio {
+  top: 4100px;
+}
+
+@media (max-width: 980px) {
+  #patrocinio {
+  top: 8885px;
+}
+}
+
+#roda {
+  margin-top: 4030px;
+}
+
+@media (max-width: 980px) {
+  #roda {
+  margin-top: 8600px;
+}
+}

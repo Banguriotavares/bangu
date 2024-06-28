@@ -1,0 +1,261 @@
+@charset "UTF-8";
+
+.abril {
+      position: absolute;
+      width: 100%;
+      background: #8B0000;
+      height: 2840px;
+} 
+
+@media (max-width: 980px) {
+  .abril {
+      zoom: 110%;
+      height: 5050px;
+}
+}
+
+@media (max-width: 979px) {
+  .abril {
+      zoom: 80%;
+}
+}
+
+h1 {
+    left: -60px;
+}
+
+.s1, .r1, .t1 {
+      top: 60px;
+}
+
+.s2, .s3, .s4, .s5 {
+      top: 295px;
+}
+
+.s6, .s7, .s8, .s9 {
+      top: 528px;
+}
+
+.s10, .r10, .t10 {
+      top: 814px;
+}
+
+.s11, .s12, .s13, .s14 {
+      top: 1047px;
+}
+
+.s15, .s16, .s17, .s18 {
+      top: 1280px;
+}
+
+.s19, .r19, .t19 {
+      top: 1565px;
+}
+
+.s20, .s21, .s22, .s23 {
+      top: 1800px;
+}
+
+.s24, .s25, .s26, .s27 {
+      top: 2035px;
+}
+
+.s28, .r28, .t28 {
+      top: 2320px;
+}
+
+.s29, .s30, .s31, .s32 {
+      top: 2555px;
+}
+
+.s33, .s34, .s35, .s36 {
+      top: 2790px;
+}
+
+.r1, .r10, .r19, .r28 {
+      left: -408px;
+}
+
+.s1, .s10, .s19, .s28, .s37 {
+      left: -118px;
+}
+
+.t1, .t10, .t19, .t28 {
+     left: 172px;
+}
+
+.s2, .s6, .s11, .s15, .s20, .s24, .s29, .s33 {
+     left: -550px;
+}
+
+.s3, .s7, .s12, .s16, .s21, .s25, .s30, .s34 {
+      left: -260px;
+}
+
+.s4, .s8, .s13, .s17, .s22, .s26, .s31, .s35 {
+      left: 23px;
+}
+
+.s5, .s9, .s14, .s18, .s23, .s27, .s32, .s36 {
+      left: 308px;
+}
+
+@media (max-width: 980px) {
+  .s1 {
+      top: 60px;
+}
+}
+
+@media (max-width: 980px) {
+  .s2, .s3 {
+      top: 315px;
+}
+}
+
+@media (max-width: 980px) {
+  .s4, .s5 {
+      top: 565px;
+}
+}
+
+@media (max-width: 980px) {
+  .s6, .s7 {
+     top: 820px;
+}
+}
+
+@media (max-width: 980px) {
+  .s8, .s9 {
+     top: 1075px;
+}
+}
+
+@media (max-width: 980px) {
+  .s10 {
+      top: 1440px;
+}
+}
+
+@media (max-width: 980px) {
+  .s11, .s12 {
+      top: 1696px;
+}
+}
+
+@media (max-width: 980px) {
+  .s13, .s14 {
+      top: 1950px;
+}
+}
+
+@media (max-width: 980px) {
+  .s15, .s16 {
+      top: 2210px;
+}
+}
+
+@media (max-width: 980px) {
+  .s17, .s18 {
+      top: 2467px;
+}
+}
+
+@media (max-width: 980px) {
+  .s19 {
+      top: 2830px;
+}
+}
+
+@media (max-width: 980px) {
+  .s20, .s21 {
+      top: 3085px;
+}
+}
+
+@media (max-width: 980px) {
+  .s22, .s23 {
+      top: 3340px;
+}
+}
+
+@media (max-width: 980px) {
+  .s24, .s25 {
+      top: 3600px;
+}
+}
+
+@media (max-width: 980px) {
+  .s26, .s27 {
+      top: 3865px;
+}
+}
+
+@media (max-width: 980px) {
+  .s28 {
+      top: 4230px;
+}
+}
+
+@media (max-width: 980px) {
+  .s29, .s30 {
+      top: 4490px;
+}
+}
+
+@media (max-width: 980px) {
+  .s31, .s32 {
+      top: 4750px;
+}
+}
+
+@media (max-width: 980px) {
+  .s33, .s34 {
+      top: 5015px;
+}
+}
+
+@media (max-width: 980px) {
+  .s35, .s36 {
+      top: 5280px;
+}
+}
+
+
+@media (max-width: 980px) {
+  .s2, .s4, .s6, .s8, .s11, .s13, .s15, .s17, .s20, .s22, .s24, .s26, .s29, .s31, .s33, .s35 {
+      left: -270px;
+}
+}
+
+@media (max-width: 980px) {
+  .s3, .s5, .s7, .s9, .s12, .s14, .s16, .s18, .s21, .s23, .s25, .s27, .s30, .s32, .s34, .s36 {
+      left:30px;
+}
+}
+
+@media (max-width: 980px) {
+  .s1, .s10, .s19, .s28 {
+      left: -125px;
+}
+}
+
+.supermarço, .supermaio, .superjunho, .superjulho, .superagosto, .supersetembro, .superoutubro, .supernovembro, .superdezembro {
+    background-color: white;
+    box-shadow: 0 0 5px black;
+}
+
+#roda {
+  margin-top: 3054px;
+}
+
+@media (max-width: 980px) {
+  #roda {
+  margin-top: 5270px;
+}
+}
+
+@media (max-width: 979px) {
+  #roda {
+  margin-top: 5270px;
+}
+}
